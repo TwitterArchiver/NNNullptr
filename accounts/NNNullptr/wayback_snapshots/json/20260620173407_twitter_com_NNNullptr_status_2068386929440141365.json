@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2068012496154423579",
+    "created_at": "2026-06-20T17:34:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T18:34:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068386929440141365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2014534618964492288",
+          "start": 0,
+          "username": "wwuyanzu49"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068386929440141365",
+    "in_reply_to_user_id": "2014534618964492288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068373135335026705",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wwuyanzu49 这是触发验证了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2068012496154423579",
+        "created_at": "2026-06-20T17:34:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T18:34:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068386929440141365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2014534618964492288",
+              "start": 0,
+              "username": "wwuyanzu49"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068386929440141365",
+        "in_reply_to_user_id": "2014534618964492288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068373135335026705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwuyanzu49 这是触发验证了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014534618964492288",
+        "conversation_id": "2068012496154423579",
+        "created_at": "2026-06-20T16:39:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T17:39:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068373135335026705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1858727254345281536",
+              "start": 0,
+              "username": "NNNullptr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068373135335026705",
+        "in_reply_to_user_id": "1858727254345281536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068012496154423579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NNNullptr 为啥我的codex登录要我号码验证😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "Math Student & Tech Enthusiast",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1296,
+          "following_count": 176,
+          "like_count": 7028,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 1038
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-23T03:04:49.000Z",
+        "description": "",
+        "id": "2014534618964492288",
+        "name": "一點點",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029232612808769537/hhyrP3wf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 10,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 74
+        },
+        "url": "",
+        "username": "wwuyanzu49",
+        "verified": false
+      }
+    ]
+  }
+}

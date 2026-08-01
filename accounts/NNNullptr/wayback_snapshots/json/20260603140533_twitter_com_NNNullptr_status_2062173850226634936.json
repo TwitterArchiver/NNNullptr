@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2062173850226634936",
+    "created_at": "2026-06-03T14:05:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T15:05:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062173850226634936"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2062173850226634936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我看别人简历都写成绩绩点排名但是因为我的绩点太低了，只有2.8/5，我问了一下其他人有的说只有网申的时候需要填这些，还有的说普通简历上不用写成绩和绩点，所以我决定不写了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2062173850226634936",
+        "created_at": "2026-06-03T14:05:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T15:05:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062173850226634936"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062173850226634936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我看别人简历都写成绩绩点排名但是因为我的绩点太低了，只有2.8/5，我问了一下其他人有的说只有网申的时候需要填这些，还有的说普通简历上不用写成绩和绩点，所以我决定不写了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "Math Student & Tech Enthusiast",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1155,
+          "following_count": 173,
+          "like_count": 6430,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 874
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      }
+    ]
+  }
+}

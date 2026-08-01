@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2063050419480547811",
+    "created_at": "2026-06-06T23:44:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T00:44:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063406665685467275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1776452300816719872",
+          "start": 0,
+          "username": "VoicememoNo_11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063406665685467275",
+    "in_reply_to_user_id": "1776452300816719872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063050419480547811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VoicememoNo_11 我也是这样，买了太多东西，但是让我感到特别安心😌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2063050419480547811",
+        "created_at": "2026-06-06T23:44:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T00:44:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063406665685467275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1776452300816719872",
+              "start": 0,
+              "username": "VoicememoNo_11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063406665685467275",
+        "in_reply_to_user_id": "1776452300816719872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063050419480547811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VoicememoNo_11 我也是这样，买了太多东西，但是让我感到特别安心😌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776452300816719872",
+        "conversation_id": "2063050419480547811",
+        "created_at": "2026-06-06T00:08:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T01:08:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063050419480547811"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063050419480547811",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1052,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "成堆的可爱的物品会让我内心感到平静⁽¯꒳¯⁾因为我频繁闪回经历过的糟糕的人事物的时候会感到很孤立无助害怕感到只有做个糟糕的人做些坏孩子的事才能保护自己\n\n但是看到眼前的萌物们就好像在告诉我：现在很安全了呀bb你买了这么多萌萌的窝萌意味着就算做一个好孩子也有能力保护自己了呀(°ー°〃）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "Math Student & Tech Enthusiast",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1188,
+          "following_count": 172,
+          "like_count": 6585,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 933
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-06T03:30:17.000Z",
+        "description": "Voicememono_7小理俳句✍｜看到我的皮囊也请看到我的内脏@Lucifers6x｜死于话多的反派角色｜低浮上",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 33,
+                "username": "Lucifers6x"
+              }
+            ]
+          }
+        },
+        "id": "1776452300816719872",
+        "name": "江理",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947702789519589376/O59acdfO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30063,
+          "following_count": 102,
+          "like_count": 7460,
+          "listed_count": 28,
+          "media_count": 41,
+          "tweet_count": 2787
+        },
+        "username": "VoicememoNo_11",
+        "verified": false
+      }
+    ]
+  }
+}

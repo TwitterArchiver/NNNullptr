@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2063213971851870273",
+    "created_at": "2026-06-06T14:33:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T15:33:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063268014787825907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2044047208857718785",
+          "start": 0,
+          "username": "minsohouhetapen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063268014787825907",
+    "in_reply_to_user_id": "2044047208857718785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063213971851870273",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@minsohouhetapen 我用一秒就猜出来了是哪两个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2063213971851870273",
+        "created_at": "2026-06-06T14:33:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T15:33:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063268014787825907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2044047208857718785",
+              "start": 0,
+              "username": "minsohouhetapen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063268014787825907",
+        "in_reply_to_user_id": "2044047208857718785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063213971851870273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@minsohouhetapen 我用一秒就猜出来了是哪两个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044047208857718785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2063213971851870273",
+        "created_at": "2026-06-06T10:58:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T11:58:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063213971851870273"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/poca2381/statu…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/poca2381/status/2063104206035353853",
+              "start": 31,
+              "url": "https://t.co/uP8ojtpMJK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063213971851870273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3555,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063104206035353853",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "并不是所有的低学历者都不应该被歧视，就目前来说至少有两个例外 https://t.co/uP8ojtpMJK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "Math Student & Tech Enthusiast",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1190,
+          "following_count": 172,
+          "like_count": 6566,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 917
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-14T13:37:02.000Z",
+        "description": "于是漫长的季节结束了，故事在樱花飘落后得以续写",
+        "id": "2044047208857718785",
+        "location": "春日小径庭院",
+        "name": "ちとせ",
+        "pinned_tweet_id": "2056508951647375516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044047507643346945/jf-LsDvv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 679,
+          "following_count": 341,
+          "like_count": 2820,
+          "listed_count": 7,
+          "media_count": 64,
+          "tweet_count": 665
+        },
+        "username": "minsohouhetapen",
+        "verified": false
+      }
+    ]
+  }
+}

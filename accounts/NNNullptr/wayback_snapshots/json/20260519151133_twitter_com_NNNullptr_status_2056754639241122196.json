@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2056579935980945804",
+    "created_at": "2026-05-19T15:11:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T16:11:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056754639241122196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1599708309824897025",
+          "start": 0,
+          "username": "HoshiHiiragi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056754639241122196",
+    "in_reply_to_user_id": "1599708309824897025",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056579935980945804",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HoshiHiiragi 我感觉她真的好阿斯伯格啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056579925952409600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIpwi-KXsAAv5-6.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2056579926287880192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIpwi_aWkAA8nlz.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2056579935980945804",
+        "created_at": "2026-05-19T15:11:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T16:11:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056754639241122196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1599708309824897025",
+              "start": 0,
+              "username": "HoshiHiiragi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056754639241122196",
+        "in_reply_to_user_id": "1599708309824897025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056579935980945804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HoshiHiiragi 我感觉她真的好阿斯伯格啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056579925952409600",
+            "3_2056579926287880192"
+          ]
+        },
+        "author_id": "1599708309824897025",
+        "conversation_id": "2056579935980945804",
+        "created_at": "2026-05-19T03:37:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T04:37:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056579935980945804"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yIVVbItoB0",
+              "end": 156,
+              "expanded_url": "https://x.com/HoshiHiiragi/status/2056579935980945804/photo/1",
+              "media_key": "3_2056579925952409600",
+              "start": 133,
+              "url": "https://t.co/yIVVbItoB0"
+            },
+            {
+              "display_url": "pic.x.com/yIVVbItoB0",
+              "end": 156,
+              "expanded_url": "https://x.com/HoshiHiiragi/status/2056579935980945804/photo/1",
+              "media_key": "3_2056579926287880192",
+              "start": 133,
+              "url": "https://t.co/yIVVbItoB0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056579935980945804",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3091,
+          "like_count": 24,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自然女阿敲首谈听了霉霉的The Fate of Ophelia 后心得体会时曾提到，自己在听了多次后半夜就会比较想起来从冰箱里找一块猪排出来，炸煎一下，吃进嘴里时感觉自己肚子仿佛能撑船。因此更加能共情霉霉，释出肚子里能容下一整根红杉木的概念，完全是Wood本身…… https://t.co/yIVVbItoB0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "wish you have a good day",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1136,
+          "following_count": 159,
+          "like_count": 5783,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 713
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-05T10:12:46.000Z",
+        "description": "—一一—“希望，我的存在能够一直让你幸福。”—一一—\n柊 星:“我们电波系有自己的存活方式，我可能比较不正常一些。”——INTJ-06-中国/双鱼/中-日推-男同/电波/英专/番剧/音游/ボカロ/欧美猪圈/乐队/神椿/25時/不常键政/和有梗或有趣的人唠嗑-——“我有梦想，努力有没有用之后再想。”—私信已关—LINE↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/6ntM5aBnfa",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/6ntM5aBnfa",
+                "start": 0,
+                "url": "https://t.co/z6vqyGfKGb"
+              }
+            ]
+          }
+        },
+        "id": "1599708309824897025",
+        "location": "河北省废物保护协会  ‖   ヰ世界情緒ノ箱庭 ",
+        "name": "'柊 ほし.＇",
+        "pinned_tweet_id": "1972578310497636457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053031301733638147/1hnlCxj6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 726,
+          "following_count": 97,
+          "like_count": 8594,
+          "listed_count": 2,
+          "media_count": 2008,
+          "tweet_count": 7387
+        },
+        "url": "https://t.co/z6vqyGfKGb",
+        "username": "HoshiHiiragi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2057066423730786665",
+    "created_at": "2026-05-20T11:50:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T12:50:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057066423730786665"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/immortal_00994…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/immortal_00994/status/2057013290937839786",
+          "start": 13,
+          "url": "https://t.co/iQX6TZE8Zr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057066423730786665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057013290937839786",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🥶难道其他职业不是这样吗 https://t.co/iQX6TZE8Zr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057012141509795841",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIv5pOlbYAEH1zs.jpg",
+        "width": 1208
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2057066423730786665",
+        "created_at": "2026-05-20T11:50:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T12:50:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057066423730786665"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/immortal_00994…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/immortal_00994/status/2057013290937839786",
+              "start": 13,
+              "url": "https://t.co/iQX6TZE8Zr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057066423730786665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057013290937839786",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🥶难道其他职业不是这样吗 https://t.co/iQX6TZE8Zr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057012141509795841"
+          ]
+        },
+        "author_id": "1729996152676786176",
+        "conversation_id": "2057013290937839786",
+        "created_at": "2026-05-20T08:19:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T09:14:50.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057012156923891757",
+          "2057013290937839786"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6k4vOEhtFA",
+              "end": 96,
+              "expanded_url": "https://x.com/immortal_00994/status/2057013290937839786/photo/1",
+              "media_key": "3_2057012141509795841",
+              "start": 73,
+              "url": "https://t.co/6k4vOEhtFA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057013290937839786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "著名数学家，菲尔兹奖和阿贝尔奖双料得主 Timothy Gowers 看到 GPT pro 在数小时内完成一项博士级的数学任务后，在社媒发表感想\n\n“如果人工智能数学以任何类似于当前的速度继续发展——这正是我预计会发生的情况——那么我们将很快面临一场危机，而数学系作为对学生负有关怀义务的机构，应该紧急为此做好准备。”\n\n“许多年轻人正深深投入到一份可能在几年后就不复存在的职业中。”"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 134,
+          "impression_count": 48622,
+          "like_count": 335,
+          "quote_count": 5,
+          "reply_count": 16,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "著名数学家，菲尔兹奖和阿贝尔奖双料得主 Timothy Gowers 看到 GPT pro 在数小时内完成一项博士级的数学任务后，在社媒发表感想 https://t.co/6k4vOEhtFA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "wish you have a good day",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1135,
+          "following_count": 159,
+          "like_count": 5839,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 731
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-29T22:50:10.000Z",
+        "description": "INTP INTJ / Studying in 🇩🇪 / Master of Maths / Leftist / Maths & Physics / CS & AI / History / Polyglot 🇨🇳 🇬🇧 🇩🇪 🇫🇷 🇰🇷",
+        "id": "1729996152676786176",
+        "location": "Germany",
+        "name": "Karl e/acc",
+        "pinned_tweet_id": "2056495747462570417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886419073992429569/Jid6M3Ni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2984,
+          "following_count": 7492,
+          "like_count": 68626,
+          "listed_count": 16,
+          "media_count": 112,
+          "tweet_count": 4900
+        },
+        "username": "immortal_00994",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2074058325495574661",
+    "created_at": "2026-07-06T09:10:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T10:10:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074058325495574661"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NNNullptr/stat…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/NNNullptr/status/2073992621295329411",
+          "start": 14,
+          "url": "https://t.co/GxOzfXJ5ua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074058325495574661",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073992621295329411",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "应该是被脚本小子拿来练手了 https://t.co/GxOzfXJ5ua"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2074058325495574661",
+        "created_at": "2026-07-06T09:10:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T10:10:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074058325495574661"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NNNullptr/stat…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/NNNullptr/status/2073992621295329411",
+              "start": 14,
+              "url": "https://t.co/GxOzfXJ5ua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074058325495574661",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073992621295329411",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "应该是被脚本小子拿来练手了 https://t.co/GxOzfXJ5ua"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2073992621295329411",
+        "created_at": "2026-07-06T04:49:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T05:49:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073992621295329411"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073992621295329411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 238,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "半个月前有人往我留言板塞了一千多条留言把我网站都爆了，最近刚恢复就又被攻击了，对方应该都是挂了代理/套了高防来攻击的，我看之前留言板的留言好像是我惹过的人，但是我又不确定，因为我根本没有这么久远的记忆，不记得是什么时候闹掰的了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "捉摸不透的用户：南方的狼",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1298,
+          "following_count": 185,
+          "like_count": 7383,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 1122
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      }
+    ]
+  }
+}

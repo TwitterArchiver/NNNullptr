@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2049043191769514453",
+    "created_at": "2026-04-28T09:33:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T10:33:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049059347393822984"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1554424317483655175",
+          "start": 0,
+          "username": "yuu00401"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049059347393822984",
+    "in_reply_to_user_id": "1554424317483655175",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049043191769514453",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuu00401 炼铜城市"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2049043191769514453",
+        "created_at": "2026-04-28T09:33:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T10:33:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049059347393822984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1554424317483655175",
+              "start": 0,
+              "username": "yuu00401"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049059347393822984",
+        "in_reply_to_user_id": "1554424317483655175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049043191769514453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuu00401 炼铜城市"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554424317483655175",
+        "conversation_id": "2049043191769514453",
+        "created_at": "2026-04-28T08:29:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T09:29:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049043191769514453"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/GFWfrog/status…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/GFWfrog/status/2049021709542473934",
+              "start": 9,
+              "url": "https://t.co/mb80zRB6kE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049043191769514453",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 448,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049021709542473934",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "湖南没有文明城市 https://t.co/mb80zRB6kE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "wish you have a good day",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1096,
+          "following_count": 141,
+          "like_count": 5135,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 564
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-02T11:10:23.000Z",
+        "description": "原来我走了那么远，远到那些无话不谈，渐渐听不清了",
+        "id": "1554424317483655175",
+        "location": "拉尼亚凯亚超星系",
+        "name": "yuu🎀",
+        "pinned_tweet_id": "1979443587306647701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931386075710365696/hZ7z3fLj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4006,
+          "following_count": 766,
+          "like_count": 73079,
+          "listed_count": 6,
+          "media_count": 2339,
+          "tweet_count": 34505
+        },
+        "username": "yuu00401",
+        "verified": false
+      }
+    ]
+  }
+}

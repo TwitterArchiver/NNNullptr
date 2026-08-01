@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2059328183410020805",
+    "created_at": "2026-05-26T17:46:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T18:46:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059330332097417332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1837696530427662337",
+          "start": 0,
+          "username": "veuosb117724"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059330332097417332",
+    "in_reply_to_user_id": "1837696530427662337",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059328681257107866",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@veuosb117724 就是因为觉得需要不断填满自己的空间，但是不管怎么填总会有空缺，所以一直不满足😔。当然也会有阶段性地觉得满足了很有安全感，但是没过多久就进入下一阶段"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2059328183410020805",
+        "created_at": "2026-05-26T17:46:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T18:46:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059330332097417332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1837696530427662337",
+              "start": 0,
+              "username": "veuosb117724"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059330332097417332",
+        "in_reply_to_user_id": "1837696530427662337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059328681257107866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@veuosb117724 就是因为觉得需要不断填满自己的空间，但是不管怎么填总会有空缺，所以一直不满足😔。当然也会有阶段性地觉得满足了很有安全感，但是没过多久就进入下一阶段"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837696530427662337",
+        "conversation_id": "2059328183410020805",
+        "created_at": "2026-05-26T17:39:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T18:39:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059328681257107866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1858727254345281536",
+              "start": 0,
+              "username": "NNNullptr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059328681257107866",
+        "in_reply_to_user_id": "1858727254345281536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059328183410020805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NNNullptr 填满自己的空间也是可以有安全感的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "不要紧张",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1141,
+          "following_count": 166,
+          "like_count": 6041,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 806
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-22T03:32:57.000Z",
+        "description": "",
+        "id": "1837696530427662337",
+        "name": "veuosb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049919931798732800/yhn4vx8b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 49,
+          "like_count": 973,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 273
+        },
+        "username": "veuosb117724",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2051609910224597247",
+    "created_at": "2026-05-05T10:28:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T11:28:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051609910224597247"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ewind_dev/stat…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/ewind_dev/status/2051473416251900408",
+          "start": 5,
+          "url": "https://t.co/cgbq7ND4iR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051609910224597247",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051473416251900408",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这期神了 https://t.co/cgbq7ND4iR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 373,
+        "media_key": "3_2051473408551227392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHhMMibbEAAade7.jpg",
+        "width": 1021
+      },
+      {
+        "height": 887,
+        "media_key": "3_2051473408316325888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHhMMhjawAAf7tF.jpg",
+        "width": 1774
+      },
+      {
+        "height": 800,
+        "media_key": "3_2051473408312086528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHhMMhiaEAALByH.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1086,
+        "media_key": "3_2051473408534446080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHhMMiXbAAAV0eL.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2051609910224597247",
+        "created_at": "2026-05-05T10:28:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T11:28:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051609910224597247"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ewind_dev/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/ewind_dev/status/2051473416251900408",
+              "start": 5,
+              "url": "https://t.co/cgbq7ND4iR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051609910224597247",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051473416251900408",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这期神了 https://t.co/cgbq7ND4iR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051473408551227392",
+            "3_2051473408316325888",
+            "3_2051473408312086528",
+            "3_2051473408534446080"
+          ]
+        },
+        "author_id": "1265957219612258307",
+        "conversation_id": "2051473416251900408",
+        "created_at": "2026-05-05T01:25:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T02:25:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051473416251900408"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sp6XvWizWj",
+              "end": 69,
+              "expanded_url": "https://x.com/ewind_dev/status/2051473416251900408/photo/1",
+              "media_key": "3_2051473408551227392",
+              "start": 46,
+              "url": "https://t.co/sp6XvWizWj"
+            },
+            {
+              "display_url": "pic.x.com/sp6XvWizWj",
+              "end": 69,
+              "expanded_url": "https://x.com/ewind_dev/status/2051473416251900408/photo/1",
+              "media_key": "3_2051473408316325888",
+              "start": 46,
+              "url": "https://t.co/sp6XvWizWj"
+            },
+            {
+              "display_url": "pic.x.com/sp6XvWizWj",
+              "end": 69,
+              "expanded_url": "https://x.com/ewind_dev/status/2051473416251900408/photo/1",
+              "media_key": "3_2051473408312086528",
+              "start": 46,
+              "url": "https://t.co/sp6XvWizWj"
+            },
+            {
+              "display_url": "pic.x.com/sp6XvWizWj",
+              "end": 69,
+              "expanded_url": "https://x.com/ewind_dev/status/2051473416251900408/photo/1",
+              "media_key": "3_2051473408534446080",
+              "start": 46,
+              "url": "https://t.co/sp6XvWizWj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051473416251900408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "受到蒙古上单启发，炼了一个 meme 提示词\n\n将任意输入图重绘为白底超极简抽象 meme 海报。只借用原图的构图骨架：主体位置、大小关系、前后层级、动作方向、视觉节奏和情绪对比。删除所有文字、UI、logo、水印、表情、五官、服装、纹理、背景细节和身份信息。人物、动物、物体全部转译为圆、椭圆、圆角块、胶囊形、软剪影和少量点状符号。保留“谁在何处、谁大谁小、谁与谁形成关系”的结构感，但不保留具体内容。低饱和淡彩，浅灰辅助，大量留白，扁平矢量，圆润，无描边，无写实，无细节，像近乎示意图的抽象 meme 图标。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 485,
+          "impression_count": 64452,
+          "like_count": 654,
+          "quote_count": 12,
+          "reply_count": 17,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "受到蒙古上单启发，炼了一个 meme 提示词\n\n将任意输入图重绘为白底超极简抽象 meme https://t.co/sp6XvWizWj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "wish you have a good day",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1116,
+          "following_count": 146,
+          "like_count": 5322,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 621
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-28T10:45:06.000Z",
+        "description": "ex @lovart_ai / cofounded @AffineOfficial / aka 雪碧 / building @spoollabs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "lovart_ai"
+              },
+              {
+                "end": 41,
+                "start": 26,
+                "username": "AffineOfficial"
+              },
+              {
+                "end": 72,
+                "start": 62,
+                "username": "spoollabs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/doodlewind",
+                "end": 23,
+                "expanded_url": "https://github.com/doodlewind",
+                "start": 0,
+                "url": "https://t.co/gRTdn1DNE0"
+              }
+            ]
+          }
+        },
+        "id": "1265957219612258307",
+        "location": "Singapore",
+        "name": "Yifeng \"Evan\" Wang",
+        "pinned_tweet_id": "2037712463723135089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949275362262913024/r3t_A4R2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11643,
+          "following_count": 1350,
+          "like_count": 6747,
+          "listed_count": 98,
+          "media_count": 368,
+          "tweet_count": 1460
+        },
+        "url": "https://t.co/gRTdn1DNE0",
+        "username": "ewind_dev",
+        "verified": true
+      }
+    ]
+  }
+}

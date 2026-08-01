@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2033231169672843699",
+    "created_at": "2026-03-15T17:17:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T18:17:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033231169672843699"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2033231169672843699",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "脑子里已经把自己染绿发→蓝发→紫发→粉发的顺序计划好了，但是还没有想好什么时候开始漂头发，工具已经都到了🥶🥶🥶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2033231169672843699",
+        "created_at": "2026-03-15T17:17:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T18:17:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033231169672843699"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033231169672843699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "脑子里已经把自己染绿发→蓝发→紫发→粉发的顺序计划好了，但是还没有想好什么时候开始漂头发，工具已经都到了🥶🥶🥶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "wish you have a good day",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "http://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/eTavjpxMtr"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2031630035707437373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990335184202588161/WaT_RP5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 878,
+          "following_count": 107,
+          "like_count": 4451,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 392
+        },
+        "url": "https://t.co/eTavjpxMtr",
+        "username": "NNNullptr",
+        "verified": false
+      }
+    ]
+  }
+}

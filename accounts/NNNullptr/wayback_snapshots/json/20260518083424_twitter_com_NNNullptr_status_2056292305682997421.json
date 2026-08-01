@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2056252027253186931",
+    "created_at": "2026-05-18T08:34:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T09:34:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056292305682997421"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1829604450710990848",
+          "start": 0,
+          "username": "64bytesquared"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056292305682997421",
+    "in_reply_to_user_id": "1829604450710990848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056252027253186931",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@64bytesquared 还有这种验证啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2056252027253186931",
+        "created_at": "2026-05-18T08:34:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T09:34:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056292305682997421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1829604450710990848",
+              "start": 0,
+              "username": "64bytesquared"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056292305682997421",
+        "in_reply_to_user_id": "1829604450710990848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056252027253186931",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@64bytesquared 还有这种验证啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829604450710990848",
+        "conversation_id": "2056252027253186931",
+        "created_at": "2026-05-18T05:54:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T06:54:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056252027253186931"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056252027253186931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 122,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个我觉得很丢脸的事\n我到现在都过不去手性碳验证……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "wish you have a good day",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1137,
+          "following_count": 156,
+          "like_count": 5755,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 704
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-30T19:38:43.000Z",
+        "description": "arguments, arguments",
+        "id": "1829604450710990848",
+        "location": "d/acc",
+        "name": "83",
+        "pinned_tweet_id": "2006346092762562979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054437895763865600/-mHt5vns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 190,
+          "like_count": 11693,
+          "listed_count": 1,
+          "media_count": 119,
+          "tweet_count": 1043
+        },
+        "username": "64bytesquared",
+        "verified": false
+      }
+    ]
+  }
+}

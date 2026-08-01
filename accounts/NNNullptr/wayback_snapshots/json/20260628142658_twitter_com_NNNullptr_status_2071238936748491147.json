@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2071138637815902523",
+    "created_at": "2026-06-28T14:26:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T15:26:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071238936748491147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1123385386363969536",
+          "start": 0,
+          "username": "yozuha15"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071238936748491147",
+    "in_reply_to_user_id": "1123385386363969536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071138637815902523",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yozuha15 我就这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2071138637815902523",
+        "created_at": "2026-06-28T14:26:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T15:26:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071238936748491147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1123385386363969536",
+              "start": 0,
+              "username": "yozuha15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071238936748491147",
+        "in_reply_to_user_id": "1123385386363969536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071138637815902523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yozuha15 我就这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1123385386363969536",
+        "conversation_id": "2071138637815902523",
+        "created_at": "2026-06-28T07:48:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T08:48:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071138637815902523"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shadouyoua/sta…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/shadouyoua/status/2070891482459029794",
+              "start": 17,
+              "url": "https://t.co/MbJdOxfPVW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071138637815902523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 748,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070891482459029794",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就这样  已经完全被奶头乐操纵 https://t.co/MbJdOxfPVW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "捉摸不透的用户：南方的狼",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1296,
+          "following_count": 182,
+          "like_count": 7247,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 1069
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-01T00:35:22.000Z",
+        "description": "=鱼子酱   水豚转发bot，本体是水豚‖虎鲸性恋月性恋三文鱼性恋‖真的不会写代码‖不懂二次元的美妙的人永别了",
+        "id": "1123385386363969536",
+        "location": "外太空✨",
+        "name": "讴歌终结之物",
+        "pinned_tweet_id": "2063606076680110262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046976246685544448/1ngCNHt5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3036,
+          "following_count": 1560,
+          "like_count": 9973,
+          "listed_count": 10,
+          "media_count": 1588,
+          "tweet_count": 15936
+        },
+        "url": "",
+        "username": "yozuha15",
+        "verified": true
+      }
+    ]
+  }
+}

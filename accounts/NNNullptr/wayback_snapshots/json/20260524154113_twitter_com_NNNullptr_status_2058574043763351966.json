@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2058554441775861896",
+    "created_at": "2026-05-24T15:41:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T16:41:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058574043763351966"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "928237813425872896",
+          "start": 0,
+          "username": "holegots"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058574043763351966",
+    "in_reply_to_user_id": "928237813425872896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058554441775861896",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@holegots 唉可是我感觉这种人这么干真的会前人砍树后人暴晒，虽然我是真的感觉到包装的重要性了，居然还能这么搞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2058554441775861896",
+        "created_at": "2026-05-24T15:41:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T16:41:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058574043763351966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "928237813425872896",
+              "start": 0,
+              "username": "holegots"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058574043763351966",
+        "in_reply_to_user_id": "928237813425872896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058554441775861896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@holegots 唉可是我感觉这种人这么干真的会前人砍树后人暴晒，虽然我是真的感觉到包装的重要性了，居然还能这么搞"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "928237813425872896",
+        "conversation_id": "2058554441775861896",
+        "created_at": "2026-05-24T14:23:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T15:23:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058554441775861896"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058554441775861896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "目前实习生也基本不会大家背调之类的, 中间存在了巨大的套利机会, 即使转正不过, 也可以通过 P 图说自己有百万大包, 来压力其他公司 or 抬高身价.\n阿 Su 对于当前的应届生的启示就是\n1. 你应该努力学会蹭项目和营销\n2. 学会 P 图 & 暗示\n3. 把不好证伪的产出包装成自己的, 没有人会来主动澄清你.\n4. 很多岗位本身没什么难度, 只是门槛需要比较高, 可以 reward hack\n5. 你可以失败无数次, 面试官失误一次就你就进去了\n\n我觉得阿 Su 这个人算是和牢田一样的里程碑人物了.\n牢田以后所有的实习生都被收紧了权限以及砍掉了异地实习 & 远程\n阿 Su 则是发现了蹭开源和混圈子能 Reward Hack , 尤其现在 Agent 时代各家都不写代码, 只需要能吹能包装, 总有面试官会上当. \n另外的事实则是各位组里真的碰到了这样的事, 其实也不会往外说这个人的问题, 天然的套利空间.\n当然一切是前提的是你能有足够好的抗压能力."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 4353,
+          "like_count": 74,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "目前实习生也基本不会大家背调之类的, 中间存在了巨大的套利机会, 即使转正不过, 也可以通过 P 图说自己有百万大包, 来压力其他公司 or 抬高身价.\n阿 Su 对于当前的应届生的启示就是\n1. 你应该努力学会蹭项目和营销\n2. 学会 P 图 &amp; 暗示\n3. 把不好证伪的产出包装成自己的, 没有人会来主动澄清你.\n4."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "不要紧张",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1138,
+          "following_count": 163,
+          "like_count": 5927,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 760
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-08T12:28:35.000Z",
+        "description": "🤡愚钝之人 \n爱大错㭭字 MLSYS & 韭菜 & DePin",
+        "id": "928237813425872896",
+        "location": "Shanghai",
+        "name": "Holegots",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1426952130921861123/mwTHnZXq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11508,
+          "following_count": 1966,
+          "like_count": 10243,
+          "listed_count": 83,
+          "media_count": 268,
+          "tweet_count": 3192
+        },
+        "username": "holegots",
+        "verified": true
+      }
+    ]
+  }
+}

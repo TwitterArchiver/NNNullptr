@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2040968166290214986",
+    "created_at": "2026-04-06T16:20:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T17:20:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041189317167689862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2004574270916268033",
+          "start": 0,
+          "username": "Nssymwhsg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041189317167689862",
+    "in_reply_to_user_id": "2004574270916268033",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040968166290214986",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nssymwhsg 精品大果品尝中"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2040968166290214986",
+        "created_at": "2026-04-06T16:20:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T17:20:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041189317167689862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2004574270916268033",
+              "start": 0,
+              "username": "Nssymwhsg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041189317167689862",
+        "in_reply_to_user_id": "2004574270916268033",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040968166290214986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nssymwhsg 精品大果品尝中"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004574270916268033",
+        "conversation_id": "2040968166290214986",
+        "created_at": "2026-04-06T01:41:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T02:41:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040968166290214986"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040968166290214986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5573,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是我的错觉吗，我真的感觉湖南超多人随地吐痰，不管男女，当然男的更多，我只要在户外，耳边吐痰的声音没停过，难道呆在湖南痰会比较多吗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "wish you have a good day",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2031630035707437373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1050,
+          "following_count": 118,
+          "like_count": 4754,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 437
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-26T15:26:29.000Z",
+        "description": "什么都发。4i /不加v（女生来者不拒）私信骚扰我的默认你想被我操。@MaxLawrenc42000 仅过女生、互关或口令打赏。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 34,
+                "username": "MaxLawrenc42000"
+              }
+            ]
+          }
+        },
+        "id": "2004574270916268033",
+        "name": "Nssymw",
+        "pinned_tweet_id": "2024476139696378145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004574891719507968/kUdZI6nb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1587,
+          "following_count": 507,
+          "like_count": 5867,
+          "listed_count": 3,
+          "media_count": 126,
+          "tweet_count": 2495
+        },
+        "username": "Nssymwhsg",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2069896603511771537",
+    "created_at": "2026-06-25T03:55:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T04:55:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069992762238271747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1489468526826082312",
+          "start": 0,
+          "username": "Diamond_Kokoro"
+        },
+        {
+          "end": 32,
+          "id": "1077906424661856257",
+          "start": 16,
+          "username": "nf0RvF9qLpjzOpv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069992762238271747",
+    "in_reply_to_user_id": "1489468526826082312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069896603511771537",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Diamond_Kokoro @nf0RvF9qLpjzOpv 很闹麻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2069896603511771537",
+        "created_at": "2026-06-25T03:55:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T04:55:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069992762238271747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1489468526826082312",
+              "start": 0,
+              "username": "Diamond_Kokoro"
+            },
+            {
+              "end": 32,
+              "id": "1077906424661856257",
+              "start": 16,
+              "username": "nf0RvF9qLpjzOpv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069992762238271747",
+        "in_reply_to_user_id": "1489468526826082312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069896603511771537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Diamond_Kokoro @nf0RvF9qLpjzOpv 很闹麻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1489468526826082312",
+        "conversation_id": "2069896603511771537",
+        "created_at": "2026-06-24T21:33:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T22:33:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069896603511771537"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/miao_otvto_/st…",
+              "end": 112,
+              "expanded_url": "https://twitter.com/miao_otvto_/status/2069366771749199891",
+              "start": 89,
+              "url": "https://t.co/IeakMTJloM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069896603511771537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这是一句很闹麻、很辱女的话⋯它的意思其实是：「女人就算想干坏事，并且在自己能力范围内干尽了坏事，坏到了极点，所能造成的伤害、破坏和影响力，也不过相当于一个平平无奇的男人。」➡️ 「女性在主动地、服从自己意愿地投身某项事业（哪怕是恶的事业）的时候，她的能力上限连男性的平均水平都达不到。」更进一步地，「真正的大奸大恶、大权大势、大规模的破坏，本来就是男人的领域；女人即使想做，也做不到那个程度。」如果这句话讨论的不是对道德和伦理的反叛，而是历史和政治的维度就更可怕，意思是真正颠覆性的历史只能为男人所创造。\n\n连萨冈都说过：「女人若有权力，也会和男人一样腐败。」如果過了這麼些年现在的「女权」/「爱女运动」只是认为「女性是无法作恶（要么女性能力不足无法犯下真正的恶行，要么女性本质地或建构地内蕴了父权道德从而不会想要作恶）的主体，只能做父权道德下的道德楷模」，那才是開了倒車、是對父权叙事最大的迎合，因为這樣的說法从根本上否定了女性对秩序的颠覆性、反抗性和粉碎性的力量⋯"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1272,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069366771749199891",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是一句很闹麻、很辱女的话⋯它的意思其实是：「女人就算想干坏事，并且在自己能力范围内干尽了坏事，坏到了极点，所能造成的伤害、破坏和影响力，也不过相当于一个平平无奇的男人。」➡️ https://t.co/IeakMTJloM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "那种捉摸不透的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1297,
+          "following_count": 179,
+          "like_count": 7126,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 1049
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-04T05:19:13.000Z",
+        "description": "戀人：@irisdesombres 。祢的命令就是我的愿望。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "irisdesombres"
+              }
+            ]
+          }
+        },
+        "id": "1489468526826082312",
+        "name": "小羽",
+        "pinned_tweet_id": "2047343219063840775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068835297421574144/X1tfveHx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 682,
+          "following_count": 163,
+          "like_count": 11024,
+          "listed_count": 3,
+          "media_count": 335,
+          "tweet_count": 7576
+        },
+        "url": "",
+        "username": "Diamond_Kokoro",
+        "verified": true
+      },
+      {
+        "created_at": "2018-12-26T12:38:12.000Z",
+        "description": "",
+        "id": "1077906424661856257",
+        "name": "2501_0",
+        "pinned_tweet_id": "1177544367357100034",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 79,
+          "like_count": 431345,
+          "listed_count": 1,
+          "media_count": 244,
+          "tweet_count": 186744
+        },
+        "url": "",
+        "username": "nf0RvF9qLpjzOpv",
+        "verified": false
+      }
+    ]
+  }
+}

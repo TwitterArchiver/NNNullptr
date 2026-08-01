@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2056988754636890557",
+    "created_at": "2026-05-20T12:34:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T13:34:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057077568122286343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1939294656514453505",
+          "start": 0,
+          "username": "ddlady342982"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057077568122286343",
+    "in_reply_to_user_id": "1939294656514453505",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057071446011400569",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ddlady342982 妈呀这么便宜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2056988754636890557",
+        "created_at": "2026-05-20T12:34:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T13:34:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057077568122286343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1939294656514453505",
+              "start": 0,
+              "username": "ddlady342982"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057077568122286343",
+        "in_reply_to_user_id": "1939294656514453505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057071446011400569",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ddlady342982 妈呀这么便宜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939294656514453505",
+        "conversation_id": "2056988754636890557",
+        "created_at": "2026-05-20T12:10:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T13:10:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057071446011400569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1858727254345281536",
+              "start": 0,
+              "username": "NNNullptr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057071446011400569",
+        "in_reply_to_user_id": "1858727254345281536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057035938677875186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NNNullptr 人民币80"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "wish you have a good day",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1135,
+          "following_count": 159,
+          "like_count": 5843,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 733
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-29T12:07:45.000Z",
+        "description": "专注于 AI 应用",
+        "id": "1939294656514453505",
+        "name": "大赌翔平",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939294719131201536/OYuXyFjb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 152,
+          "like_count": 1434,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 795
+        },
+        "username": "ddlady342982",
+        "verified": false
+      }
+    ]
+  }
+}

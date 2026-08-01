@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2060404892813144330",
+    "created_at": "2026-05-29T19:54:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T20:54:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060449820540879004"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "879142541119037440",
+          "start": 0,
+          "username": "ronwongdaisuke"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060449820540879004",
+    "in_reply_to_user_id": "879142541119037440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060443322246992023",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ronwongdaisuke 上网看了太多焦虑信息，感觉好像再过两年好像就没有工作了一样，，非常后悔读了数学"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2060404892813144330",
+        "created_at": "2026-05-29T19:54:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T20:54:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060449820540879004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "879142541119037440",
+              "start": 0,
+              "username": "ronwongdaisuke"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060449820540879004",
+        "in_reply_to_user_id": "879142541119037440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060443322246992023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ronwongdaisuke 上网看了太多焦虑信息，感觉好像再过两年好像就没有工作了一样，，非常后悔读了数学"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "879142541119037440",
+        "conversation_id": "2060404892813144330",
+        "created_at": "2026-05-29T19:29:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T20:29:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060443322246992023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1858727254345281536",
+              "start": 0,
+              "username": "NNNullptr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060443322246992023",
+        "in_reply_to_user_id": "1858727254345281536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060404892813144330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NNNullptr 你才大二吧別擔心呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "Math Student & Tech Enthusiast",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1149,
+          "following_count": 169,
+          "like_count": 6236,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 845
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-26T01:01:30.000Z",
+        "description": "日本流行曲小説動畫|歡迎交友",
+        "id": "879142541119037440",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "七草",
+        "pinned_tweet_id": "1883122685355679804",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932892420401999872/MDI70oAx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 63,
+          "like_count": 4141,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 266
+        },
+        "username": "ronwongdaisuke",
+        "verified": false
+      }
+    ]
+  }
+}

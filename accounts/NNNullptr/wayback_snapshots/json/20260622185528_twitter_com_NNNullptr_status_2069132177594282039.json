@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2069113135932624974",
+    "created_at": "2026-06-22T18:55:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T19:55:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069132177594282039"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1803642368949886976",
+          "start": 0,
+          "username": "xiaoguai041003"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069132177594282039",
+    "in_reply_to_user_id": "1803642368949886976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069113135932624974",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoguai041003 好像就是这样直接戴，不过这个看起来好像有点软，也许绑在脑袋后面一点效果会好看一些"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2069113125492903936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLb3bM0aUAAe62p.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2069113125505470464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLb3bM3aEAAYMRu.jpg",
+        "width": 3024
+      },
+      {
+        "height": 2197,
+        "media_key": "3_2069113125497098240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLb3bM1aUAApAJN.jpg",
+        "width": 1648
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2069113135932624974",
+        "created_at": "2026-06-22T18:55:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T19:55:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069132177594282039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1803642368949886976",
+              "start": 0,
+              "username": "xiaoguai041003"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069132177594282039",
+        "in_reply_to_user_id": "1803642368949886976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069113135932624974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoguai041003 好像就是这样直接戴，不过这个看起来好像有点软，也许绑在脑袋后面一点效果会好看一些"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069113125492903936",
+            "3_2069113125505470464",
+            "3_2069113125497098240"
+          ]
+        },
+        "author_id": "1803642368949886976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2069113135932624974",
+        "created_at": "2026-06-22T17:39:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T18:39:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069113135932624974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B60PLwZ2uu",
+              "end": 70,
+              "expanded_url": "https://x.com/xiaoguai041003/status/2069113135932624974/photo/1",
+              "media_key": "3_2069113125492903936",
+              "start": 47,
+              "url": "https://t.co/B60PLwZ2uu"
+            },
+            {
+              "display_url": "pic.x.com/B60PLwZ2uu",
+              "end": 70,
+              "expanded_url": "https://x.com/xiaoguai041003/status/2069113135932624974/photo/1",
+              "media_key": "3_2069113125505470464",
+              "start": 47,
+              "url": "https://t.co/B60PLwZ2uu"
+            },
+            {
+              "display_url": "pic.x.com/B60PLwZ2uu",
+              "end": 70,
+              "expanded_url": "https://x.com/xiaoguai041003/status/2069113135932624974/photo/1",
+              "media_key": "3_2069113125497098240",
+              "start": 47,
+              "url": "https://t.co/B60PLwZ2uu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069113135932624974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 445,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "萌妹子们你们到底怎么戴这种扁平的波奈特的啊？为什么我戴上去从侧面看好奇怪啊。。。求教程。。。 https://t.co/B60PLwZ2uu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "捉摸不透",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1299,
+          "following_count": 177,
+          "like_count": 7073,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 1041
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-20T04:14:02.000Z",
+        "description": "毛儿的日记本|纯绿 |日常and碎碎念|不线下不约 | 推广自辨",
+        "id": "1803642368949886976",
+        "location": " Tokyo ",
+        "name": "小毛米",
+        "pinned_tweet_id": "2068611431579459836",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941726080655593472/ydrsm3AW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12958,
+          "following_count": 343,
+          "like_count": 51819,
+          "listed_count": 18,
+          "media_count": 537,
+          "tweet_count": 13246
+        },
+        "url": "",
+        "username": "xiaoguai041003",
+        "verified": false
+      }
+    ]
+  }
+}

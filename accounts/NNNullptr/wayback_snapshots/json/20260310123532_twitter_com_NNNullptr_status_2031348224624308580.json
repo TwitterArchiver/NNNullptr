@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2031059667561128089",
+    "created_at": "2026-03-10T12:35:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T13:35:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031348224624308580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1266711219425034241",
+          "start": 0,
+          "username": "Mcdonaldism_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031348224624308580",
+    "in_reply_to_user_id": "1266711219425034241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031059667561128089",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mcdonaldism_ 啥时候把峰哥放出来😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2031059667561128089",
+        "created_at": "2026-03-10T12:35:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T13:35:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031348224624308580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1266711219425034241",
+              "start": 0,
+              "username": "Mcdonaldism_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031348224624308580",
+        "in_reply_to_user_id": "1266711219425034241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031059667561128089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mcdonaldism_ 啥时候把峰哥放出来😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1266711219425034241",
+        "conversation_id": "2031059667561128089",
+        "created_at": "2026-03-09T17:28:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T18:28:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031059667561128089"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031059667561128089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 10688,
+          "like_count": 222,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "中国直播行业缺了谁唯独不能缺了一个桃崽拷打春雨恋爱脑女大、一个勇哥拷打励志文盲宝妈，再加一个峰哥拷打压抑笔电男大。这仨少了哪一个我的互联网都很难看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "wish you have a good day",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "http://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/eTavjpxMtr"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "1871186436877357201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990335184202588161/WaT_RP5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 881,
+          "following_count": 106,
+          "like_count": 4389,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 365
+        },
+        "url": "https://t.co/eTavjpxMtr",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-30T12:41:23.000Z",
+        "description": "粉红老保勿扰｜无论你是否是麦神的信徒，无论你的种族肤色性别，无论今天是星期几，你都可以享用13.9元麦当劳神教的1+1圣餐，麦神平等的爱世人，麦门🙏｜🐧相关❌盗图❌搬运",
+        "id": "1266711219425034241",
+        "location": "无所谓我会在网上到处拉屎",
+        "name": "麦当劳一根一根那个东西放进喙里好舒服",
+        "pinned_tweet_id": "2030650130597351633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920432920826687488/Qhhz0NjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6352,
+          "following_count": 1166,
+          "like_count": 44639,
+          "listed_count": 29,
+          "media_count": 328,
+          "tweet_count": 14424
+        },
+        "username": "Mcdonaldism_",
+        "verified": false
+      }
+    ]
+  }
+}

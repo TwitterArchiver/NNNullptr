@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2043056978382225502",
+    "created_at": "2026-04-11T20:01:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T21:01:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043056978382225502"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Showy005/statu…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/Showy005/status/2042957951066124733",
+          "start": 37,
+          "url": "https://t.co/NBvv1yQ57i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043056978382225502",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042957951066124733",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "感觉自从收紧以后在首页刷到的小团体都变少了，在小红书也刷到好多问怎么办的 https://t.co/NBvv1yQ57i"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2043056978382225502",
+        "created_at": "2026-04-11T20:01:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T21:01:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043056978382225502"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Showy005/statu…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/Showy005/status/2042957951066124733",
+              "start": 37,
+              "url": "https://t.co/NBvv1yQ57i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043056978382225502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042957951066124733",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感觉自从收紧以后在首页刷到的小团体都变少了，在小红书也刷到好多问怎么办的 https://t.co/NBvv1yQ57i"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "944703434992771072",
+        "conversation_id": "2042957951066124733",
+        "created_at": "2026-04-11T13:28:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T14:28:03.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042957854416736705",
+          "2042957951066124733"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042957951066124733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 92,
+          "impression_count": 156354,
+          "like_count": 204,
+          "quote_count": 1,
+          "reply_count": 122,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "为何所有梯子一夜之间都挂了？\n\n26年4月初开始VPN的管制收紧，包括技术层面（深度包检测DPI、AI流量特征识别）和政策执行层面。\n\n很多原本能用的协议（VMess、VLESS等）和节点IP被快速识别并阻，导致连接失败、卡在“连接中”、断线。\n\n谁能告诉，我这背后意味着什么？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "wish you have a good day",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1046,
+          "following_count": 124,
+          "like_count": 4799,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 452
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-23T22:57:05.000Z",
+        "description": "@Conso_tg Co-founder & COO（邀请码 555555），TON增长实验室发起人，曾操盘百万社群 & 千万用户级Web3项目，交易我用 @Bitget",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "Conso_tg"
+              },
+              {
+                "end": 85,
+                "start": 78,
+                "username": "Bitget"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/GeorgeTON8888",
+                "end": 23,
+                "expanded_url": "https://t.me/GeorgeTON8888",
+                "start": 0,
+                "url": "https://t.co/HrRulwSZG2"
+              }
+            ]
+          }
+        },
+        "id": "944703434992771072",
+        "location": "粉丝群👉",
+        "name": "George.TON",
+        "pinned_tweet_id": "2036604889481326807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024846651345829888/B3UBKiNA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17496,
+          "following_count": 2660,
+          "like_count": 16858,
+          "listed_count": 56,
+          "media_count": 972,
+          "tweet_count": 15339
+        },
+        "url": "https://t.co/HrRulwSZG2",
+        "username": "Showy005",
+        "verified": true
+      }
+    ]
+  }
+}

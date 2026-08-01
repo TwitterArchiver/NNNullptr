@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2060414966470168806",
+    "created_at": "2026-05-29T17:36:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T18:36:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060414966470168806"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jagermeisterni…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/jagermeisterni/status/2060342733232034122",
+          "start": 10,
+          "url": "https://t.co/auYuyFJSXx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060414966470168806",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060342733232034122",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "全球都这样吗😇😇😇 https://t.co/auYuyFJSXx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2060414966470168806",
+        "created_at": "2026-05-29T17:36:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T18:36:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060414966470168806"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jagermeisterni…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/jagermeisterni/status/2060342733232034122",
+              "start": 10,
+              "url": "https://t.co/auYuyFJSXx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060414966470168806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060342733232034122",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "全球都这样吗😇😇😇 https://t.co/auYuyFJSXx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755128883345608704",
+        "conversation_id": "2060342733232034122",
+        "created_at": "2026-05-29T12:49:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T13:49:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060342733232034122"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060342733232034122",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 363,
+          "impression_count": 135874,
+          "like_count": 13484,
+          "quote_count": 72,
+          "reply_count": 63,
+          "retweet_count": 253
+        },
+        "reply_settings": "everyone",
+        "text": "job market so bad i got laid off... from an INTERNSHIP... i got via NEPOTISM??????????? what is going on"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "Math Student & Tech Enthusiast",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1148,
+          "following_count": 170,
+          "like_count": 6220,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 837
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-07T07:18:53.000Z",
+        "description": "gaadi tera bhai chalayega",
+        "id": "1755128883345608704",
+        "name": "paavs",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047649345424728065/s_zO5A2D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2089,
+          "following_count": 413,
+          "like_count": 22793,
+          "listed_count": 5,
+          "media_count": 528,
+          "tweet_count": 13190
+        },
+        "username": "jagermeisterni",
+        "verified": false
+      }
+    ]
+  }
+}

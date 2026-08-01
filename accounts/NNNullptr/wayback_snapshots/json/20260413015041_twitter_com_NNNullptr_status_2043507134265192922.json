@@ -1,0 +1,400 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043456824548986881",
+        "3_2043456870686326784",
+        "3_2043456871080554497",
+        "3_2043456871256743936"
+      ],
+      "media_source_tweet_id": [
+        "2043457591250932162",
+        "2043457591250932162",
+        "2043457591250932162",
+        "2043457591250932162"
+      ]
+    },
+    "author_id": "1858727254345281536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2043507134265192922",
+    "created_at": "2026-04-13T01:50:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T02:50:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043507134265192922"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "810208225375256576",
+          "start": 3,
+          "username": "shigatsuyouka"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/INEwIjiKrO",
+          "end": 98,
+          "expanded_url": "https://x.com/shigatsuyouka/status/2043457591250932162/photo/1",
+          "media_key": "3_2043456824548986881",
+          "start": 75,
+          "url": "https://t.co/INEwIjiKrO"
+        },
+        {
+          "display_url": "pic.x.com/INEwIjiKrO",
+          "end": 98,
+          "expanded_url": "https://x.com/shigatsuyouka/status/2043457591250932162/photo/1",
+          "media_key": "3_2043456870686326784",
+          "start": 75,
+          "url": "https://t.co/INEwIjiKrO"
+        },
+        {
+          "display_url": "pic.x.com/INEwIjiKrO",
+          "end": 98,
+          "expanded_url": "https://x.com/shigatsuyouka/status/2043457591250932162/photo/1",
+          "media_key": "3_2043456871080554497",
+          "start": 75,
+          "url": "https://t.co/INEwIjiKrO"
+        },
+        {
+          "display_url": "pic.x.com/INEwIjiKrO",
+          "end": 98,
+          "expanded_url": "https://x.com/shigatsuyouka/status/2043457591250932162/photo/1",
+          "media_key": "3_2043456871256743936",
+          "start": 75,
+          "url": "https://t.co/INEwIjiKrO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043507134265192922",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043457591250932162",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shigatsuyouka: desktops that personally inspired my last post (thread) https://t.co/INEwIjiKrO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1534,
+        "media_key": "3_2043456824548986881",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFvRJ70XEAETW1z.jpg",
+        "width": 1366
+      },
+      {
+        "height": 768,
+        "media_key": "3_2043456870686326784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFvRMnsXAAAoUe8.jpg",
+        "width": 1366
+      },
+      {
+        "height": 768,
+        "media_key": "3_2043456871080554497",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFvRMpKWcAE86pd.jpg",
+        "width": 1366
+      },
+      {
+        "height": 1301,
+        "media_key": "3_2043456871256743936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFvRMp0W4AATlVm.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043456824548986881",
+            "3_2043456870686326784",
+            "3_2043456871080554497",
+            "3_2043456871256743936"
+          ],
+          "media_source_tweet_id": [
+            "2043457591250932162",
+            "2043457591250932162",
+            "2043457591250932162",
+            "2043457591250932162"
+          ]
+        },
+        "author_id": "1858727254345281536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2043507134265192922",
+        "created_at": "2026-04-13T01:50:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T02:50:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043507134265192922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "810208225375256576",
+              "start": 3,
+              "username": "shigatsuyouka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/INEwIjiKrO",
+              "end": 98,
+              "expanded_url": "https://x.com/shigatsuyouka/status/2043457591250932162/photo/1",
+              "media_key": "3_2043456824548986881",
+              "start": 75,
+              "url": "https://t.co/INEwIjiKrO"
+            },
+            {
+              "display_url": "pic.x.com/INEwIjiKrO",
+              "end": 98,
+              "expanded_url": "https://x.com/shigatsuyouka/status/2043457591250932162/photo/1",
+              "media_key": "3_2043456870686326784",
+              "start": 75,
+              "url": "https://t.co/INEwIjiKrO"
+            },
+            {
+              "display_url": "pic.x.com/INEwIjiKrO",
+              "end": 98,
+              "expanded_url": "https://x.com/shigatsuyouka/status/2043457591250932162/photo/1",
+              "media_key": "3_2043456871080554497",
+              "start": 75,
+              "url": "https://t.co/INEwIjiKrO"
+            },
+            {
+              "display_url": "pic.x.com/INEwIjiKrO",
+              "end": 98,
+              "expanded_url": "https://x.com/shigatsuyouka/status/2043457591250932162/photo/1",
+              "media_key": "3_2043456871256743936",
+              "start": 75,
+              "url": "https://t.co/INEwIjiKrO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043507134265192922",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043457591250932162",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shigatsuyouka: desktops that personally inspired my last post (thread) https://t.co/INEwIjiKrO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043456824548986881",
+            "3_2043456870686326784",
+            "3_2043456871080554497",
+            "3_2043456871256743936"
+          ]
+        },
+        "author_id": "810208225375256576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2043457591250932162",
+        "created_at": "2026-04-12T22:33:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T23:33:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043457591250932162"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/INEwIjiKrO",
+              "end": 79,
+              "expanded_url": "https://x.com/shigatsuyouka/status/2043457591250932162/photo/1",
+              "media_key": "3_2043456824548986881",
+              "start": 56,
+              "url": "https://t.co/INEwIjiKrO"
+            },
+            {
+              "display_url": "pic.x.com/INEwIjiKrO",
+              "end": 79,
+              "expanded_url": "https://x.com/shigatsuyouka/status/2043457591250932162/photo/1",
+              "media_key": "3_2043456870686326784",
+              "start": 56,
+              "url": "https://t.co/INEwIjiKrO"
+            },
+            {
+              "display_url": "pic.x.com/INEwIjiKrO",
+              "end": 79,
+              "expanded_url": "https://x.com/shigatsuyouka/status/2043457591250932162/photo/1",
+              "media_key": "3_2043456871080554497",
+              "start": 56,
+              "url": "https://t.co/INEwIjiKrO"
+            },
+            {
+              "display_url": "pic.x.com/INEwIjiKrO",
+              "end": 79,
+              "expanded_url": "https://x.com/shigatsuyouka/status/2043457591250932162/photo/1",
+              "media_key": "3_2043456871256743936",
+              "start": 56,
+              "url": "https://t.co/INEwIjiKrO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043457591250932162",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 329,
+          "impression_count": 11725,
+          "like_count": 661,
+          "quote_count": 5,
+          "reply_count": 4,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "desktops that personally inspired my last post (thread) https://t.co/INEwIjiKrO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "wish you have a good day",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1044,
+          "following_count": 126,
+          "like_count": 4827,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 459
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2016-12-17T19:41:08.000Z",
+        "description": "主にbemaniやエロゲ",
+        "id": "810208225375256576",
+        "name": "'",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043254953821483008/GWu7-UN6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 818,
+          "following_count": 231,
+          "like_count": 103815,
+          "listed_count": 1,
+          "media_count": 1375,
+          "tweet_count": 9977
+        },
+        "username": "shigatsuyouka",
+        "verified": false
+      }
+    ]
+  }
+}

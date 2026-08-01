@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2041573792267563075",
+    "created_at": "2026-04-07T17:48:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T18:48:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041573792267563075"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/OldInternetFee…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/OldInternetFeel/status/2041322288172118039",
+          "start": 44,
+          "url": "https://t.co/lXHOSsnBZb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041573792267563075",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041322288172118039",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "vs code页面有点太出戏了，近年流行的仿古早其实可以脱离单纯复刻，作为一种新的风格 https://t.co/lXHOSsnBZb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 824,
+        "media_key": "3_2041322284216909824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFQ7zVbWgAAMhKy.jpg",
+        "width": 681
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2041573792267563075",
+        "created_at": "2026-04-07T17:48:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T18:48:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041573792267563075"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/OldInternetFee…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/OldInternetFeel/status/2041322288172118039",
+              "start": 44,
+              "url": "https://t.co/lXHOSsnBZb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041573792267563075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041322288172118039",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "vs code页面有点太出戏了，近年流行的仿古早其实可以脱离单纯复刻，作为一种新的风格 https://t.co/lXHOSsnBZb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041322284216909824"
+          ]
+        },
+        "author_id": "1567199719201415169",
+        "conversation_id": "2041322288172118039",
+        "created_at": "2026-04-07T01:08:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T02:08:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041322288172118039"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0Hb9tIHg6H",
+              "end": 23,
+              "expanded_url": "https://x.com/OldInternetFeel/status/2041322288172118039/photo/1",
+              "media_key": "3_2041322284216909824",
+              "start": 0,
+              "url": "https://t.co/0Hb9tIHg6H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041322288172118039",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 988,
+          "impression_count": 536221,
+          "like_count": 7392,
+          "quote_count": 66,
+          "reply_count": 91,
+          "retweet_count": 278
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/0Hb9tIHg6H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "wish you have a good day",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2031630035707437373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1052,
+          "following_count": 118,
+          "like_count": 4762,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 440
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-06T17:15:49.000Z",
+        "description": "I post things that have the feel of the old internet or just old things (meaning before 2017)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cameronsworld.net",
+                "end": 23,
+                "expanded_url": "https://www.cameronsworld.net",
+                "start": 0,
+                "url": "https://t.co/gKUdfBxaKs"
+              }
+            ]
+          }
+        },
+        "id": "1567199719201415169",
+        "location": "The Cyberspace",
+        "name": "Old Internet",
+        "pinned_tweet_id": "1567213969684717568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1567212634386071552/FYxctdTu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474564,
+          "following_count": 59,
+          "like_count": 157,
+          "listed_count": 931,
+          "media_count": 14267,
+          "tweet_count": 15939
+        },
+        "url": "https://t.co/gKUdfBxaKs",
+        "username": "OldInternetFeel",
+        "verified": true
+      }
+    ]
+  }
+}

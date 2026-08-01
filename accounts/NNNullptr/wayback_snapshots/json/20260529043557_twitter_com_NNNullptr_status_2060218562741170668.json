@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2060053570225930421",
+    "created_at": "2026-05-29T04:35:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T05:35:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060218562741170668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1740588584292290560",
+          "start": 0,
+          "username": "bloodlettergirl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060218562741170668",
+    "in_reply_to_user_id": "1740588584292290560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060053570225930421",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bloodlettergirl 自动翻译实在太好用了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2060053570225930421",
+        "created_at": "2026-05-29T04:35:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T05:35:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060218562741170668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1740588584292290560",
+              "start": 0,
+              "username": "bloodlettergirl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060218562741170668",
+        "in_reply_to_user_id": "1740588584292290560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060053570225930421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bloodlettergirl 自动翻译实在太好用了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1740588584292290560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2060053570225930421",
+        "created_at": "2026-05-28T17:40:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T18:40:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060053570225930421"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060053570225930421",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 119438,
+          "like_count": 793,
+          "quote_count": 1,
+          "reply_count": 386,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "why is the entire country of china viewing my tweets i feel shy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "Math Student & Tech Enthusiast",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1148,
+          "following_count": 170,
+          "like_count": 6179,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 829
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-29T04:21:07.000Z",
+        "description": "♡ cw-52kg - gw-49kg - bmi 20 ♡\nanorexic - 地雷系 🎀 𓉸ྀི ݁ ˖ִ ࣪ 💉adult ! ! !",
+        "id": "1740588584292290560",
+        "location": "-16 dont dm ₊˚♡ 16+ ifb",
+        "name": "mimi ☠︎︎ 🧠🎀",
+        "pinned_tweet_id": "2054992442332430670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058369970166194176/Go1bsArm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 192,
+          "like_count": 3302,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 535
+        },
+        "username": "bloodlettergirl",
+        "verified": false
+      }
+    ]
+  }
+}

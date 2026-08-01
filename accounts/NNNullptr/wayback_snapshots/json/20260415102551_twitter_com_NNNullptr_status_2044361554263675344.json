@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2044300993547120784",
+    "created_at": "2026-04-15T10:25:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T11:25:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044361554263675344"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1206800829950259202",
+          "start": 0,
+          "username": "m1ssuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044361554263675344",
+    "in_reply_to_user_id": "1206800829950259202",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044300993547120784",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@m1ssuo 昨天刚续费了一个月😢😿😿😿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2044300993547120784",
+        "created_at": "2026-04-15T10:25:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T11:25:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044361554263675344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1206800829950259202",
+              "start": 0,
+              "username": "m1ssuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044361554263675344",
+        "in_reply_to_user_id": "1206800829950259202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044300993547120784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@m1ssuo 昨天刚续费了一个月😢😿😿😿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1206800829950259202",
+        "conversation_id": "2044300993547120784",
+        "created_at": "2026-04-15T06:25:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T07:25:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044300993547120784"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Being responsible with powerful technology starts with knowing who is using it. Identity verification helps us prevent abuse, enforce our usage policies, and comply with legal obligations. We are rolling out identity verification for a few use cases, and you might see a verification prompt when accessing certain capabilities, as part of our routine platform integrity checks, or other safety and compliance measures. We only use your verification data to confirm who you are and not for any other purposes.",
+              "display_url": "support.claude.com/en/articles/14…",
+              "end": 146,
+              "expanded_url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2044300150001283072/sIMbCCtz?format=png&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2044300150001283072/sIMbCCtz?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 123,
+              "status": 200,
+              "title": "Identity verification on Claude | Claude Help Center",
+              "unwound_url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
+              "url": "https://t.co/QooQUDrn9j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044300993547120784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 144,
+          "impression_count": 111388,
+          "like_count": 357,
+          "quote_count": 23,
+          "reply_count": 64,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "Claude 马上要实行实名制了，按照官网的说法，中国护照应该是 100% 不被接受的，只接受支持的国家的政府颁发的证件。看起来一大堆中转站要倒闭了。Claude 的模型价格会越来越高。实名认证由 Persona Identities 提供。\n\nhttps://t.co/QooQUDrn9j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "wish you have a good day",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1048,
+          "following_count": 132,
+          "like_count": 4867,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 479
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-17T04:58:40.000Z",
+        "description": "Founder of @OwO_Network | Operator of AS-OWONET (AS30700, AS60614, etc.) | #WWDC24 | #BGP | https://t.co/aPrcdNJBGd",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 82,
+                "start": 75,
+                "tag": "WWDC24"
+              },
+              {
+                "end": 89,
+                "start": 85,
+                "tag": "BGP"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "OwO_Network"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/missuo",
+                "end": 115,
+                "expanded_url": "http://github.com/missuo",
+                "start": 92,
+                "url": "https://t.co/aPrcdNJBGd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "missuo.me",
+                "end": 23,
+                "expanded_url": "https://missuo.me",
+                "start": 0,
+                "url": "https://t.co/PgxKPy6XHr"
+              }
+            ]
+          }
+        },
+        "id": "1206800829950259202",
+        "location": "Pittsburgh, PA",
+        "name": "Vincent Yang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1589233256175923202/CsyqQfsK_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10468,
+          "following_count": 1270,
+          "like_count": 12241,
+          "listed_count": 77,
+          "media_count": 1140,
+          "tweet_count": 6458
+        },
+        "url": "https://t.co/PgxKPy6XHr",
+        "username": "m1ssuo",
+        "verified": true
+      }
+    ]
+  }
+}

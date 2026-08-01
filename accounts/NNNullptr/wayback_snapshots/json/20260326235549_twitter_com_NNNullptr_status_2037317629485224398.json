@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2037254743530365190",
+    "created_at": "2026-03-26T23:55:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T00:55:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037317629485224398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "928237813425872896",
+          "start": 0,
+          "username": "holegots"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037317629485224398",
+    "in_reply_to_user_id": "928237813425872896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037254743530365190",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@holegots 求一个分享"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2037254743530365190",
+        "created_at": "2026-03-26T23:55:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T00:55:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037317629485224398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "928237813425872896",
+              "start": 0,
+              "username": "holegots"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037317629485224398",
+        "in_reply_to_user_id": "928237813425872896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037254743530365190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@holegots 求一个分享"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "928237813425872896",
+        "conversation_id": "2037254743530365190",
+        "created_at": "2026-03-26T19:45:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T20:45:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037254743530365190"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037254743530365190",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1608,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我宣布已攻破 Anthropic 护城河\n-- 注册了好几个 max 账户"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "wish you have a good day",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2031630035707437373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 877,
+          "following_count": 109,
+          "like_count": 4570,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 410
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-08T12:28:35.000Z",
+        "description": "🤡愚钝之人 \n爱大错㭭字 MLSYS & 韭菜 & DePin",
+        "id": "928237813425872896",
+        "location": "Shanghai",
+        "name": "Holegots",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1426952130921861123/mwTHnZXq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11151,
+          "following_count": 1959,
+          "like_count": 10080,
+          "listed_count": 84,
+          "media_count": 258,
+          "tweet_count": 3145
+        },
+        "username": "holegots",
+        "verified": true
+      }
+    ]
+  }
+}

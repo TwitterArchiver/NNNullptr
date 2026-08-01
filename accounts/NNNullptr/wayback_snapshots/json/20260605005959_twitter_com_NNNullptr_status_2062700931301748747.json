@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2062473760377303420",
+    "created_at": "2026-06-05T00:59:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T01:59:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062700931301748747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1561593418425413632",
+          "start": 0,
+          "username": "MeiStingray"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062700931301748747",
+    "in_reply_to_user_id": "1561593418425413632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062473760377303420",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MeiStingray 炒面"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2062473661144248320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ9g3gsaMAAtMuK.jpg",
+        "width": 2731
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2062473760377303420",
+        "created_at": "2026-06-05T00:59:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T01:59:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062700931301748747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1561593418425413632",
+              "start": 0,
+              "username": "MeiStingray"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062700931301748747",
+        "in_reply_to_user_id": "1561593418425413632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062473760377303420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MeiStingray 炒面"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062473661144248320"
+          ]
+        },
+        "author_id": "1561593418425413632",
+        "conversation_id": "2062473760377303420",
+        "created_at": "2026-06-04T09:57:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T10:57:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062473760377303420"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vkNRUkyUuO",
+              "end": 30,
+              "expanded_url": "https://x.com/MeiStingray/status/2062473760377303420/photo/1",
+              "media_key": "3_2062473661144248320",
+              "start": 7,
+              "url": "https://t.co/vkNRUkyUuO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062473760377303420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 4528,
+          "like_count": 148,
+          "quote_count": 0,
+          "reply_count": 47,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "晚上吃什么？ https://t.co/vkNRUkyUuO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "Math Student & Tech Enthusiast",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1170,
+          "following_count": 172,
+          "like_count": 6497,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 897
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-22T05:57:43.000Z",
+        "description": "♂  / 自我拍摄 / 重加工 / UIUC Alum / 宇宙的第1颗星 ⭐",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kicity.com",
+                "end": 23,
+                "expanded_url": "http://kicity.com",
+                "start": 0,
+                "url": "https://t.co/YnaWc6KAWV"
+              }
+            ]
+          }
+        },
+        "id": "1561593418425413632",
+        "location": "North",
+        "name": "青梅定理⭐",
+        "pinned_tweet_id": "1897574302020727075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908429654941487104/HBUqAg_5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4717,
+          "following_count": 496,
+          "like_count": 62888,
+          "listed_count": 25,
+          "media_count": 312,
+          "tweet_count": 14562
+        },
+        "url": "https://t.co/YnaWc6KAWV",
+        "username": "MeiStingray",
+        "verified": true
+      }
+    ]
+  }
+}

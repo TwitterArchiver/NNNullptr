@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2063401670781149282",
+    "created_at": "2026-06-06T23:27:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T00:27:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063402307170205871"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2063402307170205871",
+    "in_reply_to_user_id": "1858727254345281536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063401971185508694",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我以前这么好傻逼，虽然我天天解离把以前我干的事情忘得七八成，但是那种创伤和羞耻感还在，我把具体的事情忘记了，结果把乱七八糟的细节和印象都放在潜意识里，别这样了孩子冷静一点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2063401670781149282",
+        "created_at": "2026-06-06T23:27:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T00:27:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063402307170205871"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063402307170205871",
+        "in_reply_to_user_id": "1858727254345281536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063401971185508694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我以前这么好傻逼，虽然我天天解离把以前我干的事情忘得七八成，但是那种创伤和羞耻感还在，我把具体的事情忘记了，结果把乱七八糟的细节和印象都放在潜意识里，别这样了孩子冷静一点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2063401670781149282",
+        "created_at": "2026-06-06T23:25:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T00:25:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063401971185508694"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063401971185508694",
+        "in_reply_to_user_id": "1858727254345281536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063401676950962520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我没有视奸我只是很好奇为什么起这个id，感觉听起来就很浪友，好奇典故，所以去搜了一下，结果我一搜就出来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "Math Student & Tech Enthusiast",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1188,
+          "following_count": 172,
+          "like_count": 6581,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 925
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      }
+    ]
+  }
+}
