@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2048159921083195760",
+    "created_at": "2026-04-25T21:59:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T22:59:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048159921083195760"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/45_206MHz/stat…",
+          "end": 69,
+          "expanded_url": "https://twitter.com/45_206MHz/status/2047870840398856209",
+          "start": 46,
+          "url": "https://t.co/hIz64Q2Dhj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048159921083195760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047870840398856209",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这文案能不能别搁几个星期就火一次了，中推真烂完了，已成为互联网排泄链最后一道并且还边吃别拉 https://t.co/hIz64Q2Dhj"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2048159921083195760",
+        "created_at": "2026-04-25T21:59:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T22:59:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048159921083195760"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/45_206MHz/stat…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/45_206MHz/status/2047870840398856209",
+              "start": 46,
+              "url": "https://t.co/hIz64Q2Dhj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048159921083195760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047870840398856209",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这文案能不能别搁几个星期就火一次了，中推真烂完了，已成为互联网排泄链最后一道并且还边吃别拉 https://t.co/hIz64Q2Dhj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751497892001685504",
+        "conversation_id": "2047870840398856209",
+        "created_at": "2026-04-25T02:50:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T03:50:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047870840398856209"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047870840398856209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 137094,
+          "like_count": 2077,
+          "quote_count": 43,
+          "reply_count": 215,
+          "retweet_count": 72
+        },
+        "reply_settings": "everyone",
+        "text": "你们不觉得在自己 bio 写 抑郁/焦虑/双相/ADHD 的很怪吗\n为啥没见人写 阳痿/风湿/前列腺炎/腰椎间盘突出 呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "wish you have a good day",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1083,
+          "following_count": 142,
+          "like_count": 5092,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 544
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-28T06:50:23.000Z",
+        "description": "any pronoun\n叫我 45 就好啦\nAMAB | gender apathetic\n里推: @45_206io | ⭐😡: @MomoseReina\nBluesky同名\n提问箱：https://t.co/68frWGl4xj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "45_206io"
+              },
+              {
+                "end": 78,
+                "start": 66,
+                "username": "MomoseReina"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/45.206mhz",
+                "end": 116,
+                "expanded_url": "https://ngl.link/45.206mhz",
+                "start": 93,
+                "url": "https://t.co/68frWGl4xj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/45.206mhz",
+                "end": 23,
+                "expanded_url": "https://ngl.link/45.206mhz",
+                "start": 0,
+                "url": "https://t.co/68frWGl4xj"
+              }
+            ]
+          }
+        },
+        "id": "1751497892001685504",
+        "location": "maimai DX Circle (Int’l)",
+        "name": "45.206 MHᴢ 🇳🇿",
+        "pinned_tweet_id": "1955945247575507298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039289556911194112/f7iNbdDq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2256,
+          "following_count": 499,
+          "like_count": 33714,
+          "listed_count": 1,
+          "media_count": 659,
+          "tweet_count": 3955
+        },
+        "url": "https://t.co/68frWGl4xj",
+        "username": "45_206MHz",
+        "verified": false
+      }
+    ]
+  }
+}

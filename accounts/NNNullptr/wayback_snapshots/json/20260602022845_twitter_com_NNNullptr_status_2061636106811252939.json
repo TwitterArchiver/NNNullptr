@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2061599493175283835",
+    "created_at": "2026-06-02T02:28:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T03:28:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061636106811252939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1263672143654432769",
+          "start": 0,
+          "username": "Bonnybel_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061636106811252939",
+    "in_reply_to_user_id": "1263672143654432769",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061599493175283835",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bonnybel_ 萌大叔啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 913,
+        "media_key": "3_2061599488045637632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJxFz8IWYAAyffl.jpg",
+        "width": 883
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2061599493175283835",
+        "created_at": "2026-06-02T02:28:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T03:28:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061636106811252939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1263672143654432769",
+              "start": 0,
+              "username": "Bonnybel_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061636106811252939",
+        "in_reply_to_user_id": "1263672143654432769",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061599493175283835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bonnybel_ 萌大叔啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061599488045637632"
+          ]
+        },
+        "author_id": "1263672143654432769",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2061599493175283835",
+        "created_at": "2026-06-02T00:03:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T01:03:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061599493175283835"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Rf6FG5yM5d",
+              "end": 255,
+              "expanded_url": "https://x.com/Bonnybel_/status/2061599493175283835/photo/1",
+              "media_key": "3_2061599488045637632",
+              "start": 232,
+              "url": "https://t.co/Rf6FG5yM5d"
+            },
+            {
+              "display_url": "x.com/qq_tiny/status…",
+              "end": 279,
+              "expanded_url": "https://twitter.com/qq_tiny/status/2060875495533605160",
+              "start": 256,
+              "url": "https://t.co/5eVAFGggm7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061599493175283835",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 651,
+          "impression_count": 80617,
+          "like_count": 4803,
+          "quote_count": 48,
+          "reply_count": 14,
+          "retweet_count": 394
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060875495533605160",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "I’ve always found this annoying like why don’t more anime do it like lucky star or sum shit where they keep the moe going to even the old men in the show lmfao like why does the art style randomly change when it comes to the dudes😭 https://t.co/Rf6FG5yM5d https://t.co/5eVAFGggm7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "Math Student & Tech Enthusiast",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1154,
+          "following_count": 173,
+          "like_count": 6402,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 867
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-22T03:25:06.000Z",
+        "description": "💕🐬insta/tiktok/pinterest -@bonnybel_ 🐬💕\nComms:open (pls note i only take comms/respond to dms on insta/email!)\npfp by @trytryagain_\nbonnybel000@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "bonnybel_"
+              },
+              {
+                "end": 131,
+                "start": 118,
+                "username": "trytryagain_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "acggoods.com/store/bonnybel",
+                "end": 23,
+                "expanded_url": "https://acggoods.com/store/bonnybel",
+                "start": 0,
+                "url": "https://t.co/RUneNSAPeq"
+              }
+            ]
+          }
+        },
+        "id": "1263672143654432769",
+        "name": "Jelly 【=◈︿◈=】",
+        "pinned_tweet_id": "2031434568033849434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010585642598633472/KPfKOfKc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17879,
+          "following_count": 269,
+          "like_count": 17725,
+          "listed_count": 47,
+          "media_count": 257,
+          "tweet_count": 630
+        },
+        "url": "https://t.co/RUneNSAPeq",
+        "username": "Bonnybel_",
+        "verified": false
+      }
+    ]
+  }
+}

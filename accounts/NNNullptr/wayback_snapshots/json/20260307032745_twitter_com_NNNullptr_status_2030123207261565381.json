@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2030123207261565381",
+    "created_at": "2026-03-07T03:27:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T04:27:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030123207261565381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1042070984663162880",
+          "start": 3,
+          "username": "tw111111111111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030123207261565381",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 78
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029797429877559753",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tw111111111111: 高敏感共情，建議不要加入炎上、辯論、歧視、對立、大量負面情緒的攻防。容易吸收別人的情緒到過載去干擾到自己的人生，包括情緒上癮的問題。\n\n情緒感染很麻煩。隱藏關鍵字就能一勞永逸。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2030123207261565381",
+        "created_at": "2026-03-07T03:27:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T04:27:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030123207261565381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1042070984663162880",
+              "start": 3,
+              "username": "tw111111111111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030123207261565381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 78
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029797429877559753",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tw111111111111: 高敏感共情，建議不要加入炎上、辯論、歧視、對立、大量負面情緒的攻防。容易吸收別人的情緒到過載去干擾到自己的人生，包括情緒上癮的問題。\n\n情緒感染很麻煩。隱藏關鍵字就能一勞永逸。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1042070984663162880",
+        "conversation_id": "2029797429877559753",
+        "created_at": "2026-03-06T05:53:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T06:53:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029797429877559753"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029797429877559753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 83,
+          "impression_count": 27041,
+          "like_count": 718,
+          "quote_count": 13,
+          "reply_count": 4,
+          "retweet_count": 78
+        },
+        "reply_settings": "everyone",
+        "text": "高敏感共情，建議不要加入炎上、辯論、歧視、對立、大量負面情緒的攻防。容易吸收別人的情緒到過載去干擾到自己的人生，包括情緒上癮的問題。\n\n情緒感染很麻煩。隱藏關鍵字就能一勞永逸。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "wish you have a good day🍄🍄🍄",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "http://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/eTavjpxMtr"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "1871186436877357201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990335184202588161/WaT_RP5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 881,
+          "following_count": 98,
+          "like_count": 4361,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 357
+        },
+        "url": "https://t.co/eTavjpxMtr",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-18T15:20:58.000Z",
+        "description": "新增：\n\n260207 瑞典國防手冊，台灣各縣市國防手冊\n\n260104 防災防恐避難資訊-網友整理及連結\n（如果擔心連結是詐騙網站或有毒檔案，可以直接複製檔名或來源搜索即可．）\n\n260104 防災包清單：\nhttps://t.co/nRW7026r3a\n\n因重度憂鬱症導致認知能力低下，如有錯誤請海涵，祝　好．",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "reurl.cc/zqQMap",
+                "end": 128,
+                "expanded_url": "https://reurl.cc/zqQMap",
+                "start": 105,
+                "url": "https://t.co/nRW7026r3a"
+              }
+            ]
+          }
+        },
+        "id": "1042070984663162880",
+        "name": "🌑",
+        "pinned_tweet_id": "1866626794574712967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009810316742537216/9K8UmD7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16455,
+          "following_count": 950,
+          "like_count": 248362,
+          "listed_count": 63,
+          "media_count": 41682,
+          "tweet_count": 107328
+        },
+        "username": "tw111111111111",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2080811120021901533",
+    "created_at": "2026-07-25T00:23:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T01:23:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080811120021901533"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2080811120021901533",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实我真的很想紫砂但是我觉得如果失败了会很惨，比如各种各种的身体损伤还有生活的处境。我很多时候都有严重的拖延症，而且几乎无法下定决心做任何一件事情，特别擅长逃避问题，🤦🏻‍♀️所以好歹是活到今天了，可是未来几年我又该怎么办🤦🏻‍♀️🤦🏻‍♀️🤦🏻‍♀️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2080811120021901533",
+        "created_at": "2026-07-25T00:23:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T01:23:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080811120021901533"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080811120021901533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我真的很想紫砂但是我觉得如果失败了会很惨，比如各种各种的身体损伤还有生活的处境。我很多时候都有严重的拖延症，而且几乎无法下定决心做任何一件事情，特别擅长逃避问题，🤦🏻‍♀️所以好歹是活到今天了，可是未来几年我又该怎么办🤦🏻‍♀️🤦🏻‍♀️🤦🏻‍♀️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "捉摸不透的用户：南方的狼",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1305,
+          "following_count": 186,
+          "like_count": 7423,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 1154
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      }
+    ]
+  }
+}

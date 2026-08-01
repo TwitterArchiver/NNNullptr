@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2066984496495575335",
+    "created_at": "2026-06-17T04:23:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T05:23:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067100826443849951"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1077906424661856257",
+          "start": 0,
+          "username": "nf0RvF9qLpjzOpv"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/18578…",
+          "end": 48,
+          "expanded_url": "https://x.com/i/status/1857844937032913262",
+          "start": 25,
+          "url": "https://t.co/XyTMcvS6fG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067100826443849951",
+    "in_reply_to_user_id": "1077906424661856257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857844937032913262",
+        "type": "quoted"
+      },
+      {
+        "id": "2067088438302490929",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nf0RvF9qLpjzOpv yuu的一个推文https://t.co/XyTMcvS6fG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2066984496495575335",
+        "created_at": "2026-06-17T04:23:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T05:23:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067100826443849951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1077906424661856257",
+              "start": 0,
+              "username": "nf0RvF9qLpjzOpv"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/18578…",
+              "end": 48,
+              "expanded_url": "https://x.com/i/status/1857844937032913262",
+              "start": 25,
+              "url": "https://t.co/XyTMcvS6fG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067100826443849951",
+        "in_reply_to_user_id": "1077906424661856257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857844937032913262",
+            "type": "quoted"
+          },
+          {
+            "id": "2067088438302490929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nf0RvF9qLpjzOpv yuu的一个推文https://t.co/XyTMcvS6fG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554424317483655175",
+        "conversation_id": "1857844937032913262",
+        "created_at": "2024-11-16T17:55:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-16T18:55:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1857844937032913262"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuu00401/statu…",
+              "end": 103,
+              "expanded_url": "https://twitter.com/yuu00401/status/1857842077390037372",
+              "start": 80,
+              "url": "https://t.co/GQOfjXe39I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857844937032913262",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 9237,
+          "like_count": 109,
+          "quote_count": 3,
+          "reply_count": 8,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857842077390037372",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "高度的原子化，或者将这样的生活方式奉为宗旨的人，没有软肋，没有牵挂，父母对他们而言就是老登爆点金币，普遍的厌世，情绪极容易失控，恐会成为这种集体癔症的好温床。 https://t.co/GQOfjXe39I"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1077906424661856257",
+        "conversation_id": "2066984496495575335",
+        "created_at": "2026-06-17T03:34:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T04:34:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067088438302490929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1858727254345281536",
+              "start": 0,
+              "username": "NNNullptr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067088438302490929",
+        "in_reply_to_user_id": "1858727254345281536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066984497984463293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NNNullptr 这段找不到原作者"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "Math Student & Tech Enthusiast",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1201,
+          "following_count": 173,
+          "like_count": 6881,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 1017
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-26T12:38:12.000Z",
+        "description": "",
+        "id": "1077906424661856257",
+        "name": "2501_0",
+        "pinned_tweet_id": "1177544367357100034",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 79,
+          "like_count": 429949,
+          "listed_count": 1,
+          "media_count": 244,
+          "tweet_count": 186597
+        },
+        "username": "nf0RvF9qLpjzOpv",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-02T11:10:23.000Z",
+        "description": "原来我走了那么远，远到那些无话不谈，渐渐听不清了",
+        "id": "1554424317483655175",
+        "location": "拉尼亚凯亚超星系",
+        "name": "yuu🎀",
+        "pinned_tweet_id": "1979443587306647701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063450891232186368/8csvW8EW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4051,
+          "following_count": 803,
+          "like_count": 75200,
+          "listed_count": 6,
+          "media_count": 2419,
+          "tweet_count": 35264
+        },
+        "username": "yuu00401",
+        "verified": false
+      }
+    ]
+  }
+}

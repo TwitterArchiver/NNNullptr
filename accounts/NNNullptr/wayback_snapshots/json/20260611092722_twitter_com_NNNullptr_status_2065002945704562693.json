@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2064762814497955875",
+    "created_at": "2026-06-11T09:27:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T10:27:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065002945704562693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1251932916160106499",
+          "start": 0,
+          "username": "Post_Ioism"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065002945704562693",
+    "in_reply_to_user_id": "1251932916160106499",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064762814497955875",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Post_Ioism 😂😂😂😂😂😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2064762814497955875",
+        "created_at": "2026-06-11T09:27:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T10:27:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065002945704562693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1251932916160106499",
+              "start": 0,
+              "username": "Post_Ioism"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065002945704562693",
+        "in_reply_to_user_id": "1251932916160106499",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064762814497955875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Post_Ioism 😂😂😂😂😂😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1251932916160106499",
+        "conversation_id": "2064762814497955875",
+        "created_at": "2026-06-10T17:33:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T18:33:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064762814497955875"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shinobu67x/sta…",
+              "end": 129,
+              "expanded_url": "https://twitter.com/shinobu67x/status/2064345963355844659",
+              "start": 106,
+              "url": "https://t.co/2nhz1IvFuF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064762814497955875",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5573,
+          "impression_count": 1449477,
+          "like_count": 29274,
+          "quote_count": 106,
+          "reply_count": 70,
+          "retweet_count": 1906
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064345963355844659",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Such a fucking cuck, im imagining myself breeding this twink and making beautiful criollo babies instead. https://t.co/2nhz1IvFuF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "Math Student & Tech Enthusiast",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1199,
+          "following_count": 172,
+          "like_count": 6731,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 974
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-19T17:59:12.000Z",
+        "description": "The Brightest Morning Star | Uncaged Sinccubus | Bataillean-Deleuzian-Stirnerite | ⚨ Supremacy | They/It/She | priv: @TragicHelena",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "TragicHelena"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ioooo.substack.com",
+                "end": 23,
+                "expanded_url": "https://ioooo.substack.com/",
+                "start": 0,
+                "url": "https://t.co/RX5xyCp6pD"
+              }
+            ]
+          }
+        },
+        "id": "1251932916160106499",
+        "location": "Emesa",
+        "name": "Erebus Heliogabalus",
+        "pinned_tweet_id": "2004299272100217136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058317366644154368/-Xt_pz6F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1534,
+          "following_count": 1089,
+          "like_count": 165835,
+          "listed_count": 14,
+          "media_count": 4575,
+          "tweet_count": 53536
+        },
+        "url": "https://t.co/RX5xyCp6pD",
+        "username": "Post_Ioism",
+        "verified": false
+      }
+    ]
+  }
+}

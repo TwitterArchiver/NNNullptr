@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2037231505140036057",
+    "created_at": "2026-03-27T08:30:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T09:30:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037447268052390017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1423159820308258820",
+          "start": 0,
+          "username": "npc5200"
+        },
+        {
+          "end": 20,
+          "id": "1966734672425349121",
+          "start": 9,
+          "username": "kelvin_k_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037447268052390017",
+    "in_reply_to_user_id": "1423159820308258820",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037442629802303843",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@npc5200 @kelvin_k_x 不是，是FastAPI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2037231505140036057",
+        "created_at": "2026-03-27T08:30:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T09:30:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037447268052390017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1423159820308258820",
+              "start": 0,
+              "username": "npc5200"
+            },
+            {
+              "end": 20,
+              "id": "1966734672425349121",
+              "start": 9,
+              "username": "kelvin_k_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037447268052390017",
+        "in_reply_to_user_id": "1423159820308258820",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037442629802303843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@npc5200 @kelvin_k_x 不是，是FastAPI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1423159820308258820",
+        "conversation_id": "2037231505140036057",
+        "created_at": "2026-03-27T08:12:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T09:12:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037442629802303843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1858727254345281536",
+              "start": 0,
+              "username": "NNNullptr"
+            },
+            {
+              "end": 22,
+              "id": "1966734672425349121",
+              "start": 11,
+              "username": "kelvin_k_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037442629802303843",
+        "in_reply_to_user_id": "1858727254345281536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037425179643797748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NNNullptr @kelvin_k_x Django吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "wish you have a good day",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2031630035707437373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 956,
+          "following_count": 109,
+          "like_count": 4617,
+          "listed_count": 2,
+          "media_count": 9,
+          "tweet_count": 415
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-05T05:52:10.000Z",
+        "description": "我最讨厌的三种人 1骚扰我的人2视奸我的人3冷暴力的人     我最喜欢做的三件事 1骚扰别人2视奸别人3不回消息玩失踪",
+        "id": "1423159820308258820",
+        "name": "npc",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790390688523440128/rJu67uZB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 18,
+          "like_count": 1637,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 1190
+        },
+        "username": "npc5200",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-13T05:24:38.000Z",
+        "description": "𝓨𝓸𝓾 𝔀𝓲𝓷 𝓼𝓸𝓶𝓮 𝔂𝓸𝓾 𝓵𝓸𝓼𝓮 𝓼𝓸𝓶𝓮 𝓫𝓾𝓽 𝓷𝓮𝔁𝓽 𝓽𝓲𝓶𝓮𝔀𝓮′𝓵𝓵 𝔀𝓲𝓷\nYou can pm if you want to make friends with me ↓\n#Photographer#BMXlover",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KELVIN_114514_…",
+                "end": 23,
+                "expanded_url": "https://t.me/KELVIN_114514_bot",
+                "start": 0,
+                "url": "https://t.co/I5kV6TsITS"
+              }
+            ]
+          }
+        },
+        "id": "1966734672425349121",
+        "location": "Hong Kong Contact information↓",
+        "name": "𝓚𝓮𝓵𝓿𝓲𝓷_𝓚",
+        "pinned_tweet_id": "1992839225323212952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007393852668420096/py9Bysg-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 294,
+          "like_count": 617,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 337
+        },
+        "url": "https://t.co/I5kV6TsITS",
+        "username": "kelvin_k_x",
+        "verified": false
+      }
+    ]
+  }
+}

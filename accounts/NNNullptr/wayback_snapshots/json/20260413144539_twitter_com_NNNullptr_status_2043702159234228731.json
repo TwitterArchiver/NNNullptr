@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2043679554238304668",
+    "created_at": "2026-04-13T14:45:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T15:45:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043702159234228731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1821312171923644416",
+          "start": 0,
+          "username": "jagaimo6681"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043702159234228731",
+    "in_reply_to_user_id": "1821312171923644416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043679554238304668",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jagaimo6681 挥产必备了，感觉比tg还隐私，要是可以拉大群组那我不敢想"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2043679554238304668",
+        "created_at": "2026-04-13T14:45:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T15:45:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043702159234228731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1821312171923644416",
+              "start": 0,
+              "username": "jagaimo6681"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043702159234228731",
+        "in_reply_to_user_id": "1821312171923644416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043679554238304668",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jagaimo6681 挥产必备了，感觉比tg还隐私，要是可以拉大群组那我不敢想"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821312171923644416",
+        "conversation_id": "2043679554238304668",
+        "created_at": "2026-04-13T13:15:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T14:15:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043679554238304668"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043679554238304668",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 11929,
+          "like_count": 157,
+          "quote_count": 2,
+          "reply_count": 21,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Xchat真的不是为了偷情而准备的吗？注册不用手机号，消息阅后即焚自动消失，不能截图，只能在使用的这一个设备查看消息。？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "wish you have a good day",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1043,
+          "following_count": 127,
+          "like_count": 4845,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 471
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-07T22:27:26.000Z",
+        "description": "@kaerigumo1585 友情か恋かなんてどうでもよくて、君がいちばん好きだよ！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "kaerigumo1585"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "picawang.com",
+                "end": 23,
+                "expanded_url": "https://picawang.com/",
+                "start": 0,
+                "url": "https://t.co/F3AUMZjoSQ"
+              }
+            ]
+          }
+        },
+        "id": "1821312171923644416",
+        "name": "にゃがいも",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042827829780582401/S-DybUbN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2210,
+          "following_count": 646,
+          "like_count": 41846,
+          "listed_count": 6,
+          "media_count": 714,
+          "tweet_count": 12072
+        },
+        "url": "https://t.co/F3AUMZjoSQ",
+        "username": "jagaimo6681",
+        "verified": true
+      }
+    ]
+  }
+}

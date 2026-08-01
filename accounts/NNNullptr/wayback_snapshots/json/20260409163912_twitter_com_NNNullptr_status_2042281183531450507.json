@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2042199786900910495",
+    "created_at": "2026-04-09T16:39:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T17:39:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042281183531450507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1489461200190844928",
+          "start": 0,
+          "username": "mayou0512"
+        },
+        {
+          "end": 27,
+          "id": "2029854517685284864",
+          "start": 11,
+          "username": "d0llface_shioko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042281183531450507",
+    "in_reply_to_user_id": "1489461200190844928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042232353607868553",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mayou0512 @d0llface_shioko 😱宝宝你这个头像是我一万年前画的自设"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1002,
+        "media_key": "3_2042232345781231616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFd3f48aYAAR59f.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2042199786900910495",
+        "created_at": "2026-04-09T16:39:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T17:39:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042281183531450507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1489461200190844928",
+              "start": 0,
+              "username": "mayou0512"
+            },
+            {
+              "end": 27,
+              "id": "2029854517685284864",
+              "start": 11,
+              "username": "d0llface_shioko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042281183531450507",
+        "in_reply_to_user_id": "1489461200190844928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042232353607868553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mayou0512 @d0llface_shioko 😱宝宝你这个头像是我一万年前画的自设"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042232345781231616"
+          ]
+        },
+        "author_id": "1489461200190844928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Needlework",
+              "id": "847869593674698752",
+              "name": "Needlework"
+            }
+          }
+        ],
+        "conversation_id": "2042199786900910495",
+        "created_at": "2026-04-09T13:25:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T14:25:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042232353607868553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2029854517685284864",
+              "start": 0,
+              "username": "d0llface_shioko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z6CLsDRDwO",
+              "end": 137,
+              "expanded_url": "https://x.com/mayou0512/status/2042232353607868553/photo/1",
+              "media_key": "3_2042232345781231616",
+              "start": 114,
+              "url": "https://t.co/Z6CLsDRDwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042232353607868553",
+        "in_reply_to_user_id": "2029854517685284864",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 233,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042199786900910495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@d0llface_shioko Be careful when buying the sewing bear dupe btw cus sometimes the ribbon look neon pink and ugly https://t.co/Z6CLsDRDwO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "wish you have a good day",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2031630035707437373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1045,
+          "following_count": 119,
+          "like_count": 4779,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 444
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-04T04:50:07.000Z",
+        "description": "0️⃣3️⃣0️⃣ tiktok and ins same user     🇲🇾🇹🇼",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mayou0512.straw.page",
+                "end": 23,
+                "expanded_url": "https://mayou0512.straw.page",
+                "start": 0,
+                "url": "https://t.co/WXl2shX7xN"
+              }
+            ]
+          }
+        },
+        "id": "1489461200190844928",
+        "location": "高ｐ",
+        "name": "麻油酱",
+        "pinned_tweet_id": "2037502347937726971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907390132120104960/xAKVmIcj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1035,
+          "following_count": 332,
+          "like_count": 6459,
+          "listed_count": 4,
+          "media_count": 72,
+          "tweet_count": 1689
+        },
+        "url": "https://t.co/WXl2shX7xN",
+        "username": "mayou0512",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-06T09:40:17.000Z",
+        "description": "#刃 ♡ #地雷系 ♡ #夢女 ♡‧₊˚ ┊❤︎ INTERNET ANGEL | 中文/日本語/ENG #hsrtwt #arttwt #studytwt⁺˖ ⸝⸝ insta/discord: d0llface_shioko ⁺໒꒱ི༝ priv: @shios_archive ꒱ིྀ༝⁺",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 2,
+                "start": 0,
+                "tag": "刃"
+              },
+              {
+                "end": 9,
+                "start": 5,
+                "tag": "地雷系"
+              },
+              {
+                "end": 15,
+                "start": 12,
+                "tag": "夢女"
+              },
+              {
+                "end": 60,
+                "start": 53,
+                "tag": "hsrtwt"
+              },
+              {
+                "end": 68,
+                "start": 61,
+                "tag": "arttwt"
+              },
+              {
+                "end": 78,
+                "start": 69,
+                "tag": "studytwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 141,
+                "start": 127,
+                "username": "shios_archive"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/d0llface_shioko",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/d0llface_shioko",
+                "start": 0,
+                "url": "https://t.co/mI2hDEu6DK"
+              }
+            ]
+          }
+        },
+        "id": "2029854517685284864",
+        "location": "internet heaven | 🇭🇰",
+        "name": "SHIOKO/刃の愛 ☆‧₊˚",
+        "pinned_tweet_id": "2041732514897670379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029854930283139072/VFet0LK7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1930,
+          "following_count": 1069,
+          "like_count": 2483,
+          "listed_count": 28,
+          "media_count": 219,
+          "tweet_count": 1284
+        },
+        "url": "https://t.co/mI2hDEu6DK",
+        "username": "d0llface_shioko",
+        "verified": false
+      }
+    ]
+  }
+}

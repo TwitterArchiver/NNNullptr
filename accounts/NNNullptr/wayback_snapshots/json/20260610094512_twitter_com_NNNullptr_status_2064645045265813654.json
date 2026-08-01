@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2064617807464296551",
+    "created_at": "2026-06-10T09:45:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T10:45:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064645045265813654"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1314143993039478785",
+          "start": 0,
+          "username": "yangshuibao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064645045265813654",
+    "in_reply_to_user_id": "1314143993039478785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064617807464296551",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yangshuibao 这不是串子串的487吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1826,
+        "media_key": "3_2064617607421132800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKb-xm9agAAUv2R.jpg",
+        "width": 1179
+      },
+      {
+        "height": 791,
+        "media_key": "3_2064617607421218816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKb-xm9b0AAxE4G.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2064617807464296551",
+        "created_at": "2026-06-10T09:45:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T10:45:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064645045265813654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1314143993039478785",
+              "start": 0,
+              "username": "yangshuibao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064645045265813654",
+        "in_reply_to_user_id": "1314143993039478785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064617807464296551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yangshuibao 这不是串子串的487吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064617607421132800",
+            "3_2064617607421218816"
+          ]
+        },
+        "author_id": "1314143993039478785",
+        "conversation_id": "2064617807464296551",
+        "created_at": "2026-06-10T07:56:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T08:56:13.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064617619496521759",
+          "2064617807464296551"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qjHi6eOIL2",
+              "end": 136,
+              "expanded_url": "https://x.com/yangshuibao/status/2064617807464296551/photo/1",
+              "media_key": "3_2064617607421132800",
+              "start": 113,
+              "url": "https://t.co/qjHi6eOIL2"
+            },
+            {
+              "display_url": "pic.x.com/qjHi6eOIL2",
+              "end": 136,
+              "expanded_url": "https://x.com/yangshuibao/status/2064617807464296551/photo/1",
+              "media_key": "3_2064617607421218816",
+              "start": 113,
+              "url": "https://t.co/qjHi6eOIL2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064617807464296551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "在清华北大人大附近那个很火的鹅腿阿姨在海淀卖了几年没人发现，到朝阳区国贸摆摊一周被人举报卖的是成本更低的鸭腿。\n\n阿姨辩称自己有两个人格，一个是友善的“鹅腿阿姨人格”，一个是不在乎所有人的“鸭腿阿姨人格”。哈哈哈哈哈好幽默。\n\n而且因为当时阿姨鹅腿的火爆，清华校园食堂也出了正宗的鹅腿，但学生觉得味道不对，跟阿姨卖的不一样。\n\n附清华前任为我排队买“鹅腿”的盛况，当时还是冬天。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 7389,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在清华北大人大附近那个很火的鹅腿阿姨在海淀卖了几年没人发现，到朝阳区国贸摆摊一周被人举报卖的是成本更低的鸭腿。\n\n阿姨辩称自己有两个人格，一个是友善的“鹅腿阿姨人格”，一个是不在乎所有人的“鸭腿阿姨人格”。哈哈哈哈哈好幽默。 https://t.co/qjHi6eOIL2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "Math Student & Tech Enthusiast",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1199,
+          "following_count": 172,
+          "like_count": 6710,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 970
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-08T10:02:13.000Z",
+        "description": "快乐冠军🏆",
+        "id": "1314143993039478785",
+        "name": "羊水宝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1314144110438019073/gO126Ws__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42463,
+          "following_count": 408,
+          "like_count": 1110,
+          "listed_count": 135,
+          "media_count": 146,
+          "tweet_count": 2315
+        },
+        "username": "yangshuibao",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2063976472206029225",
+    "created_at": "2026-06-08T14:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T15:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063984391064285384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1502618677664882689",
+          "start": 0,
+          "username": "jingjiehaoshan2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063984391064285384",
+    "in_reply_to_user_id": "1502618677664882689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063976472206029225",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jingjiehaoshan2 😂我就是因为初中防沉迷不让我打游戏了所以开始玩知乎的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2063976472206029225",
+        "created_at": "2026-06-08T14:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T15:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063984391064285384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1502618677664882689",
+              "start": 0,
+              "username": "jingjiehaoshan2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063984391064285384",
+        "in_reply_to_user_id": "1502618677664882689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063976472206029225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingjiehaoshan2 😂我就是因为初中防沉迷不让我打游戏了所以开始玩知乎的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1502618677664882689",
+        "conversation_id": "2063976472206029225",
+        "created_at": "2026-06-08T13:28:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T14:28:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063976472206029225"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rococo90933671…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/rococo90933671/status/2063919596625870918",
+              "start": 47,
+              "url": "https://t.co/kGWpVOCjFL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063976472206029225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063919596625870918",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这一点我感谢网信办的先生吗，如果不是他们制定了严格的反沉迷措施的话他们就很难自发地去了解这些 https://t.co/kGWpVOCjFL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "Math Student & Tech Enthusiast",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1192,
+          "following_count": 172,
+          "like_count": 6650,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 953
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-12T12:13:14.000Z",
+        "description": "#马克思主义菜鸟 互of看情况 不主动B人 19岁 性别是武装直升机 CSGO苦手 爱上火车 爱是自由意志的最低解放 要马列主义，不要修正主义，要团结，不要分裂，要光明正大，不要阴谋诡计",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 0,
+                "tag": "马克思主义菜鸟"
+              }
+            ]
+          }
+        },
+        "id": "1502618677664882689",
+        "location": "世界社会主义共和国",
+        "name": "警戒号上的理想主义者",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1502619071241621505/Ya90V3pK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2031,
+          "following_count": 2917,
+          "like_count": 203248,
+          "listed_count": 9,
+          "media_count": 1601,
+          "tweet_count": 19543
+        },
+        "username": "jingjiehaoshan2",
+        "verified": false
+      }
+    ]
+  }
+}

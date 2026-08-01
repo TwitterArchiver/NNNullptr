@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047319425876193280"
+      ]
+    },
+    "author_id": "1858727254345281536",
+    "conversation_id": "2047319428673757346",
+    "created_at": "2026-04-23T14:19:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T15:19:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047319428673757346"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sfFxLBrdgE",
+          "end": 23,
+          "expanded_url": "https://x.com/NNNullptr/status/2047319428673757346/photo/1",
+          "media_key": "3_2047319425876193280",
+          "start": 0,
+          "url": "https://t.co/sfFxLBrdgE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047319428673757346",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/sfFxLBrdgE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047319425876193280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGmKK7EbcAAtIO-.jpg",
+        "width": 1560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047319425876193280"
+          ]
+        },
+        "author_id": "1858727254345281536",
+        "conversation_id": "2047319428673757346",
+        "created_at": "2026-04-23T14:19:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T15:19:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047319428673757346"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sfFxLBrdgE",
+              "end": 23,
+              "expanded_url": "https://x.com/NNNullptr/status/2047319428673757346/photo/1",
+              "media_key": "3_2047319425876193280",
+              "start": 0,
+              "url": "https://t.co/sfFxLBrdgE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047319428673757346",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/sfFxLBrdgE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "wish you have a good day",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1068,
+          "following_count": 138,
+          "like_count": 4999,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 519
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      }
+    ]
+  }
+}

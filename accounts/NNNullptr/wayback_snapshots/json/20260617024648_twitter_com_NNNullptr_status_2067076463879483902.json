@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2067076463879483902",
+    "created_at": "2026-06-17T02:46:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T03:46:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067076463879483902"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NNNullptr/stat…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/NNNullptr/status/2066986058605265323",
+          "start": 8,
+          "url": "https://t.co/1D0T4imiTK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067076463879483902",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066986058605265323",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一胖不复返了😂 https://t.co/1D0T4imiTK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2067076463879483902",
+        "created_at": "2026-06-17T02:46:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T03:46:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067076463879483902"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NNNullptr/stat…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/NNNullptr/status/2066986058605265323",
+              "start": 8,
+              "url": "https://t.co/1D0T4imiTK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067076463879483902",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066986058605265323",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一胖不复返了😂 https://t.co/1D0T4imiTK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2066986058605265323",
+        "created_at": "2026-06-16T20:47:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T21:47:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066986058605265323"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066986058605265323",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 88,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我高中最瘦的时候腰围60-62，完全不知道那时候咋瘦的🙀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "Math Student & Tech Enthusiast",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1201,
+          "following_count": 173,
+          "like_count": 6879,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 1016
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      }
+    ]
+  }
+}

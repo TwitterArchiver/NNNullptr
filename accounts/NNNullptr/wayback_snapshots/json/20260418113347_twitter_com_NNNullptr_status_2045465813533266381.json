@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2045221480104108268",
+    "created_at": "2026-04-18T11:33:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T12:33:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045465813533266381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "818146680587558913",
+          "start": 0,
+          "username": "Fermi_ko"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Contribute to NNNullptr/MoeKernel_Desktop development by creating an account on GitHub.",
+          "display_url": "github.com/NNNullptr/MoeK…",
+          "end": 69,
+          "expanded_url": "https://github.com/NNNullptr/MoeKernel_Desktop",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://pbs.twimg.com/news_img/2045465675624488960/gCqjmJYN?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2045465675624488960/gCqjmJYN?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 46,
+          "status": 200,
+          "title": "GitHub - NNNullptr/MoeKernel_Desktop",
+          "unwound_url": "https://github.com/NNNullptr/MoeKernel_Desktop",
+          "url": "https://t.co/gOPEnNiWy3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045465813533266381",
+    "in_reply_to_user_id": "818146680587558913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045221480104108268",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fermi_ko 我开源了这个项目，不过目前还没有完善，相当于是纯前端，如果喜欢也可以使用https://t.co/gOPEnNiWy3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2045221480104108268",
+        "created_at": "2026-04-18T11:33:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T12:33:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045465813533266381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "818146680587558913",
+              "start": 0,
+              "username": "Fermi_ko"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Contribute to NNNullptr/MoeKernel_Desktop development by creating an account on GitHub.",
+              "display_url": "github.com/NNNullptr/MoeK…",
+              "end": 69,
+              "expanded_url": "https://github.com/NNNullptr/MoeKernel_Desktop",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2045465675624488960/gCqjmJYN?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2045465675624488960/gCqjmJYN?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 46,
+              "status": 200,
+              "title": "GitHub - NNNullptr/MoeKernel_Desktop",
+              "unwound_url": "https://github.com/NNNullptr/MoeKernel_Desktop",
+              "url": "https://t.co/gOPEnNiWy3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045465813533266381",
+        "in_reply_to_user_id": "818146680587558913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045221480104108268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fermi_ko 我开源了这个项目，不过目前还没有完善，相当于是纯前端，如果喜欢也可以使用https://t.co/gOPEnNiWy3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "818146680587558913",
+        "conversation_id": "2045221480104108268",
+        "created_at": "2026-04-17T19:22:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T20:22:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045221480104108268"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NNNullptr/stat…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/NNNullptr/status/2045106540416561656",
+              "start": 24,
+              "url": "https://t.co/zFVTv4eVi0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045221480104108268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1363,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045106540416561656",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "太可爱了 我也想把我个人学术Page做成这样（ https://t.co/zFVTv4eVi0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "wish you have a good day",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1060,
+          "following_count": 134,
+          "like_count": 4901,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 493
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-08T17:25:43.000Z",
+        "description": "PhD candidate in particle physics，language: EN/中文。不欢迎粉红。",
+        "id": "818146680587558913",
+        "location": "Z³",
+        "name": "Majorana費米子",
+        "pinned_tweet_id": "1155361944842330113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1617602110207709184/GlRETZrS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4954,
+          "following_count": 1328,
+          "like_count": 90907,
+          "listed_count": 19,
+          "media_count": 1413,
+          "tweet_count": 42431
+        },
+        "username": "Fermi_ko",
+        "verified": false
+      }
+    ]
+  }
+}

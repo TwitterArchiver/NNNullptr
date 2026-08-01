@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2033971013000790303",
+    "created_at": "2026-03-17T18:35:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T19:35:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033975552533794892"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1538088308827656193",
+          "start": 0,
+          "username": "Luckin030"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033975552533794892",
+    "in_reply_to_user_id": "1538088308827656193",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033974910654288105",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Luckin030 我在认真考虑😞"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2033974910654288105].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2033974910654288105",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2033974910654288105"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2033971013000790303",
+        "created_at": "2026-03-17T18:35:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T19:35:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033975552533794892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1538088308827656193",
+              "start": 0,
+              "username": "Luckin030"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033975552533794892",
+        "in_reply_to_user_id": "1538088308827656193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033974910654288105",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Luckin030 我在认真考虑😞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "wish you have a good day",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "http://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/eTavjpxMtr"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2031630035707437373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990335184202588161/WaT_RP5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 878,
+          "following_count": 108,
+          "like_count": 4487,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 404
+        },
+        "url": "https://t.co/eTavjpxMtr",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-18T09:16:48.000Z",
+        "description": "Lang:🇨🇳🇯🇵🇬🇧(🇰🇷)｜Just 🥞.",
+        "id": "1538088308827656193",
+        "location": "辽东半岛的某处",
+        "name": "铃鹿松饼.🥞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029143693538820096/hl_nKZzq_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 5942,
+          "following_count": 461,
+          "like_count": 36550,
+          "listed_count": 31,
+          "media_count": 82,
+          "tweet_count": 2977
+        },
+        "username": "Luckin030",
+        "verified": false
+      }
+    ]
+  }
+}

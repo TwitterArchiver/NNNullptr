@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2055675162775961639",
+    "created_at": "2026-05-16T15:46:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T16:46:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055676327395770396"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1244543552652054528",
+          "start": 0,
+          "username": "Greenfish_111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055676327395770396",
+    "in_reply_to_user_id": "1244543552652054528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055675162775961639",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Greenfish_111 我高考裸检也是这样，不能理解为啥要一起裸检，那个护士还拉着我的手臂左右看然后又问另一个人有问题吗，幸好最后没有问题，裸检真的很诡异"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2055675162775961639",
+        "created_at": "2026-05-16T15:46:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T16:46:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055676327395770396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1244543552652054528",
+              "start": 0,
+              "username": "Greenfish_111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055676327395770396",
+        "in_reply_to_user_id": "1244543552652054528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055675162775961639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Greenfish_111 我高考裸检也是这样，不能理解为啥要一起裸检，那个护士还拉着我的手臂左右看然后又问另一个人有问题吗，幸好最后没有问题，裸检真的很诡异"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1244543552652054528",
+        "conversation_id": "2055675162775961639",
+        "created_at": "2026-05-16T15:42:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T16:42:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055675162775961639"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055675162775961639",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我之前高考体检的时候才知道要裸检。\n但我大腿上很多疤 \n然后旁边同学还跟她朋友悄悄指我说“你看你看”\n然后她朋友说“你小点声别说了”\n但我都听到了 特别尴尬 幸好我平时也不去学校 不然还不知道别人咋看我呢。\n不过有一个关系比较好的同学还问我是不是抑郁症然后跟我说没关系什么的。很感动呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "wish you have a good day",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1119,
+          "following_count": 153,
+          "like_count": 5708,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 698
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-30T08:34:48.000Z",
+        "description": "糖在风中无力地裂开\nbpd\n神秘备用号@flyfrog_222",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 19,
+                "username": "flyfrog_222"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kuainiao.online/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://kuainiao.online/#/register?code=iV5KjmJy",
+                "start": 0,
+                "url": "https://t.co/KTFJqVGMO0"
+              }
+            ]
+          }
+        },
+        "id": "1244543552652054528",
+        "location": "Silent Hill     自用梯子⬇️",
+        "name": "冰冷電子魚",
+        "pinned_tweet_id": "2047987551819194768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872220255705333760/XVl2yIEq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4934,
+          "following_count": 544,
+          "like_count": 13110,
+          "listed_count": 8,
+          "media_count": 1086,
+          "tweet_count": 14030
+        },
+        "url": "https://t.co/KTFJqVGMO0",
+        "username": "Greenfish_111",
+        "verified": true
+      }
+    ]
+  }
+}

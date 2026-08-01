@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2057301119370678585",
+    "created_at": "2026-05-21T05:06:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T06:06:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057327069760287044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1554424317483655175",
+          "start": 0,
+          "username": "yuu00401"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057327069760287044",
+    "in_reply_to_user_id": "1554424317483655175",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057301119370678585",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuu00401 夸张哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2057301119370678585",
+        "created_at": "2026-05-21T05:06:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T06:06:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057327069760287044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1554424317483655175",
+              "start": 0,
+              "username": "yuu00401"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057327069760287044",
+        "in_reply_to_user_id": "1554424317483655175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057301119370678585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuu00401 夸张哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554424317483655175",
+        "conversation_id": "2057301119370678585",
+        "created_at": "2026-05-21T03:23:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T04:23:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057301119370678585"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2057280217480372373",
+              "start": 17,
+              "url": "https://t.co/crIy8PqsyF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057301119370678585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 593,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057280217480372373",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嚯嚯嚯，夸张哦\n正装买不起一件吗 https://t.co/crIy8PqsyF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "wish you have a good day",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1137,
+          "following_count": 161,
+          "like_count": 5853,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 739
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-02T11:10:23.000Z",
+        "description": "原来我走了那么远，远到那些无话不谈，渐渐听不清了",
+        "id": "1554424317483655175",
+        "location": "拉尼亚凯亚超星系",
+        "name": "yuu🎀",
+        "pinned_tweet_id": "1979443587306647701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931386075710365696/hZ7z3fLj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4019,
+          "following_count": 768,
+          "like_count": 73961,
+          "listed_count": 6,
+          "media_count": 2366,
+          "tweet_count": 34864
+        },
+        "username": "yuu00401",
+        "verified": false
+      }
+    ]
+  }
+}

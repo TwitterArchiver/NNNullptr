@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2058593412912484513",
+    "created_at": "2026-05-24T16:58:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T17:58:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058593412912484513"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/vllm_project/s…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/vllm_project/status/2058358072020779391",
+          "start": 3,
+          "url": "https://t.co/UH4a4ulpBh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058593412912484513",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058358072020779391",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "奇了 https://t.co/UH4a4ulpBh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1247,
+        "media_key": "3_2058357685620514817",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJDBaNAbIAEr9hd.jpg",
+        "width": 1261
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2058593412912484513",
+        "created_at": "2026-05-24T16:58:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T17:58:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058593412912484513"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/vllm_project/s…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/vllm_project/status/2058358072020779391",
+              "start": 3,
+              "url": "https://t.co/UH4a4ulpBh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058593412912484513",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058358072020779391",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "奇了 https://t.co/UH4a4ulpBh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058357685620514817"
+          ]
+        },
+        "author_id": "1774187564276289536",
+        "conversation_id": "2058358072020779391",
+        "created_at": "2026-05-24T01:23:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T02:23:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058358072020779391"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Purpose Eagle3 checkpoints from NVIDIA (GPT-OSS series) store norm_before_fc inside the nested eagle_config dict rather than as a top-level config field. We currently only check the top-level, so t...",
+              "display_url": "github.com/vllm-project/v…",
+              "end": 83,
+              "expanded_url": "https://github.com/vllm-project/vllm/pull/42143",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2058358078836555776/tvsBTma8?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2058358078836555776/tvsBTma8?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 60,
+              "status": 200,
+              "title": "fix(eagle3): read norm_before_fc from eagle_config for NVIDIA checkpoint by FERRARIZHENG · Pull Request #42143 · vllm-project/vllm",
+              "unwound_url": "https://github.com/vllm-project/vllm/pull/42143",
+              "url": "https://t.co/HcEqjgnCA3"
+            },
+            {
+              "display_url": "pic.x.com/NXTZbCKjgK",
+              "end": 300,
+              "expanded_url": "https://x.com/vllm_project/status/2058358072020779391/photo/1",
+              "media_key": "3_2058357685620514817",
+              "start": 277,
+              "url": "https://t.co/NXTZbCKjgK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058358072020779391",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "github.com/vllm-project/v…",
+                "end": 83,
+                "expanded_url": "https://github.com/vllm-project/vllm/pull/42143",
+                "start": 60,
+                "url": "https://t.co/QWboSmskkF"
+              }
+            ]
+          },
+          "text": "Thanks to the community report, we recently identified a PR https://t.co/QWboSmskkF that attempted to solve a non-existent issue and was submitted as part of a “PR training” workflow for resume building.\n\nThe contributor involved has been banned from the vLLM community.\n\nThis kind of low-signal contribution increases maintainer review overhead and creates unnecessary operational costs for open-source projects.\n\nAs AI coding agents make generating large volumes of small PRs increasingly cheap, open-source communities will need to explore new ways to preserve contribution quality and reviewer trust.\n\nWhile we are investigating how to deal with AI slop, we continue to highly value contributions from real users solving real production problems.\n\nIf you have an important contribution that has not yet received maintainer attention, please email us at:\n\npr-review-request@vllm.ai\n\nUsing a verifiable company or university email, include:\n- your production or research use case\n- the problem you encountered\n- how your contribution addresses it\n\nThis helps us better prioritize impactful contributions while keeping the vLLM community open and collaborative.\n\nAs AI makes virtual contributors look increasingly real, authentic human collaboration matters more than ever.\n\nvLLM’s mission remains unchanged: to make LLM inference easy, fast, and cheap for everyone — and we will continue working toward that goal."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 91,
+          "impression_count": 125765,
+          "like_count": 397,
+          "quote_count": 42,
+          "reply_count": 22,
+          "retweet_count": 56
+        },
+        "reply_settings": "everyone",
+        "text": "Thanks to the community report, we recently identified a PR https://t.co/HcEqjgnCA3 that attempted to solve a non-existent issue and was submitted as part of a “PR training” workflow for resume building.\n\nThe contributor involved has been banned from the vLLM community.\n\nThis https://t.co/NXTZbCKjgK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "不要紧张",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1138,
+          "following_count": 164,
+          "like_count": 5937,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 765
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-30T21:31:01.000Z",
+        "description": "A high-throughput and memory-efficient inference and serving engine for LLMs. Join https://t.co/lxJ0SfX5pJ to discuss together with the community!",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "slack.vllm.ai",
+                "end": 106,
+                "expanded_url": "http://slack.vllm.ai",
+                "start": 83,
+                "url": "https://t.co/lxJ0SfX5pJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vllm.ai",
+                "end": 23,
+                "expanded_url": "https://vllm.ai",
+                "start": 0,
+                "url": "https://t.co/OSHR5C6pCV"
+              }
+            ]
+          }
+        },
+        "id": "1774187564276289536",
+        "name": "vLLM",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774187681746182144/N_5NJ8B1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39018,
+          "following_count": 36,
+          "like_count": 591,
+          "listed_count": 477,
+          "media_count": 280,
+          "tweet_count": 1001
+        },
+        "url": "https://t.co/OSHR5C6pCV",
+        "username": "vllm_project",
+        "verified": true
+      }
+    ]
+  }
+}

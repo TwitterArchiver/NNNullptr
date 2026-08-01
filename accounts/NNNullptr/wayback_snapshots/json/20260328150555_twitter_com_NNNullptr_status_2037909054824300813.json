@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2037231505140036057",
+    "created_at": "2026-03-28T15:05:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T16:05:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037909054824300813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "815091678",
+          "start": 0,
+          "username": "eeg1412"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037909054824300813",
+    "in_reply_to_user_id": "815091678",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037908755447468141",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eeg1412 这样吗，但是考虑到填写友链需要翻到下面，如果不分页人多了可能就要划很久了(●.●)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2037231505140036057",
+        "created_at": "2026-03-28T15:05:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T16:05:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037909054824300813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "815091678",
+              "start": 0,
+              "username": "eeg1412"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037909054824300813",
+        "in_reply_to_user_id": "815091678",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037908755447468141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eeg1412 这样吗，但是考虑到填写友链需要翻到下面，如果不分页人多了可能就要划很久了(●.●)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "815091678",
+        "conversation_id": "2037231505140036057",
+        "created_at": "2026-03-28T15:04:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T16:04:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037908755447468141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1858727254345281536",
+              "start": 0,
+              "username": "NNNullptr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037908755447468141",
+        "in_reply_to_user_id": "1858727254345281536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037882387246530934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NNNullptr 谢谢大佬的高效！另外有个小小的建议，友联可能不做分页体验会更好。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "wish you have a good day",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2031630035707437373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1049,
+          "following_count": 111,
+          "like_count": 4670,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 421
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2012-09-10T12:10:21.000Z",
+        "description": "社畜です！アニメやゲームに関する話題なら、何でも好きです。My blog https://t.co/7Czk8wSYvu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wikimoe.com",
+                "end": 60,
+                "expanded_url": "https://www.wikimoe.com/",
+                "start": 37,
+                "url": "https://t.co/7Czk8wSYvu"
+              }
+            ]
+          }
+        },
+        "id": "815091678",
+        "name": "hiroroki",
+        "pinned_tweet_id": "1743883113913307378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732321817157853184/-nOYKOHi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 175,
+          "like_count": 5015,
+          "listed_count": 1,
+          "media_count": 231,
+          "tweet_count": 679
+        },
+        "username": "eeg1412",
+        "verified": false
+      }
+    ]
+  }
+}

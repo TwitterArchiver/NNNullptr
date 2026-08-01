@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2063965347548672398",
+    "created_at": "2026-06-09T12:26:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T13:26:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064323194132082861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "4848269835",
+          "start": 0,
+          "username": "_FORAB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064323194132082861",
+    "in_reply_to_user_id": "4848269835",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063965347548672398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_FORAB 哦哦哦哦还有这种压抑的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1110,
+        "media_key": "3_2063962955679760384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKSrX3LbgAAFtFS.png",
+        "width": 874
+      },
+      {
+        "height": 1286,
+        "media_key": "3_2063965335531945984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKStiY0aAAAPKA_.jpg",
+        "width": 914
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2063965347548672398",
+        "created_at": "2026-06-09T12:26:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T13:26:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064323194132082861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "4848269835",
+              "start": 0,
+              "username": "_FORAB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064323194132082861",
+        "in_reply_to_user_id": "4848269835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063965347548672398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_FORAB 哦哦哦哦还有这种压抑的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063962955679760384",
+            "3_2063965335531945984"
+          ]
+        },
+        "author_id": "4848269835",
+        "conversation_id": "2063965347548672398",
+        "created_at": "2026-06-08T12:44:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T13:44:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063965347548672398"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ezI46i0AMn",
+              "end": 165,
+              "expanded_url": "https://x.com/_FORAB/status/2063965347548672398/photo/1",
+              "media_key": "3_2063962955679760384",
+              "start": 142,
+              "url": "https://t.co/ezI46i0AMn"
+            },
+            {
+              "display_url": "pic.x.com/ezI46i0AMn",
+              "end": 165,
+              "expanded_url": "https://x.com/_FORAB/status/2063965347548672398/photo/1",
+              "media_key": "3_2063965335531945984",
+              "start": 142,
+              "url": "https://t.co/ezI46i0AMn"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "594fa6c6bc5b5ba9"
+        },
+        "id": "2063965347548672398",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 294,
+          "impression_count": 231617,
+          "like_count": 667,
+          "quote_count": 48,
+          "reply_count": 357,
+          "retweet_count": 74
+        },
+        "reply_settings": "everyone",
+        "text": "硅谷目前正逐渐流行，一种新的异性伴侣服务，每天收费高达 2.3 万美金。\n\n与常规付费女伴侣不同，她们普遍受过高等教育，能深入跟你讨论 AI、半导体、美股等话题，通常智商在线。\n\n而主要客户也都是硅谷的 AI 科技精英，如英伟达工程师，他们因长时间加班，渴望这种同认知水平异性社交。 https://t.co/ezI46i0AMn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "Math Student & Tech Enthusiast",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1197,
+          "following_count": 172,
+          "like_count": 6691,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 958
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-26T05:08:44.000Z",
+        "description": "热爱研究、热爱家庭、热爱分享，2016 年入行从业。",
+        "id": "4848269835",
+        "location": "🇯🇵 Tokyo , Japan",
+        "name": "AB Kuai.Dong",
+        "pinned_tweet_id": "1910255140734644382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1747252669897691136/wS_-7gEt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127964,
+          "following_count": 626,
+          "like_count": 10291,
+          "listed_count": 2001,
+          "media_count": 3683,
+          "tweet_count": 15018
+        },
+        "username": "_FORAB",
+        "verified": true
+      }
+    ]
+  }
+}

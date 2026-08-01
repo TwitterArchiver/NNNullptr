@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2057013635415966151",
+    "created_at": "2026-05-20T14:57:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T15:57:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057113493233639642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1918857660835020800",
+          "start": 0,
+          "username": "mji1627885"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057113493233639642",
+    "in_reply_to_user_id": "1918857660835020800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057013635415966151",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mji1627885 我看过"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2057013635415966151",
+        "created_at": "2026-05-20T14:57:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T15:57:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057113493233639642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1918857660835020800",
+              "start": 0,
+              "username": "mji1627885"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057113493233639642",
+        "in_reply_to_user_id": "1918857660835020800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057013635415966151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mji1627885 我看过"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918857660835020800",
+        "conversation_id": "2057013635415966151",
+        "created_at": "2026-05-20T08:20:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T09:20:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057013635415966151"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057013635415966151",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 20096,
+          "like_count": 161,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我小时候会在网上搜索“女生打赌输了任人摆布”的不知道谁写的小短文然后开始扣。结果长大之后大概是互联网环境被净化了，搜不到这种文了。缅怀。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "wish you have a good day",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1135,
+          "following_count": 159,
+          "like_count": 5848,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 735
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-04T02:38:19.000Z",
+        "description": "想被女人操。",
+        "id": "1918857660835020800",
+        "name": "恨",
+        "pinned_tweet_id": "2056935059790483709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053764890670796800/2zcvYowU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 739,
+          "following_count": 510,
+          "like_count": 4059,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 113
+        },
+        "username": "mji1627885",
+        "verified": false
+      }
+    ]
+  }
+}

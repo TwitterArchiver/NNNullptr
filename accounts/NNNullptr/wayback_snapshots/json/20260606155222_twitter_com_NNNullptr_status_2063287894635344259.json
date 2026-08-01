@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2063287894635344259",
+    "created_at": "2026-06-06T15:52:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T16:52:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063287894635344259"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/052ysk/status/…",
+          "end": 176,
+          "expanded_url": "https://twitter.com/052ysk/status/2063221825761636853",
+          "start": 153,
+          "url": "https://t.co/frg90EWqZA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063287894635344259",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063221825761636853",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "⠀⠀😭😭😭😭😭😭\n   😭                   😭😭\n😭                  😭    😭\n😭😭😭😭😭     😭\n😭                 😭     😭\n😭                 😭     😭\n😭                 😭 😭\n😭😭😭😭😭 https://t.co/frg90EWqZA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2063287894635344259",
+        "created_at": "2026-06-06T15:52:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T16:52:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063287894635344259"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/052ysk/status/…",
+              "end": 176,
+              "expanded_url": "https://twitter.com/052ysk/status/2063221825761636853",
+              "start": 153,
+              "url": "https://t.co/frg90EWqZA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063287894635344259",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063221825761636853",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "⠀⠀😭😭😭😭😭😭\n   😭                   😭😭\n😭                  😭    😭\n😭😭😭😭😭     😭\n😭                 😭     😭\n😭                 😭     😭\n😭                 😭 😭\n😭😭😭😭😭 https://t.co/frg90EWqZA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1057087644453093377",
+        "conversation_id": "2063221825761636853",
+        "created_at": "2026-06-06T11:29:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T12:29:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063221825761636853"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/angelflesh3/st…",
+              "end": 236,
+              "expanded_url": "https://twitter.com/angelflesh3/status/2062606868502262142",
+              "start": 213,
+              "url": "https://t.co/tsDNOPfrBH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063221825761636853",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1648,
+          "impression_count": 1613645,
+          "like_count": 61299,
+          "quote_count": 104,
+          "reply_count": 118,
+          "retweet_count": 5853
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062606868502262142",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "⠀\n       😭───── 😭\n      ／   │                  ／ │\n  ／       │              ／     │\n 😭────😭         │\n │         😭──│ ──😭\n │        ／          │        ／\n │    ／              │    ／\n │／                  │／\n😭────😭 https://t.co/tsDNOPfrBH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "Math Student & Tech Enthusiast",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1188,
+          "following_count": 172,
+          "like_count": 6573,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 917
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-30T01:51:48.000Z",
+        "description": "私たち神話になるの",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@052ysk",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@052ysk",
+                "start": 0,
+                "url": "https://t.co/duO2GwJXj1"
+              }
+            ]
+          }
+        },
+        "id": "1057087644453093377",
+        "location": "愛知",
+        "name": "陽介",
+        "pinned_tweet_id": "1788881576232907043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934658534886789121/E-AE9lfg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119006,
+          "following_count": 180,
+          "like_count": 57277,
+          "listed_count": 678,
+          "media_count": 1726,
+          "tweet_count": 5884
+        },
+        "url": "https://t.co/duO2GwJXj1",
+        "username": "052ysk",
+        "verified": true
+      }
+    ]
+  }
+}

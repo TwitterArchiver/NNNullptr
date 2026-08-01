@@ -1,0 +1,464 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040692468",
+          "name": "GitHub"
+        }
+      }
+    ],
+    "conversation_id": "2033468001144689015",
+    "created_at": "2026-03-16T08:58:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T09:58:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033468001144689015"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1974653328274714624",
+          "start": 3,
+          "username": "AYi_AInotes"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033468001144689015",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 448
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033237512995684492",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AYi_AInotes: 程序员圈估计要炸了，\n\n有人把全网从零开始造轮子教程都汇总到了一起，\n\n这个叫自建XX的项目，现在已经是GitHub星标最高的仓库了，\n\n46.6万颗星，超过React，超过TensorFlow，比所有热门工具库的星标都多。… https://…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1214,
+        "media_key": "3_2033237501050277888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDeCvBIa0AAprGC.jpg",
+        "width": 1224
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2033468001144689015",
+        "created_at": "2026-03-16T08:58:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T09:58:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033468001144689015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1974653328274714624",
+              "start": 3,
+              "username": "AYi_AInotes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033468001144689015",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 448
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033237512995684492",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AYi_AInotes: 程序员圈估计要炸了，\n\n有人把全网从零开始造轮子教程都汇总到了一起，\n\n这个叫自建XX的项目，现在已经是GitHub星标最高的仓库了，\n\n46.6万颗星，超过React，超过TensorFlow，比所有热门工具库的星标都多。… https://…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033237501050277888"
+          ]
+        },
+        "author_id": "1974653328274714624",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2033237512995684492",
+        "created_at": "2026-03-15T17:42:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T18:42:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033237512995684492"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/maQ6SMGxHC",
+              "end": 136,
+              "expanded_url": "https://x.com/AYi_AInotes/status/2033237512995684492/photo/1",
+              "media_key": "3_2033237501050277888",
+              "start": 113,
+              "url": "https://t.co/maQ6SMGxHC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033237512995684492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "程序员圈估计要炸了，\n\n有人把全网从零开始造轮子教程都汇总到了一起，\n\n这个叫自建XX的项目，现在已经是GitHub星标最高的仓库了，\n\n46.6万颗星，超过React，超过TensorFlow，比所有热门工具库的星标都多。\n\n它本身不是什么代码库，就是一套教程合集，一步步教你怎么从零开始，把你天天用的技术亲手再做一遍。\n\n费曼说过一句话：凡我不能亲手创造的，我便无法真正理解。\n\n这就是它为什么火，\n喵个咪，内容真的吓人：\n从从零克隆Redis，到500行C写Docker，自己实现Git，不调框架写神经网络，C语言写操作系统，从解释器开始做编程语言，逐像素做光线追踪渲染器...还有Web服务器、浏览器、搜索引擎、区块链、BT客户端，什么都有🥹\n\n每个项目都有多语言版本，主流语言基本覆盖了，\n\n很多人没看懂，但这真不是给新手找活干的教程，\n可以说是软件工程师最高阶的学习材料了，\n当你从零重建一遍系统，你就得直面当年原作者做的每一个技术决策——没有依赖库可以躲，没有封装好的接口可以调用，错了就是错了，跑不起来就是跑不起来，无处可逃😂\n\n现在AI生成代码越来越方便了，但这种知识反而越来越值钱，AI能帮你调库写接口，但它替不了真正懂系统本质的人。\n\n46.6万人标星，4万多人复刻分支，所有内容全免费，不需要注册，不需要付费。\n理解一件事最好的方式，就是亲手把它做出来，\n100%免费，100%开源，真的牛逼，\nGitHub链接放评论区了 👇"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2752,
+          "impression_count": 158563,
+          "like_count": 2212,
+          "quote_count": 4,
+          "reply_count": 20,
+          "retweet_count": 448
+        },
+        "reply_settings": "everyone",
+        "text": "程序员圈估计要炸了，\n\n有人把全网从零开始造轮子教程都汇总到了一起，\n\n这个叫自建XX的项目，现在已经是GitHub星标最高的仓库了，\n\n46.6万颗星，超过React，超过TensorFlow，比所有热门工具库的星标都多。 https://t.co/maQ6SMGxHC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "wish you have a good day",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "http://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/eTavjpxMtr"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2031630035707437373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990335184202588161/WaT_RP5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 879,
+          "following_count": 107,
+          "like_count": 4458,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 397
+        },
+        "url": "https://t.co/eTavjpxMtr",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T01:50:40.000Z",
+        "description": "用 AI 拆一切：AI 实践 / AI×认知成长 / AI× 商业 / 健身 / AI× 信息差 🧗‍♀️心理学硕士 × 10年大厂 OTD × 摄影老炮 → All in AIGC 🚵‍♂️亏过 100W+，爬出来的过程全写在这 🏋️ 10年+体脂15% · 🐈 ×4",
+        "id": "1974653328274714624",
+        "name": "阿绎 AYi",
+        "pinned_tweet_id": "2033237512995684492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989157446829350912/pW828UwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19597,
+          "following_count": 535,
+          "like_count": 6277,
+          "listed_count": 183,
+          "media_count": 459,
+          "tweet_count": 4715
+        },
+        "username": "AYi_AInotes",
+        "verified": true
+      }
+    ]
+  }
+}

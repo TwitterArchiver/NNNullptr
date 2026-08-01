@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2062585588835045434",
+    "created_at": "2026-06-05T09:32:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T10:32:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062830012475306004"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1858763452732633090",
+          "start": 0,
+          "username": "DeepKlee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062830012475306004",
+    "in_reply_to_user_id": "1858763452732633090",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062585588835045434",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DeepKlee 现在应该炒不了美股了吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2062585588835045434",
+        "created_at": "2026-06-05T09:32:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T10:32:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062830012475306004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1858763452732633090",
+              "start": 0,
+              "username": "DeepKlee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062830012475306004",
+        "in_reply_to_user_id": "1858763452732633090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062585588835045434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DeepKlee 现在应该炒不了美股了吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858763452732633090",
+        "conversation_id": "2062585588835045434",
+        "created_at": "2026-06-04T17:21:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T18:21:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062585588835045434"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062585588835045434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 1728,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我认为大学生正是学习的好时候，就应该多问AI、多炒美股、多办签证，专心研究权力、金钱、名誉和女人，重在提升认知而非贱卖时间。多动脑子想想道德与制度是为何设置的，把工业时代以来反博雅教育的毒素全部排掉。你不走“正途”、不做出符合“大学生”身份的事情去做嘉豪，老登们就沒得赚了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "Math Student & Tech Enthusiast",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1179,
+          "following_count": 172,
+          "like_count": 6514,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 908
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-19T06:45:28.000Z",
+        "description": "Existential Warrior | Ojisan-Type Tech Otaku Loli (???) | High-Performance Bishoujo | Fallen Nasdaq Cultist | Esteemed ChatGPT Pro Subscriber | MoE LLM DeepKlee",
+        "id": "1858763452732633090",
+        "location": "Mt. Linghua",
+        "name": "Klee Kawaii",
+        "pinned_tweet_id": "2053826158186447103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062827347209015296/QcWpnexa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2295,
+          "following_count": 241,
+          "like_count": 9438,
+          "listed_count": 20,
+          "media_count": 234,
+          "tweet_count": 5748
+        },
+        "username": "DeepKlee",
+        "verified": false
+      }
+    ]
+  }
+}

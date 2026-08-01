@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2066984496495575335",
+    "created_at": "2026-06-16T21:26:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T22:26:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066995979971342760"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2066995979971342760",
+    "in_reply_to_user_id": "1858727254345281536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066995976976650407",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一个人能在高位欺负地位比他低的人，也不过是这个特定环境下而已，人本质上是一坨骨架和生肉。一旦换了圈子换了环境，就失去了这个能力，一旦跳出评价，更是只是一个可以使用工具的猴子。\n\n​就算真的把这样一个人带走了其实也不会有什么事情，其他人为了维护群体的名声，也要尽力维持整体的平静。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2066984496495575335",
+        "created_at": "2026-06-16T21:26:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T22:26:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066995979971342760"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066995979971342760",
+        "in_reply_to_user_id": "1858727254345281536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066995976976650407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一个人能在高位欺负地位比他低的人，也不过是这个特定环境下而已，人本质上是一坨骨架和生肉。一旦换了圈子换了环境，就失去了这个能力，一旦跳出评价，更是只是一个可以使用工具的猴子。\n\n​就算真的把这样一个人带走了其实也不会有什么事情，其他人为了维护群体的名声，也要尽力维持整体的平静。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2066984496495575335",
+        "created_at": "2026-06-16T21:26:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T22:26:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066995976976650407"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066995976976650407",
+        "in_reply_to_user_id": "1858727254345281536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066984909856755723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我每每看到某人因为被导师/学校/老板针对/压榨，各种原因无路可走而县中的时候，我的内心对于社会关系的理解也逐渐崩塌了。我想我意识中第一次崩塌就是因为无锡，从此以后对于我内心无助，恐惧的那部分开始意识到，只要无所谓无牵挂就不用恐惧别人的地位。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "Math Student & Tech Enthusiast",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1202,
+          "following_count": 173,
+          "like_count": 6872,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 1015
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2081974962680676737",
+    "created_at": "2026-07-28T05:28:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T06:28:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081974962680676737"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2081974962680676737",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我感觉我还是想休学，主要的原因就是我现在阶段性的状态很糟糕，而且很多时候感觉就是硬撑。一是几乎承受不了任何压力，特别是涉及到工作，升学，考试几乎一认真想就觉得很崩溃，二是就算没有压力也会定期崩溃，是我本身的症状，我又不吃任何药，每次发作起来我都真的觉得自己没半条命。但是我不敢休学"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2081974962680676737",
+        "created_at": "2026-07-28T05:28:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T06:28:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081974962680676737"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081974962680676737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉我还是想休学，主要的原因就是我现在阶段性的状态很糟糕，而且很多时候感觉就是硬撑。一是几乎承受不了任何压力，特别是涉及到工作，升学，考试几乎一认真想就觉得很崩溃，二是就算没有压力也会定期崩溃，是我本身的症状，我又不吃任何药，每次发作起来我都真的觉得自己没半条命。但是我不敢休学"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "捉摸不透的用户：南方的狼",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1310,
+          "following_count": 185,
+          "like_count": 7437,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 1160
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      }
+    ]
+  }
+}

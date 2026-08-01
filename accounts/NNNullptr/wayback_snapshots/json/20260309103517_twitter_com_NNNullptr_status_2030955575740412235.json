@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2030945823534821651",
+    "created_at": "2026-03-09T10:35:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T11:35:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030955575740412235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1302118861995536387",
+          "start": 0,
+          "username": "Jiaxi_Cui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030955575740412235",
+    "in_reply_to_user_id": "1302118861995536387",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030945823534821651",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jiaxi_Cui 太多人这么想，难怪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1194,
+        "media_key": "3_2030945814668091393",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC9edUFboAEcuKL.jpg",
+        "width": 1194
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2030945823534821651",
+        "created_at": "2026-03-09T10:35:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T11:35:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030955575740412235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1302118861995536387",
+              "start": 0,
+              "username": "Jiaxi_Cui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030955575740412235",
+        "in_reply_to_user_id": "1302118861995536387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030945823534821651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jiaxi_Cui 太多人这么想，难怪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030945814668091393"
+          ]
+        },
+        "author_id": "1302118861995536387",
+        "conversation_id": "2030945823534821651",
+        "created_at": "2026-03-09T09:56:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T10:56:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030945823534821651"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MtHxteAmUO",
+              "end": 136,
+              "expanded_url": "https://x.com/Jiaxi_Cui/status/2030945823534821651/photo/1",
+              "media_key": "3_2030945814668091393",
+              "start": 113,
+              "url": "https://t.co/MtHxteAmUO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030945823534821651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "前两年其实不太喜欢 MiniMax，主要是不喜欢他们传出来的文化。据说整个 Team 非常社达，认为未来会走向赛博朋克式的图景：几个财团掌握一切，普通人挣扎在生存线上。在那一天到来之前，先让自己成为人上人，至少能活得舒服一点\n\n彼时我在做普惠大众的法律模型，‘但愿世间不纷争，何惜法典卷生尘’是我半夜想出来的slogan\n\n不管这个传言是否正确，但现在我其实觉得是对的。GenAI会是最后一波人类革命了\n\n你要掌握的东西只是如何正确聊天，任何问题都不如直接问 AI。不需要在乎权威，不需要听医生、律师、分析师的话，这些行业仍然会有顶尖人才的存在，但平均水平、正确率远不如AI\n\n和普通人交流就是负作用，没有任何增益，It's all noise，纯浪费时间。很多人以为他们的数据起码能让AI变得更聪明，但真相是公司会花大量精力把普通人的聊天记录筛出来删掉，因为太脏了，对模型训练没有价值\n\n所以，如果你并不打算赚他们的钱，那就别在他们身上浪费时间。\n\nX 现在的收益机制改得也很合理：普通用户的访问、评论、点赞，价值几乎可以忽略不计；付费用户的注意力才值钱\n\n听起来这是一个可怕的时代，但这又是最高效的时代，在财阀割据时代到来之前，抓紧时间上车吧"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1105,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "前两年其实不太喜欢 MiniMax，主要是不喜欢他们传出来的文化。据说整个 Team 非常社达，认为未来会走向赛博朋克式的图景：几个财团掌握一切，普通人挣扎在生存线上。在那一天到来之前，先让自己成为人上人，至少能活得舒服一点 https://t.co/MtHxteAmUO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "wish you have a good day",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "http://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/eTavjpxMtr"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "1871186436877357201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990335184202588161/WaT_RP5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 883,
+          "following_count": 105,
+          "like_count": 4375,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 358
+        },
+        "url": "https://t.co/eTavjpxMtr",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-05T05:38:34.000Z",
+        "description": "Video AI",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "scholar.google.com/citations?user…",
+                "end": 23,
+                "expanded_url": "https://scholar.google.com/citations?user=QRV7CjgAAAAJ",
+                "start": 0,
+                "url": "https://t.co/HnAKMxn4aS"
+              }
+            ]
+          }
+        },
+        "id": "1302118861995536387",
+        "location": "BeiJing",
+        "name": "Panda",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677124881144770560/W6zZ-Zux_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18943,
+          "following_count": 905,
+          "like_count": 3058,
+          "listed_count": 187,
+          "media_count": 498,
+          "tweet_count": 2982
+        },
+        "url": "https://t.co/HnAKMxn4aS",
+        "username": "Jiaxi_Cui",
+        "verified": true
+      }
+    ]
+  }
+}

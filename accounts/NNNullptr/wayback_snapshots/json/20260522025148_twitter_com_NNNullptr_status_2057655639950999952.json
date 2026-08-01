@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2057456353862733912",
+    "created_at": "2026-05-22T02:51:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T03:51:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057655639950999952"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1863073460",
+          "start": 0,
+          "username": "l_zoet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057655639950999952",
+    "in_reply_to_user_id": "1863073460",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057456353862733912",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@l_zoet 对大学生来说太贵了，我开一个月是将近一周饭钱了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2057456353862733912",
+        "created_at": "2026-05-22T02:51:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T03:51:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057655639950999952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1863073460",
+              "start": 0,
+              "username": "l_zoet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057655639950999952",
+        "in_reply_to_user_id": "1863073460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057456353862733912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@l_zoet 对大学生来说太贵了，我开一个月是将近一周饭钱了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863073460",
+        "conversation_id": "2057456353862733912",
+        "created_at": "2026-05-21T13:39:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T14:39:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057456353862733912"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057456353862733912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 131,
+          "impression_count": 65229,
+          "like_count": 398,
+          "quote_count": 6,
+          "reply_count": 155,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "这个学期，只要有机会我就跟学生说把Claude Code和Codex用起来。\n\n这个学期快结束了，只有一个学生使用Claude Code，大失所望……\n\n不太明白现在的学生是怎么做到对摆在面前的巨大红利置若罔闻😂😂\n\n以后再劝一个字我是🐶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "不要紧张",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1138,
+          "following_count": 161,
+          "like_count": 5887,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 746
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2013-09-14T08:05:01.000Z",
+        "description": "🥊 最会打泰拳的科研人员\n📖 最会做科研的业余泰拳选手\n🤖 AI玩家｜工学博士\n🚧 外企→公务员→创业→高校",
+        "id": "1863073460",
+        "name": "加勒比海带",
+        "pinned_tweet_id": "2033415646428659737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052191664404574208/6xbaCC1v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1722,
+          "following_count": 886,
+          "like_count": 2514,
+          "listed_count": 7,
+          "media_count": 152,
+          "tweet_count": 1962
+        },
+        "username": "l_zoet",
+        "verified": true
+      }
+    ]
+  }
+}

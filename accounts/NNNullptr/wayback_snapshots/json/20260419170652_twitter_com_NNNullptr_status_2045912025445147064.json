@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2045857340965143027",
+    "created_at": "2026-04-19T17:06:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T18:06:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045912025445147064"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1202233339488305153",
+          "start": 0,
+          "username": "affectbitter"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045912025445147064",
+    "in_reply_to_user_id": "1202233339488305153",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045857340965143027",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@affectbitter 也是被我窥见天意了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2045857300032958464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGRYX_2asAA6BZ_.jpg",
+        "width": 726
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2045857340965143027",
+        "created_at": "2026-04-19T17:06:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T18:06:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045912025445147064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1202233339488305153",
+              "start": 0,
+              "username": "affectbitter"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045912025445147064",
+        "in_reply_to_user_id": "1202233339488305153",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045857340965143027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@affectbitter 也是被我窥见天意了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045857300032958464"
+          ]
+        },
+        "author_id": "1202233339488305153",
+        "conversation_id": "2045857340965143027",
+        "created_at": "2026-04-19T13:29:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T14:29:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045857340965143027"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hc7vsKhz6L",
+              "end": 32,
+              "expanded_url": "https://x.com/affectbitter/status/2045857340965143027/photo/1",
+              "media_key": "3_2045857300032958464",
+              "start": 9,
+              "url": "https://t.co/Hc7vsKhz6L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045857340965143027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 4852,
+          "like_count": 228,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "这有什么可咔我的 https://t.co/Hc7vsKhz6L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "wish you have a good day",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1068,
+          "following_count": 133,
+          "like_count": 4911,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 498
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-04T14:29:07.000Z",
+        "description": "20+/中国人🇨🇳/成人腐/⚠️DONT REPOST MY WORK ⚠️/私信看不到/❤️Journey to the west KongJian🐒👁️空戬/ 🚫❌❌blackmythWukong❌❌🚫AI ！🤬",
+        "id": "1202233339488305153",
+        "location": "Anor Londo",
+        "name": "爱你十万年",
+        "pinned_tweet_id": "1842219088715878650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044105681847103489/39clDAtO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46357,
+          "following_count": 268,
+          "like_count": 2501,
+          "listed_count": 165,
+          "media_count": 651,
+          "tweet_count": 1004
+        },
+        "username": "affectbitter",
+        "verified": false
+      }
+    ]
+  }
+}

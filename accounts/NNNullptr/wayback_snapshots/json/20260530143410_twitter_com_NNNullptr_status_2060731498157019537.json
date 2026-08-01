@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2060696653171167364",
+    "created_at": "2026-05-30T14:34:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T15:34:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060731498157019537"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1703018982390087680",
+          "start": 0,
+          "username": "TomatodeKing"
+        },
+        {
+          "end": 28,
+          "id": "1346974977434771460",
+          "start": 14,
+          "username": "N0rthern_Land"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060731498157019537",
+    "in_reply_to_user_id": "1703018982390087680",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060711370430308604",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TomatodeKing @N0rthern_Land 对啊老累完全强女啊，😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2060696653171167364",
+        "created_at": "2026-05-30T14:34:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T15:34:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060731498157019537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1703018982390087680",
+              "start": 0,
+              "username": "TomatodeKing"
+            },
+            {
+              "end": 28,
+              "id": "1346974977434771460",
+              "start": 14,
+              "username": "N0rthern_Land"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060731498157019537",
+        "in_reply_to_user_id": "1703018982390087680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060711370430308604",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TomatodeKing @N0rthern_Land 对啊老累完全强女啊，😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1703018982390087680",
+        "conversation_id": "2060696653171167364",
+        "created_at": "2026-05-30T13:14:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T14:14:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060711370430308604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1346974977434771460",
+              "start": 0,
+              "username": "N0rthern_Land"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060711370430308604",
+        "in_reply_to_user_id": "1346974977434771460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 137,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060696653171167364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N0rthern_Land 老累完全是强女，在当时的行业里有话语权并且敢说话，未婚未育，靠自己赚钱上艺术院校，应该是她们最喜欢的那种才对"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "Math Student & Tech Enthusiast",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1149,
+          "following_count": 169,
+          "like_count": 6292,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 851
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-16T12:12:28.000Z",
+        "description": "是的，我超级幸福🍅",
+        "id": "1703018982390087680",
+        "location": "番茄牛腩汤",
+        "name": "她猫头₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "pinned_tweet_id": "1802660733219635442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802713783418437632/CYcZHolW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8718,
+          "following_count": 124,
+          "like_count": 30361,
+          "listed_count": 19,
+          "media_count": 4238,
+          "tweet_count": 33976
+        },
+        "username": "TomatodeKing",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-07T00:20:49.000Z",
+        "description": "bi/日常推/从那不勒斯到今天走了有多远/🏳️‍🌈/看黄男别关注我/目前只有×&小红书账号，其他平台出现均为盗窃。女朋友：@ayashikinoco\n私信和误ban解除请发在里账：@Private_plot",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 61,
+                "username": "ayashikinoco"
+              },
+              {
+                "end": 103,
+                "start": 90,
+                "username": "Private_plot"
+              }
+            ]
+          }
+        },
+        "id": "1346974977434771460",
+        "name": "南长尾山雀",
+        "pinned_tweet_id": "1777993830031302950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056942176878444544/dwWBMQ9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63566,
+          "following_count": 884,
+          "like_count": 114983,
+          "listed_count": 154,
+          "media_count": 3692,
+          "tweet_count": 36762
+        },
+        "username": "N0rthern_Land",
+        "verified": true
+      }
+    ]
+  }
+}

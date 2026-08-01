@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2067819201524641985",
+    "created_at": "2026-06-19T09:08:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T10:08:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067897284960915526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1991045969371361280",
+          "start": 0,
+          "username": "Russell3402"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067897284960915526",
+    "in_reply_to_user_id": "1991045969371361280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067819201524641985",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Russell3402 都是同龄人我原本没想降维打击"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1309,
+        "media_key": "3_2067819168305692672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLJek-qawAAx61g.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2067819201524641985",
+        "created_at": "2026-06-19T09:08:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T10:08:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067897284960915526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1991045969371361280",
+              "start": 0,
+              "username": "Russell3402"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067897284960915526",
+        "in_reply_to_user_id": "1991045969371361280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067819201524641985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Russell3402 都是同龄人我原本没想降维打击"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067819168305692672"
+          ]
+        },
+        "author_id": "1991045969371361280",
+        "conversation_id": "2067819201524641985",
+        "created_at": "2026-06-19T03:58:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T04:58:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067819201524641985"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aRI2dHCG3u",
+              "end": 40,
+              "expanded_url": "https://x.com/Russell3402/status/2067819201524641985/photo/1",
+              "media_key": "3_2067819168305692672",
+              "start": 17,
+              "url": "https://t.co/aRI2dHCG3u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067819201524641985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 19730,
+          "like_count": 78,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这这这...这\n开源精神万岁？😂 https://t.co/aRI2dHCG3u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "Math Student & Tech Enthusiast",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1206,
+          "following_count": 175,
+          "like_count": 6976,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 1030
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-19T07:28:56.000Z",
+        "description": "05年大学生\n用AI赚到人生第123456789桶金\nAI玩咖 | 独立开发者 | 连续创业\n利他是最好的商业模式 坚信文字的力量\n保持谦逊",
+        "id": "1991045969371361280",
+        "name": "Russell",
+        "pinned_tweet_id": "2067095960275292287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027629616744304640/7fyIwFFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5565,
+          "following_count": 210,
+          "like_count": 8748,
+          "listed_count": 17,
+          "media_count": 425,
+          "tweet_count": 4448
+        },
+        "url": "",
+        "username": "Russell3402",
+        "verified": true
+      }
+    ]
+  }
+}

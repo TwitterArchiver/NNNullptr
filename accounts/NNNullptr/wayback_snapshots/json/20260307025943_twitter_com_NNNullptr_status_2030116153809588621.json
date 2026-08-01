@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2029941413048386029",
+    "created_at": "2026-03-07T02:59:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T03:59:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030116153809588621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1628794781257302016",
+          "start": 0,
+          "username": "DLKFZWilliam2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030116153809588621",
+    "in_reply_to_user_id": "1628794781257302016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029941413048386029",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DLKFZWilliam2 幽默，这回是真的排队存款送鸡蛋了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2029941413048386029",
+        "created_at": "2026-03-07T02:59:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T03:59:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030116153809588621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1628794781257302016",
+              "start": 0,
+              "username": "DLKFZWilliam2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030116153809588621",
+        "in_reply_to_user_id": "1628794781257302016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029941413048386029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DLKFZWilliam2 幽默，这回是真的排队存款送鸡蛋了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628794781257302016",
+        "conversation_id": "2029941413048386029",
+        "created_at": "2026-03-06T15:25:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T16:25:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029941413048386029"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lzrationalnves…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/lzrationalnvest/status/2029824516030132414",
+              "start": 38,
+              "url": "https://t.co/nFJV9HsnOT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029941413048386029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 439,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029824516030132414",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大爷，这个您买的是理财产品和保险啊，不是存款啊！您看看这白纸黑字写着呢！😈 https://t.co/nFJV9HsnOT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "wish you have a good day🍄🍄🍄",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "http://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/eTavjpxMtr"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "1871186436877357201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990335184202588161/WaT_RP5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 881,
+          "following_count": 97,
+          "like_count": 4349,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 356
+        },
+        "url": "https://t.co/eTavjpxMtr",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-23T16:32:36.000Z",
+        "description": "Hi,☺️.我是一个温柔又有点古怪的有趣中年大叔,一直沉浸在自己的世界里｜原投行打工｜半路出家的退休 Dev｜全职Comedian｜养成系变装跳绳up主｜主持No.1 US Biz & Tax 播客｜写代码| 玩游戏,玩音乐,搞点艺术｜搞抽象是为了给你带来欢笑和流量，对任何人无恶意，笔芯🫰 美国报税👇 商务合作私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "setupyourpay.com/llc-tax/WILLIAM",
+                "end": 23,
+                "expanded_url": "https://www.setupyourpay.com/llc-tax/WILLIAM",
+                "start": 0,
+                "url": "https://t.co/d84sTOPNfL"
+              }
+            ]
+          }
+        },
+        "id": "1628794781257302016",
+        "location": "USA",
+        "name": "独立开发者William",
+        "pinned_tweet_id": "2028334334856647087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008690803015557120/ShVfeubt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8412,
+          "following_count": 1374,
+          "like_count": 6980,
+          "listed_count": 77,
+          "media_count": 354,
+          "tweet_count": 1692
+        },
+        "url": "https://t.co/d84sTOPNfL",
+        "username": "DLKFZWilliam2",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2031194465403285968",
+    "created_at": "2026-03-10T09:01:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T10:01:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031294257114517691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1302118861995536387",
+          "start": 0,
+          "username": "Jiaxi_Cui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031294257114517691",
+    "in_reply_to_user_id": "1302118861995536387",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031194465403285968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jiaxi_Cui 。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2031194465403285968",
+        "created_at": "2026-03-10T09:01:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T10:01:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031294257114517691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1302118861995536387",
+              "start": 0,
+              "username": "Jiaxi_Cui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031294257114517691",
+        "in_reply_to_user_id": "1302118861995536387",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031194465403285968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jiaxi_Cui 。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1302118861995536387",
+        "conversation_id": "2031194465403285968",
+        "created_at": "2026-03-10T02:24:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T03:24:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031194465403285968"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CoooolXyh/stat…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/CoooolXyh/status/2031189163471765899",
+              "start": 33,
+              "url": "https://t.co/CPYVlWWfFE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031194465403285968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4323,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031189163471765899",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "腾讯还是太权威了，套壳OpenClaw，改个网关，然后默认隐藏掉 https://t.co/CPYVlWWfFE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "wish you have a good day",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "http://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/eTavjpxMtr"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "1871186436877357201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990335184202588161/WaT_RP5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 881,
+          "following_count": 105,
+          "like_count": 4377,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 361
+        },
+        "url": "https://t.co/eTavjpxMtr",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-05T05:38:34.000Z",
+        "description": "Video AI",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "scholar.google.com/citations?user…",
+                "end": 23,
+                "expanded_url": "https://scholar.google.com/citations?user=QRV7CjgAAAAJ",
+                "start": 0,
+                "url": "https://t.co/HnAKMxn4aS"
+              }
+            ]
+          }
+        },
+        "id": "1302118861995536387",
+        "location": "BeiJing",
+        "name": "Panda",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677124881144770560/W6zZ-Zux_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18971,
+          "following_count": 908,
+          "like_count": 3066,
+          "listed_count": 189,
+          "media_count": 505,
+          "tweet_count": 3009
+        },
+        "url": "https://t.co/HnAKMxn4aS",
+        "username": "Jiaxi_Cui",
+        "verified": true
+      }
+    ]
+  }
+}

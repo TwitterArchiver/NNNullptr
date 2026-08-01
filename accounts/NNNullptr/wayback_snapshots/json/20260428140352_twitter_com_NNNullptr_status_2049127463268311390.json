@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2049127463268311390",
+    "created_at": "2026-04-28T14:03:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T15:03:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049127463268311390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1468567542264664067",
+          "start": 3,
+          "username": "Angelica_zj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049127463268311390",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048856673457000604",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Angelica_zj: 一个同为设计专业的朋友曾是坚定的社达，坚持认为普通人的境遇与社会无关，痛苦都是不努力导致的，和此人讨论过相关问题后不欢而散\n自那很久直到最近GPT生图新模型出世，ta居然也开始对自己的未来感到焦虑恐慌。我很好奇，此时的ta是否还会想起当初那番咄…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2049127463268311390",
+        "created_at": "2026-04-28T14:03:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T15:03:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049127463268311390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1468567542264664067",
+              "start": 3,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049127463268311390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048856673457000604",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Angelica_zj: 一个同为设计专业的朋友曾是坚定的社达，坚持认为普通人的境遇与社会无关，痛苦都是不努力导致的，和此人讨论过相关问题后不欢而散\n自那很久直到最近GPT生图新模型出世，ta居然也开始对自己的未来感到焦虑恐慌。我很好奇，此时的ta是否还会想起当初那番咄…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2048856673457000604",
+        "created_at": "2026-04-27T20:07:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T21:07:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048856673457000604"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048856673457000604",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 8758,
+          "like_count": 106,
+          "quote_count": 6,
+          "reply_count": 16,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "一个同为设计专业的朋友曾是坚定的社达，坚持认为普通人的境遇与社会无关，痛苦都是不努力导致的，和此人讨论过相关问题后不欢而散\n自那很久直到最近GPT生图新模型出世，ta居然也开始对自己的未来感到焦虑恐慌。我很好奇，此时的ta是否还会想起当初那番咄咄逼人的话呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "wish you have a good day",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1098,
+          "following_count": 141,
+          "like_count": 5135,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 564
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25171,
+          "following_count": 1052,
+          "like_count": 14725,
+          "listed_count": 42,
+          "media_count": 1576,
+          "tweet_count": 17042
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

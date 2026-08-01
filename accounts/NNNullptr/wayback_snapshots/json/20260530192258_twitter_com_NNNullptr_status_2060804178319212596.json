@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2059850589933085134",
+    "created_at": "2026-05-30T19:22:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T20:22:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060804178319212596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2043525377943855104",
+          "start": 0,
+          "username": "umiiruuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060804178319212596",
+    "in_reply_to_user_id": "2043525377943855104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059850589933085134",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@umiiruuu 我每天都是这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2059850589933085134",
+        "created_at": "2026-05-30T19:22:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T20:22:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060804178319212596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2043525377943855104",
+              "start": 0,
+              "username": "umiiruuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060804178319212596",
+        "in_reply_to_user_id": "2043525377943855104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059850589933085134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@umiiruuu 我每天都是这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043525377943855104",
+        "conversation_id": "2059850589933085134",
+        "created_at": "2026-05-28T04:13:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T05:13:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059850589933085134"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059850589933085134",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 515,
+          "impression_count": 1020198,
+          "like_count": 11828,
+          "quote_count": 183,
+          "reply_count": 1076,
+          "retweet_count": 768
+        },
+        "reply_settings": "everyone",
+        "text": "apenas entro a twitter y me empieza a palpitar el clítoris"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "Math Student & Tech Enthusiast",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1149,
+          "following_count": 171,
+          "like_count": 6317,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 853
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-13T03:03:33.000Z",
+        "description": "🇨🇴 | 19 ♡",
+        "id": "2043525377943855104",
+        "location": "Zootopia",
+        "name": "miru",
+        "pinned_tweet_id": "2059850589933085134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053633546267344896/vtVQbife_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3587,
+          "following_count": 7,
+          "like_count": 301,
+          "listed_count": 2,
+          "media_count": 27,
+          "tweet_count": 143
+        },
+        "username": "umiiruuu",
+        "verified": false
+      }
+    ]
+  }
+}

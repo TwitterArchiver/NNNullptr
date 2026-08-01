@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2060182522508566629",
+    "created_at": "2026-05-29T08:16:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T09:16:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060274071909302692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "17459118",
+          "start": 0,
+          "username": "KentonVarda"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060274071909302692",
+    "in_reply_to_user_id": "17459118",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060182522508566629",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KentonVarda 议论别人被正主抓包:"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2060182522508566629",
+        "created_at": "2026-05-29T08:16:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T09:16:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060274071909302692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "17459118",
+              "start": 0,
+              "username": "KentonVarda"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060274071909302692",
+        "in_reply_to_user_id": "17459118",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060182522508566629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KentonVarda 议论别人被正主抓包:"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "17459118",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The SpaceX CEO debates with the Alibaba founder at the World AI Conference in Shanghai.",
+              "id": "1166857805766131714",
+              "name": "Elon Musk and Jack Ma in discussion at World AI Conference in Shanghai"
+            }
+          }
+        ],
+        "conversation_id": "2060182522508566629",
+        "created_at": "2026-05-29T02:12:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T03:12:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060182522508566629"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/berryxia/statu…",
+              "end": 87,
+              "expanded_url": "https://twitter.com/berryxia/status/2059946077412041177",
+              "start": 64,
+              "url": "https://t.co/TbyNHmdTfs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060182522508566629",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 258,
+          "impression_count": 272036,
+          "like_count": 1050,
+          "quote_count": 39,
+          "reply_count": 70,
+          "retweet_count": 61
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059946077412041177",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Chinese AI Twitter is obsessing over my wife. How was your day? https://t.co/TbyNHmdTfs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "Math Student & Tech Enthusiast",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1148,
+          "following_count": 170,
+          "like_count": 6190,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 831
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2008-11-18T04:58:51.000Z",
+        "description": "Tech lead for @Cloudflare Workers, https://t.co/bFUDCZ7BUc, https://t.co/Hjf1slmJqs, https://t.co/oIKxYZA4LW. 🦋 https://t.co/8QKY5gf1BK",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "Cloudflare"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sandstorm.io",
+                "end": 58,
+                "expanded_url": "http://sandstorm.io",
+                "start": 35,
+                "url": "https://t.co/bFUDCZ7BUc"
+              },
+              {
+                "display_url": "capnproto.org",
+                "end": 83,
+                "expanded_url": "http://capnproto.org",
+                "start": 60,
+                "url": "https://t.co/Hjf1slmJqs"
+              },
+              {
+                "display_url": "lanparty.house",
+                "end": 108,
+                "expanded_url": "http://lanparty.house",
+                "start": 85,
+                "url": "https://t.co/oIKxYZA4LW"
+              },
+              {
+                "display_url": "kentonvarda.com",
+                "end": 135,
+                "expanded_url": "http://kentonvarda.com",
+                "start": 112,
+                "url": "https://t.co/8QKY5gf1BK"
+              }
+            ]
+          }
+        },
+        "id": "17459118",
+        "location": "Austin, TX",
+        "name": "Kenton Varda",
+        "pinned_tweet_id": "2036430052238254301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1165386800191303680/MIYOrXsN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15128,
+          "following_count": 274,
+          "like_count": 1951,
+          "listed_count": 201,
+          "media_count": 336,
+          "tweet_count": 6398
+        },
+        "username": "KentonVarda",
+        "verified": true
+      }
+    ]
+  }
+}

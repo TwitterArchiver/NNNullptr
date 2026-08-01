@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2060425862227677355",
+    "created_at": "2026-05-29T20:19:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T21:19:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060455990638829782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1425446906839265286",
+          "start": 0,
+          "username": "Magicconch1213"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060455990638829782",
+    "in_reply_to_user_id": "1425446906839265286",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060454435739095382",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Magicconch1213 并非，但是外面的气候真的很恶劣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2060425862227677355",
+        "created_at": "2026-05-29T20:19:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T21:19:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060455990638829782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1425446906839265286",
+              "start": 0,
+              "username": "Magicconch1213"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060455990638829782",
+        "in_reply_to_user_id": "1425446906839265286",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060454435739095382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Magicconch1213 并非，但是外面的气候真的很恶劣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1425446906839265286",
+        "conversation_id": "2060425862227677355",
+        "created_at": "2026-05-29T20:13:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T21:13:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060454435739095382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1858727254345281536",
+              "start": 0,
+              "username": "NNNullptr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060454435739095382",
+        "in_reply_to_user_id": "1858727254345281536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060425862227677355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NNNullptr 云南人都是家乡宝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "Math Student & Tech Enthusiast",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1149,
+          "following_count": 169,
+          "like_count": 6240,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 848
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-11T13:20:13.000Z",
+        "description": "",
+        "id": "1425446906839265286",
+        "location": "圣诞岛",
+        "name": "神奇海螺🐚（努力生活版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1500373346730807300/a_zxXh9z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 267,
+          "like_count": 880,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 209
+        },
+        "username": "Magicconch1213",
+        "verified": false
+      }
+    ]
+  }
+}

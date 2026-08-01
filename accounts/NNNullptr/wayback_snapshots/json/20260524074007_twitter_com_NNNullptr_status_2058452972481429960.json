@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2058452972481429960",
+    "created_at": "2026-05-24T07:40:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T08:40:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058452972481429960"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2058452972481429960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "世界这么就是草台班子呀，我最近在打数模，我们的提交网站前端一眼就能看出来是ai写的，而且还是那种特别丑的蓝紫色混合色风格，连响应拦截都没做，而且隔一小会儿登录就会过期然后得自己手动去改URL重新登录，有时候登录过期了刷新也还在网站内根本没发现登录过期了，傻豆包写的网站吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2058452972481429960",
+        "created_at": "2026-05-24T07:40:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T08:40:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058452972481429960"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058452972481429960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "世界这么就是草台班子呀，我最近在打数模，我们的提交网站前端一眼就能看出来是ai写的，而且还是那种特别丑的蓝紫色混合色风格，连响应拦截都没做，而且隔一小会儿登录就会过期然后得自己手动去改URL重新登录，有时候登录过期了刷新也还在网站内根本没发现登录过期了，傻豆包写的网站吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "不要紧张",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1137,
+          "following_count": 163,
+          "like_count": 5918,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 756
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      }
+    ]
+  }
+}

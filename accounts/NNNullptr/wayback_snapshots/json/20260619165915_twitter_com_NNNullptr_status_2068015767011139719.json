@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2068015767011139719",
+    "created_at": "2026-06-19T16:59:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T17:59:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068015767011139719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1554424317483655175",
+          "start": 3,
+          "username": "yuu00401"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068015767011139719",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946462316616093889",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuu00401: 我被人评价为，异于常人的冷酷和冷静，又被人评价为，异于常人的感性和脆弱。两极化的评价"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2068015767011139719",
+        "created_at": "2026-06-19T16:59:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T17:59:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068015767011139719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1554424317483655175",
+              "start": 3,
+              "username": "yuu00401"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068015767011139719",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946462316616093889",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuu00401: 我被人评价为，异于常人的冷酷和冷静，又被人评价为，异于常人的感性和脆弱。两极化的评价"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554424317483655175",
+        "conversation_id": "1946462316616093889",
+        "created_at": "2025-07-19T06:49:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T07:49:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946462316616093889"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1946462316616093889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2448,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我被人评价为，异于常人的冷酷和冷静，又被人评价为，异于常人的感性和脆弱。两极化的评价"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "Math Student & Tech Enthusiast",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1205,
+          "following_count": 176,
+          "like_count": 6989,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 1034
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-02T11:10:23.000Z",
+        "description": "原来我走了那么远，远到那些无话不谈，渐渐听不清了",
+        "id": "1554424317483655175",
+        "location": "拉尼亚凯亚超星系",
+        "name": "yuu🎀",
+        "pinned_tweet_id": "1979443587306647701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063450891232186368/8csvW8EW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4046,
+          "following_count": 804,
+          "like_count": 75290,
+          "listed_count": 6,
+          "media_count": 2423,
+          "tweet_count": 35319
+        },
+        "url": "",
+        "username": "yuu00401",
+        "verified": false
+      }
+    ]
+  }
+}

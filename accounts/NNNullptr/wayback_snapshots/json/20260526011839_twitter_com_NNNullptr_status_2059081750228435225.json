@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2058557004676030771",
+    "created_at": "2026-05-26T01:18:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T02:18:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059081750228435225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2033926059578818562",
+          "start": 0,
+          "username": "RPettiway16682"
+        },
+        {
+          "end": 25,
+          "id": "7948282",
+          "start": 16,
+          "username": "zhengyun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059081750228435225",
+    "in_reply_to_user_id": "2033926059578818562",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058712284499968074",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RPettiway16682 @zhengyun 点了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2058557004676030771",
+        "created_at": "2026-05-26T01:18:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T02:18:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059081750228435225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2033926059578818562",
+              "start": 0,
+              "username": "RPettiway16682"
+            },
+            {
+              "end": 25,
+              "id": "7948282",
+              "start": 16,
+              "username": "zhengyun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059081750228435225",
+        "in_reply_to_user_id": "2033926059578818562",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058712284499968074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RPettiway16682 @zhengyun 点了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033926059578818562",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2058557004676030771",
+        "created_at": "2026-05-25T00:50:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T01:50:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058712284499968074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "7948282",
+              "start": 0,
+              "username": "zhengyun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058712284499968074",
+        "in_reply_to_user_id": "7948282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4477,
+          "like_count": 82,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058557004676030771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhengyun 这些老古董什么时候才能意识到自己烂的没边，完完全全浪费了学生12年苦读的成果，自己只是应试教育骗局的延续而已，一群活在象牙塔的傻逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "不要紧张",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1140,
+          "following_count": 166,
+          "like_count": 5978,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 786
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-17T15:18:57.000Z",
+        "description": "另一个我 @bbmthgh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "bbmthgh"
+              }
+            ]
+          }
+        },
+        "id": "2033926059578818562",
+        "name": "念念猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042267914146131968/V0sgAKjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1228,
+          "following_count": 49,
+          "like_count": 146,
+          "listed_count": 3,
+          "media_count": 12,
+          "tweet_count": 137
+        },
+        "username": "RPettiway16682",
+        "verified": false
+      },
+      {
+        "created_at": "2007-08-04T05:16:49.000Z",
+        "description": "历任禧云集团CTO、云纵CTO、窝窝团研发副总裁。曾任玩聚网创始人和CEO，中国语义应用探索者。公众号老兵笔记。",
+        "id": "7948282",
+        "location": "北京",
+        "name": "zhengyun",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/27832922/zhengyun_ustc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17850,
+          "following_count": 65,
+          "like_count": 403,
+          "listed_count": 446,
+          "media_count": 38,
+          "tweet_count": 4700
+        },
+        "username": "zhengyun",
+        "verified": true
+      }
+    ]
+  }
+}

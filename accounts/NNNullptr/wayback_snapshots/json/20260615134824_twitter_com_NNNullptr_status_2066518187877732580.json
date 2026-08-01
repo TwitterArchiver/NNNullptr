@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2066497163861934470",
+    "created_at": "2026-06-15T13:48:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T14:48:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066518187877732580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1550267641914597376",
+          "start": 0,
+          "username": "object_nullll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066518187877732580",
+    "in_reply_to_user_id": "1550267641914597376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066514862541582717",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@object_nullll ok啊，我将学习"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2066497163861934470",
+        "created_at": "2026-06-15T13:48:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T14:48:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066518187877732580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1550267641914597376",
+              "start": 0,
+              "username": "object_nullll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066518187877732580",
+        "in_reply_to_user_id": "1550267641914597376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066514862541582717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@object_nullll ok啊，我将学习"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1550267641914597376",
+        "conversation_id": "2066497163861934470",
+        "created_at": "2026-06-15T13:35:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T14:35:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066514862541582717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1858727254345281536",
+              "start": 0,
+              "username": "NNNullptr"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Tabby is a free and open source SSH, local and Telnet terminal with everything you'll ever need.",
+              "display_url": "tabby.sh",
+              "end": 36,
+              "expanded_url": "https://tabby.sh/",
+              "images": [
+                {
+                  "height": 908,
+                  "url": "https://pbs.twimg.com/news_img/2066514895261323265/-pditrZG?format=jpg&name=orig",
+                  "width": 1749
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2066514895261323265/-pditrZG?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 13,
+              "status": 200,
+              "title": "Tabby - a terminal for a more modern age",
+              "unwound_url": "https://tabby.sh/",
+              "url": "https://t.co/0dp2Enrr0J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066514862541582717",
+        "in_reply_to_user_id": "1858727254345281536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066497163861934470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NNNullptr 用 https://t.co/0dp2Enrr0J 管理秘钥和密码还能更方便一点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "Math Student & Tech Enthusiast",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1202,
+          "following_count": 172,
+          "like_count": 6842,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 1006
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-21T23:53:16.000Z",
+        "description": "无法停止创造。creator of https://t.co/UIXCQJEKPv and https://t.co/xi1V6zi48t",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "aghub.akr.moe",
+                "end": 41,
+                "expanded_url": "http://aghub.akr.moe",
+                "start": 18,
+                "url": "https://t.co/UIXCQJEKPv"
+              },
+              {
+                "display_url": "2code.akr.moe",
+                "end": 69,
+                "expanded_url": "http://2code.akr.moe",
+                "start": 46,
+                "url": "https://t.co/xi1V6zi48t"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "akr.moe",
+                "end": 23,
+                "expanded_url": "https://akr.moe",
+                "start": 0,
+                "url": "https://t.co/q2OokfvflP"
+              }
+            ]
+          }
+        },
+        "id": "1550267641914597376",
+        "name": "吊顶高松灯",
+        "pinned_tweet_id": "2038676483523375185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033159031943213057/AvnfRsHx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3568,
+          "following_count": 844,
+          "like_count": 5882,
+          "listed_count": 23,
+          "media_count": 244,
+          "tweet_count": 4424
+        },
+        "url": "https://t.co/q2OokfvflP",
+        "username": "object_nullll",
+        "verified": true
+      }
+    ]
+  }
+}

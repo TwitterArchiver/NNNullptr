@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2072621196383006754",
+    "created_at": "2026-07-02T11:08:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T12:08:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072638597455626591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1340167731421663233",
+          "start": 0,
+          "username": "donkey0xl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072638597455626591",
+    "in_reply_to_user_id": "1340167731421663233",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072629540908859395",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@donkey0xl 我们泛函和实变是一门课"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2072621196383006754",
+        "created_at": "2026-07-02T11:08:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T12:08:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072638597455626591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1340167731421663233",
+              "start": 0,
+              "username": "donkey0xl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072638597455626591",
+        "in_reply_to_user_id": "1340167731421663233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072629540908859395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@donkey0xl 我们泛函和实变是一门课"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1340167731421663233",
+        "conversation_id": "2072621196383006754",
+        "created_at": "2026-07-02T10:32:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T11:32:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072629540908859395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1858727254345281536",
+              "start": 0,
+              "username": "NNNullptr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072629540908859395",
+        "in_reply_to_user_id": "1858727254345281536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072621196383006754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NNNullptr 泛函难难 实变还好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "捉摸不透的用户：南方的狼",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1298,
+          "following_count": 183,
+          "like_count": 7332,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1094
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-19T05:31:09.000Z",
+        "description": "呃呃呃 \nblacksouls/made in abyss/blue archive",
+        "id": "1340167731421663233",
+        "name": "donkey0xl",
+        "pinned_tweet_id": "1943360525020045730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799474419078660096/-sauckyq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 2303,
+          "like_count": 212,
+          "listed_count": 3,
+          "media_count": 47,
+          "tweet_count": 651
+        },
+        "url": "",
+        "username": "donkey0xl",
+        "verified": false
+      }
+    ]
+  }
+}

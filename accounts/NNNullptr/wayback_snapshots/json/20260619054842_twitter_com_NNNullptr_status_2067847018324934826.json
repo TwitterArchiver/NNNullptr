@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2067681934868648033",
+    "created_at": "2026-06-19T05:48:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T06:48:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067847018324934826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1991257701805178880",
+          "start": 0,
+          "username": "faverdream"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067847018324934826",
+    "in_reply_to_user_id": "1991257701805178880",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067681934868648033",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@faverdream 😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2067681934868648033",
+        "created_at": "2026-06-19T05:48:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T06:48:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067847018324934826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1991257701805178880",
+              "start": 0,
+              "username": "faverdream"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067847018324934826",
+        "in_reply_to_user_id": "1991257701805178880",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067681934868648033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@faverdream 😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991257701805178880",
+        "conversation_id": "2067681934868648033",
+        "created_at": "2026-06-18T18:52:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T19:52:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067681934868648033"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nekozuda/statu…",
+              "end": 87,
+              "expanded_url": "https://twitter.com/nekozuda/status/2067390708319724019",
+              "start": 64,
+              "url": "https://t.co/VZgKD2cFTB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067681934868648033",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 8800,
+          "like_count": 711,
+          "quote_count": 1,
+          "reply_count": 20,
+          "retweet_count": 60
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067390708319724019",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "quando você estiver esquartejada numa mala quero ver sua doente https://t.co/VZgKD2cFTB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "Math Student & Tech Enthusiast",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1205,
+          "following_count": 175,
+          "like_count": 6969,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 1029
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-19T21:30:19.000Z",
+        "description": "֪︶ིྀ ︶︶֪︶ ୨ৎ︶֪︶︶֪︶ ིྀ",
+        "id": "1991257701805178880",
+        "name": "gabi",
+        "pinned_tweet_id": "2067750414246654360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029717166036242437/HOmVFail_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 215,
+          "like_count": 18300,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 1473
+        },
+        "url": "",
+        "username": "faverdream",
+        "verified": false
+      }
+    ]
+  }
+}

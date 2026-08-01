@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2067152360053625221",
+    "created_at": "2026-06-17T07:56:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T08:56:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067154280155656478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1420205241404772352",
+          "start": 0,
+          "username": "yanbo2004"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067154280155656478",
+    "in_reply_to_user_id": "1420205241404772352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067153007209239011",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yanbo2004 谢谢你，不过没事啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2067152360053625221",
+        "created_at": "2026-06-17T07:56:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T08:56:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067154280155656478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1420205241404772352",
+              "start": 0,
+              "username": "yanbo2004"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067154280155656478",
+        "in_reply_to_user_id": "1420205241404772352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067153007209239011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanbo2004 谢谢你，不过没事啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420205241404772352",
+        "conversation_id": "2067152360053625221",
+        "created_at": "2026-06-17T07:50:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T08:50:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067153007209239011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1858727254345281536",
+              "start": 0,
+              "username": "NNNullptr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067153007209239011",
+        "in_reply_to_user_id": "1858727254345281536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067152360053625221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NNNullptr 🥹抱抱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "Math Student & Tech Enthusiast",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1203,
+          "following_count": 173,
+          "like_count": 6894,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 1021
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-28T02:11:40.000Z",
+        "description": "21 yo.｜prev. DevRel & Now building @WorkWorkOrg｜Drop out｜Digital Nomad & Ordinary Trader & Writer & Photoghapher｜Backpacking trip to 20 countries & all of China",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 35,
+                "username": "WorkWorkOrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yanbowa.ng",
+                "end": 23,
+                "expanded_url": "http://yanbowa.ng",
+                "start": 0,
+                "url": "https://t.co/LIctNgXeI8"
+              }
+            ]
+          }
+        },
+        "id": "1420205241404772352",
+        "location": "Remote everywhere, Born in 延边.",
+        "name": "烟波 Yanbo🍡",
+        "pinned_tweet_id": "2047564211480351043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058876241566928896/lTiQJnCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6394,
+          "following_count": 1887,
+          "like_count": 113421,
+          "listed_count": 42,
+          "media_count": 2831,
+          "tweet_count": 22948
+        },
+        "url": "https://t.co/LIctNgXeI8",
+        "username": "yanbo2004",
+        "verified": true
+      }
+    ]
+  }
+}

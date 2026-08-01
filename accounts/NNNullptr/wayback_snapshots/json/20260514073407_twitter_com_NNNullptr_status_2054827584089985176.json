@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2054827584089985176",
+    "created_at": "2026-05-14T07:34:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T08:34:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054827584089985176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1897033007543771136",
+          "start": 3,
+          "username": "EkbladCrave"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054827584089985176",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 901
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054356469793849770",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EkbladCrave: if this nostalgia wave was happening like 5 years ago venus angelic couldve been saved from meth addiction"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2054827584089985176",
+        "created_at": "2026-05-14T07:34:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T08:34:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054827584089985176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1897033007543771136",
+              "start": 3,
+              "username": "EkbladCrave"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054827584089985176",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 901
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054356469793849770",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EkbladCrave: if this nostalgia wave was happening like 5 years ago venus angelic couldve been saved from meth addiction"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897033007543771136",
+        "conversation_id": "2054356469793849770",
+        "created_at": "2026-05-13T00:22:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T01:22:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054356469793849770"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cupcakekttn/st…",
+              "end": 130,
+              "expanded_url": "https://twitter.com/cupcakekttn/status/2054053096993731045",
+              "start": 107,
+              "url": "https://t.co/c7KCWswxSr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054356469793849770",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1443,
+          "impression_count": 311477,
+          "like_count": 14886,
+          "quote_count": 56,
+          "reply_count": 31,
+          "retweet_count": 901
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054053096993731045",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "if this nostalgia wave was happening like 5 years ago venus angelic couldve been saved from meth addiction https://t.co/c7KCWswxSr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "wish you have a good day",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1115,
+          "following_count": 151,
+          "like_count": 5642,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 686
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-04T21:14:59.000Z",
+        "description": "Dark academia addison rae pictures",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ekblad.straw.page",
+                "end": 23,
+                "expanded_url": "http://ekblad.straw.page",
+                "start": 0,
+                "url": "https://t.co/E1tpQ88vIR"
+              }
+            ]
+          }
+        },
+        "id": "1897033007543771136",
+        "name": "bebe ᘛ⁐̤ᕐᐷ",
+        "pinned_tweet_id": "2021281483881635933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048976121908404224/aJ_EWPrW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 800,
+          "following_count": 399,
+          "like_count": 86249,
+          "listed_count": 7,
+          "media_count": 3224,
+          "tweet_count": 45689
+        },
+        "url": "https://t.co/E1tpQ88vIR",
+        "username": "EkbladCrave",
+        "verified": false
+      }
+    ]
+  }
+}

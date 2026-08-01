@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2062268594789196251",
+    "created_at": "2026-06-05T10:24:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T11:24:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062842892461183344"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "928112708880252928",
+          "start": 0,
+          "username": "SlantBlue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062842892461183344",
+    "in_reply_to_user_id": "928112708880252928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062840558163566691",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SlantBlue 严重的话就去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2062268594789196251",
+        "created_at": "2026-06-05T10:24:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T11:24:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062842892461183344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "928112708880252928",
+              "start": 0,
+              "username": "SlantBlue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062842892461183344",
+        "in_reply_to_user_id": "928112708880252928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062840558163566691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SlantBlue 严重的话就去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "928112708880252928",
+        "conversation_id": "2062268594789196251",
+        "created_at": "2026-06-05T10:14:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T11:14:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062840558163566691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1858727254345281536",
+              "start": 0,
+              "username": "NNNullptr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062840558163566691",
+        "in_reply_to_user_id": "1858727254345281536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062268594789196251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NNNullptr 我最近半年也失眠严重，白天会头晕，影响工作，不知道是不是该去医院看看🌡️(&gt;_&lt;)💊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "Math Student & Tech Enthusiast",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1181,
+          "following_count": 172,
+          "like_count": 6519,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 909
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-08T04:11:28.000Z",
+        "description": "业余鼓手. 业余编曲.业余无线电爱好者.专业打酱油。\n（沉默本身就是一种表态。。。）",
+        "id": "928112708880252928",
+        "location": "Nantou County, Taiwan",
+        "name": "‎˚⟡˖ ࣪Presley♪ ֺּׅ⏦ﾟ♡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062123612694536192/bOggXP9x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 54,
+          "like_count": 4976,
+          "listed_count": 1,
+          "media_count": 540,
+          "tweet_count": 2678
+        },
+        "username": "SlantBlue",
+        "verified": false
+      }
+    ]
+  }
+}

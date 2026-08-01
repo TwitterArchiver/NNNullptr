@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2061101650123817159",
+    "created_at": "2026-05-31T15:05:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T16:05:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061101650123817159"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sheriyuo/statu…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/sheriyuo/status/2060595732256833563",
+          "start": 19,
+          "url": "https://t.co/eCbTBMB23H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061101650123817159",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060595732256833563",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还有必要提升学历吗，本科咋找工作啊😇 https://t.co/eCbTBMB23H"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2061101650123817159",
+        "created_at": "2026-05-31T15:05:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T16:05:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061101650123817159"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sheriyuo/statu…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/sheriyuo/status/2060595732256833563",
+              "start": 19,
+              "url": "https://t.co/eCbTBMB23H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061101650123817159",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060595732256833563",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有必要提升学历吗，本科咋找工作啊😇 https://t.co/eCbTBMB23H"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018976131849039872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2060595732256833563",
+        "created_at": "2026-05-30T05:34:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T06:34:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060595732256833563"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dviolettchan/s…",
+              "end": 181,
+              "expanded_url": "https://twitter.com/dviolettchan/status/2060503560521981985",
+              "start": 158,
+              "url": "https://t.co/7WLAT3nT3E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060595732256833563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "国内的 ms 和 phd 还真是同工同酬，只不过国内卷到研究生是好工作 / 算法岗 的基本原则\n\n保研大环境下清北的研究生就是最卷的，而直博名额反而很多，本校的人也大多直博\n\n硕士承担了这个组大部分的脏活累活跑腿本子，phd 承担了这个组的纵向横向利益帽子\n\n我本人也是 Infra 出身的，之前在那个 Infra 集合通信群里聊到，硕士其实是最不该做 Infra 的，反而是本科可以熬资历、phd 可以卷上限\n\n对国内来说，硕士真的不能算一个硕士学位了，这是泡沫经济时代的末日入场券"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 18087,
+          "like_count": 102,
+          "quote_count": 2,
+          "reply_count": 19,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060503560521981985",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "国内的 ms 和 phd 还真是同工同酬，只不过国内卷到研究生是好工作 / 算法岗 的基本原则\n\n保研大环境下清北的研究生就是最卷的，而直博名额反而很多，本校的人也大多直博\n\n硕士承担了这个组大部分的脏活累活跑腿本子，phd 承担了这个组的纵向横向利益帽子\n\n我本人也是 Infra 出身的，之前在那个 Infra https://t.co/7WLAT3nT3E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "Math Student & Tech Enthusiast",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1151,
+          "following_count": 171,
+          "like_count": 6332,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 859
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-04T09:13:26.000Z",
+        "description": "Undergrad @RUC1937 | RL, Optimization, dLLM | Intern @JD_Corporate | Applying for Fall 27 PhD | Friend @dviolettchan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 10,
+                "username": "RUC1937"
+              },
+              {
+                "end": 66,
+                "start": 53,
+                "username": "JD_Corporate"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "dviolettchan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sheriyuo.github.io",
+                "end": 23,
+                "expanded_url": "http://sheriyuo.github.io",
+                "start": 0,
+                "url": "https://t.co/7yHglOnlhA"
+              }
+            ]
+          }
+        },
+        "id": "2018976131849039872",
+        "location": "Beijing, China",
+        "name": "Xiuyu Li",
+        "pinned_tweet_id": "2042072816712085577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018976441795502081/bpw974ir_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8082,
+          "following_count": 1254,
+          "like_count": 9929,
+          "listed_count": 54,
+          "media_count": 248,
+          "tweet_count": 1862
+        },
+        "url": "https://t.co/7yHglOnlhA",
+        "username": "sheriyuo",
+        "verified": true
+      }
+    ]
+  }
+}

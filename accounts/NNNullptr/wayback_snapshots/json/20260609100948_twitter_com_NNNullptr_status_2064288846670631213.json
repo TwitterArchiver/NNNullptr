@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1433125517692002306",
+          "name": "Dating Apps"
+        }
+      }
+    ],
+    "conversation_id": "2064288846670631213",
+    "created_at": "2026-06-09T10:09:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T11:09:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064288846670631213"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/enlightenedcoo…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/enlightenedcoop/status/2064086501940437490",
+          "start": 5,
+          "url": "https://t.co/dGTh71r6jT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064288846670631213",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064086501940437490",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我每天： https://t.co/dGTh71r6jT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1433125517692002306",
+              "name": "Dating Apps"
+            }
+          }
+        ],
+        "conversation_id": "2064288846670631213",
+        "created_at": "2026-06-09T10:09:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T11:09:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064288846670631213"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/enlightenedcoo…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/enlightenedcoop/status/2064086501940437490",
+              "start": 5,
+              "url": "https://t.co/dGTh71r6jT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064288846670631213",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064086501940437490",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我每天： https://t.co/dGTh71r6jT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1484666150600548355",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1433125517692002306",
+              "name": "Dating Apps"
+            }
+          }
+        ],
+        "conversation_id": "2064086501940437490",
+        "created_at": "2026-06-08T20:45:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T21:45:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064086501940437490"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064086501940437490",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "I'm crashing out so hard today. I am tired of escort culture becoming mainstream. I'm tired of onlyfans I'm tired of escorts on Instagram I'm tired of trad wife hooker aesthetics I'm tired of the horrors of dating apps and fly me out apps the horrors of men following escorts on Instagram through my youth I'm tired of people referring to women here as e girls or posting photos to brag about how many girls they've been with I'm tired of how transactional dating has become I'm tired of dating apps. What happened to us? Most of us are normal people and we got swallowed into this horrible culture. im tired that normal people can't be normal I'm tired of the Tik Tok advice that teaches you to become a hooker and the manosphere that teaches men that their only value is money and to treat women like a game. When did we let this happen? What happened to our society? What ever happened to just being normal respectable guys and normal women!! When did we let the absolute deplorable low class people set social norms? This is worse than new money this is like... money from hell on steroids ... and everyone is adjusting to it. It has seeped through every part of society. It is worse than hell"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 512,
+          "impression_count": 205470,
+          "like_count": 2494,
+          "quote_count": 72,
+          "reply_count": 390,
+          "retweet_count": 202
+        },
+        "reply_settings": "everyone",
+        "text": "I'm crashing out so hard today. I am tired of escort culture becoming mainstream. I'm tired of onlyfans I'm tired of escorts on Instagram I'm tired of trad wife hooker aesthetics I'm tired of the horrors of dating apps and fly me out apps the horrors of men following escorts on"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "Math Student & Tech Enthusiast",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1196,
+          "following_count": 172,
+          "like_count": 6682,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 957
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-21T23:16:30.000Z",
+        "description": "",
+        "id": "1484666150600548355",
+        "location": "nyc",
+        "name": "Cooper",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031425988555399168/SPoEhKjg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12513,
+          "following_count": 893,
+          "like_count": 83400,
+          "listed_count": 5,
+          "media_count": 41,
+          "tweet_count": 11291
+        },
+        "username": "enlightenedcoop",
+        "verified": true
+      }
+    ]
+  }
+}

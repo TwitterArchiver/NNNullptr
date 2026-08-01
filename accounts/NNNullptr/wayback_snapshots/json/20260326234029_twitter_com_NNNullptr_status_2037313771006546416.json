@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2037231505140036057",
+    "created_at": "2026-03-26T23:40:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T00:40:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037313771006546416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1662169342883004437",
+          "start": 0,
+          "username": "FuurCho"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037313771006546416",
+    "in_reply_to_user_id": "1662169342883004437",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037313160148111697",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FuurCho hhh没事，我会持续关注的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2037231505140036057",
+        "created_at": "2026-03-26T23:40:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T00:40:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037313771006546416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1662169342883004437",
+              "start": 0,
+              "username": "FuurCho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037313771006546416",
+        "in_reply_to_user_id": "1662169342883004437",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037313160148111697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FuurCho hhh没事，我会持续关注的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662169342883004437",
+        "conversation_id": "2037231505140036057",
+        "created_at": "2026-03-26T23:38:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T00:38:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037313160148111697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1858727254345281536",
+              "start": 0,
+              "username": "NNNullptr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037313160148111697",
+        "in_reply_to_user_id": "1858727254345281536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037312778143490080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NNNullptr 目前暂时搁置了，估计等毕业后才能接上"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "wish you have a good day",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2031630035707437373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 877,
+          "following_count": 109,
+          "like_count": 4570,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 409
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-26T18:50:49.000Z",
+        "description": "中国出身|大学四年生|りあ友🎀|ときメモ・ラブプラス|明朝体活字初心者|日本語初心者・中国語/英語/漢文/偽中国語相談可|ドットフォント「ときフィク」開発中|余不能學太上之忘情。",
+        "id": "1662169342883004437",
+        "location": "きらめき市",
+        "name": "浮舟Fuur-Cho🎀ありあの伝道者",
+        "pinned_tweet_id": "2035187479910003125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018870144668459008/6EPWofmX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 3911,
+          "like_count": 19722,
+          "listed_count": 1,
+          "media_count": 326,
+          "tweet_count": 5781
+        },
+        "username": "FuurCho",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2066984496495575335",
+    "created_at": "2026-06-16T20:41:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T21:41:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066984496495575335"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2066984496495575335",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我今天才发现无锡工艺学院那个事情竟然已经过去一年半多了，我感觉就好像发生在昨天。而且歪悠悠说的是对的，这个事情几乎可以看作是Z世代某种癔症的大规模爆发的开始标志。以至于我以为这个事情是最近的。我已经可以亲身深切的感觉到，包括我自己在内，很多人都变得越来越原子化，孤立且没有软肋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2066984496495575335",
+        "created_at": "2026-06-16T20:41:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T21:41:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066984496495575335"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066984496495575335",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我今天才发现无锡工艺学院那个事情竟然已经过去一年半多了，我感觉就好像发生在昨天。而且歪悠悠说的是对的，这个事情几乎可以看作是Z世代某种癔症的大规模爆发的开始标志。以至于我以为这个事情是最近的。我已经可以亲身深切的感觉到，包括我自己在内，很多人都变得越来越原子化，孤立且没有软肋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "Math Student & Tech Enthusiast",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1202,
+          "following_count": 173,
+          "like_count": 6870,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 1010
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      }
+    ]
+  }
+}

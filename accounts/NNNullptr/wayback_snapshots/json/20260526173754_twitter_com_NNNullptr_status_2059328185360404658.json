@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2059328183410020805",
+    "created_at": "2026-05-26T17:37:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T18:37:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059328185360404658"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059328185360404658",
+    "in_reply_to_user_id": "1858727254345281536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059328183410020805",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "基本一不高兴就买一些小东西，然后一边感觉自己浪费钱买很多没用的东西，一边宁可不吃好的都需要买这些没用的东西。不然我就感觉自己的内心很空虚。我高中的时候特别特别穷，但是天天在网上看那种博主特别羡慕，我就每天读左经压抑自己告诉自己辣个不好辣个是消费主义都不要买"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2059328183410020805",
+        "created_at": "2026-05-26T17:37:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T18:37:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059328185360404658"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059328185360404658",
+        "in_reply_to_user_id": "1858727254345281536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059328183410020805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "基本一不高兴就买一些小东西，然后一边感觉自己浪费钱买很多没用的东西，一边宁可不吃好的都需要买这些没用的东西。不然我就感觉自己的内心很空虚。我高中的时候特别特别穷，但是天天在网上看那种博主特别羡慕，我就每天读左经压抑自己告诉自己辣个不好辣个是消费主义都不要买"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2059328183410020805",
+        "created_at": "2026-05-26T17:37:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T18:37:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059328183410020805"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059328183410020805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我每次精神病发作都拼多多买一堆东西，幸好我一直都只买便宜的东西，不然早就破产了。我感觉特别恐怖，在我上大学之前，我身上所有属于我的物品加起来只有两个行李箱，里面还有两个网络亲友送我的fufu就占了一大半位置了，我都带去学校了。所以我那个时候东西都没那么多，现在东西多的哈人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "不要紧张",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1141,
+          "following_count": 166,
+          "like_count": 6037,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 803
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      }
+    ]
+  }
+}

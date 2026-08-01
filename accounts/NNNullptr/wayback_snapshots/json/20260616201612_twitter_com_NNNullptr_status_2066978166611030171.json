@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2066978166611030171",
+    "created_at": "2026-06-16T20:16:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T21:16:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066978166611030171"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/thxn2xt_/statu…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/thxn2xt_/status/2066401504668635302",
+          "start": 7,
+          "url": "https://t.co/W21orj14bd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066978166611030171",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066401504668635302",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "明明就是这样 https://t.co/W21orj14bd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2066978166611030171",
+        "created_at": "2026-06-16T20:16:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T21:16:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066978166611030171"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/thxn2xt_/statu…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/thxn2xt_/status/2066401504668635302",
+              "start": 7,
+              "url": "https://t.co/W21orj14bd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066978166611030171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066401504668635302",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "明明就是这样 https://t.co/W21orj14bd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835481513028419584",
+        "conversation_id": "2066401504668635302",
+        "created_at": "2026-06-15T06:04:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T07:04:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066401504668635302"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066401504668635302",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 702,
+          "impression_count": 441089,
+          "like_count": 5162,
+          "quote_count": 523,
+          "reply_count": 1,
+          "retweet_count": 2480
+        },
+        "reply_settings": "following",
+        "text": "그 뭐냐 서른까지 자살 ‘못’ 하고 살아남았으면 이제 그만 징징대고 살아야 한다는 발언이 몇천 알티 받으면서 나이 먹고 힘들어하는 건 더 한심하다는 메시지를 계속해서 푸시하는 사회문화권에서 뭘 더 바라는지 모르겠음...... 1020의 좀 더 확실하고 빠른 자살? 일단 그 트윗 보고 기함을 함"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "Math Student & Tech Enthusiast",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1202,
+          "following_count": 173,
+          "like_count": 6866,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 1008
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-16T00:51:16.000Z",
+        "description": "자랑처럼 풀이 무성할 거외다",
+        "id": "1835481513028419584",
+        "name": "쎕쩨",
+        "pinned_tweet_id": "2061277816956899626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017109944055844866/TgIv0im6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5197,
+          "following_count": 755,
+          "like_count": 10377,
+          "listed_count": 13,
+          "media_count": 752,
+          "tweet_count": 3177
+        },
+        "username": "thxn2xt_",
+        "verified": false
+      }
+    ]
+  }
+}

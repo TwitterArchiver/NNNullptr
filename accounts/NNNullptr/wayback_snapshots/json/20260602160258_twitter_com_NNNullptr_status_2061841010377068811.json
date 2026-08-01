@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2061841010377068811",
+    "created_at": "2026-06-02T16:02:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T17:02:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061841010377068811"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2061841010377068811",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我好吃点大饼卷肉，焖子这一块，板面（吸溜吸溜吸溜），再整点饺子包子大锅菜这一块，就爱吃这个，真的，他喵的真的，那北方人蒸的大馒头，我还想吃啥，有些人说，良子，南方东西你不想吃吗，错误想吃哒，我想吃南方的（哼哼哼哼哼）饭！猪脚饭！我特别想吃啊！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2061841010377068811",
+        "created_at": "2026-06-02T16:02:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T17:02:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061841010377068811"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061841010377068811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好吃点大饼卷肉，焖子这一块，板面（吸溜吸溜吸溜），再整点饺子包子大锅菜这一块，就爱吃这个，真的，他喵的真的，那北方人蒸的大馒头，我还想吃啥，有些人说，良子，南方东西你不想吃吗，错误想吃哒，我想吃南方的（哼哼哼哼哼）饭！猪脚饭！我特别想吃啊！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "Math Student & Tech Enthusiast",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1155,
+          "following_count": 173,
+          "like_count": 6421,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 871
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      }
+    ]
+  }
+}

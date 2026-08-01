@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2029955146365747292",
+    "created_at": "2026-03-07T14:18:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T15:18:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030286892378509494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1535225423658770434",
+          "start": 0,
+          "username": "maid_crypto"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030286892378509494",
+    "in_reply_to_user_id": "1535225423658770434",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029955146365747292",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maid_crypto 可以，这很像老年人排队领银行鸡蛋最后买了一堆理财产品"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2029955146365747292",
+        "created_at": "2026-03-07T14:18:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T15:18:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030286892378509494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1535225423658770434",
+              "start": 0,
+              "username": "maid_crypto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030286892378509494",
+        "in_reply_to_user_id": "1535225423658770434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029955146365747292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maid_crypto 可以，这很像老年人排队领银行鸡蛋最后买了一堆理财产品"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1535225423658770434",
+        "conversation_id": "2029955146365747292",
+        "created_at": "2026-03-06T16:19:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T17:19:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029955146365747292"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029955146365747292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 90798,
+          "like_count": 301,
+          "quote_count": 9,
+          "reply_count": 35,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "腾讯装龙虾那个活动。其实是现场收8.8.。帮你一键开通腾讯云端养虾。。。你随便找个一键部署xxclaw的云端养虾的平台。点一下一键创建就可以了。。比如之前有合作的kimiclaw。。根本不是帮你本地装虾。腾讯这个吊毛公司。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "wish you have a good day🍄🍄🍄",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "http://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/eTavjpxMtr"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "1871186436877357201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990335184202588161/WaT_RP5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 881,
+          "following_count": 101,
+          "like_count": 4369,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 358
+        },
+        "url": "https://t.co/eTavjpxMtr",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-10T11:40:45.000Z",
+        "description": "开合约来：https://t.co/gm8PiLcQX0\nDEX之王（返20%+）:https://t.co/6QLwVMjqeE\n打meme神器:https://t.co/pzbgNAkc7y\n买美股就上：https://t.co/qsDZ5dJkUO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bitmex.com/app/register/2…",
+                "end": 28,
+                "expanded_url": "https://www.bitmex.com/app/register/2Abb_e",
+                "start": 5,
+                "url": "https://t.co/gm8PiLcQX0"
+              },
+              {
+                "display_url": "web3.okx.com/ul/joindex?ref…",
+                "end": 65,
+                "expanded_url": "https://web3.okx.com/ul/joindex?ref=MAID20",
+                "start": 42,
+                "url": "https://t.co/6QLwVMjqeE"
+              },
+              {
+                "display_url": "inv.debot.ai/r/174112?lang=…",
+                "end": 97,
+                "expanded_url": "https://inv.debot.ai/r/174112?lang=zh",
+                "start": 74,
+                "url": "https://t.co/pzbgNAkc7y"
+              },
+              {
+                "display_url": "msx.com/?code=8lMJ67",
+                "end": 127,
+                "expanded_url": "https://msx.com/?code=8lMJ67",
+                "start": 104,
+                "url": "https://t.co/qsDZ5dJkUO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maid.web3.club",
+                "end": 23,
+                "expanded_url": "https://maid.web3.club/",
+                "start": 0,
+                "url": "https://t.co/uaSNjsbCzv"
+              }
+            ]
+          }
+        },
+        "id": "1535225423658770434",
+        "name": "CryptoMaid加密女仆お嬢様 .edge🦭",
+        "pinned_tweet_id": "2029760638730588230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954884001342341120/0OmJrznn_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142348,
+          "following_count": 6337,
+          "like_count": 50115,
+          "listed_count": 1297,
+          "media_count": 3955,
+          "tweet_count": 27185
+        },
+        "url": "https://t.co/uaSNjsbCzv",
+        "username": "maid_crypto",
+        "verified": true
+      }
+    ]
+  }
+}

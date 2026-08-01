@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1838998617064878080",
+          "name": "developers"
+        }
+      }
+    ],
+    "conversation_id": "2031771354459152534",
+    "created_at": "2026-03-11T16:36:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T17:36:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031771354459152534"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/huang_chao4969…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/huang_chao4969/status/2030677277974167609",
+          "start": 6,
+          "url": "https://t.co/9x3bCvSsE6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031771354459152534",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030677277974167609",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "牛逼。。。 https://t.co/9x3bCvSsE6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1973,
+        "media_key": "3_2030677046431825920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC5qA8YbwAAfeeA.jpg",
+        "width": 1542
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1838998617064878080",
+              "name": "developers"
+            }
+          }
+        ],
+        "conversation_id": "2031771354459152534",
+        "created_at": "2026-03-11T16:36:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T17:36:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031771354459152534"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/huang_chao4969…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/huang_chao4969/status/2030677277974167609",
+              "start": 6,
+              "url": "https://t.co/9x3bCvSsE6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031771354459152534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030677277974167609",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "牛逼。。。 https://t.co/9x3bCvSsE6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030677046431825920"
+          ]
+        },
+        "author_id": "1716707587171975168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1838998617064878080",
+              "name": "developers"
+            }
+          }
+        ],
+        "conversation_id": "2030677277974167609",
+        "created_at": "2026-03-08T16:09:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T17:09:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030677277974167609"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "CLI",
+              "probability": 0.4849,
+              "start": 12,
+              "type": "Other"
+            },
+            {
+              "end": 185,
+              "normalized_text": "n ",
+              "probability": 0.4727,
+              "start": 184,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5WZ62aq09d",
+              "end": 299,
+              "expanded_url": "https://x.com/huang_chao4969/status/2030677277974167609/photo/1",
+              "media_key": "3_2030677046431825920",
+              "start": 276,
+              "url": "https://t.co/5WZ62aq09d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030677277974167609",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 1336,
+                "start": 1324,
+                "tag": "CLIAnything"
+              },
+              {
+                "end": 1347,
+                "start": 1338,
+                "tag": "openclaw"
+              },
+              {
+                "end": 1356,
+                "start": 1348,
+                "tag": "nanobot"
+              },
+              {
+                "end": 1368,
+                "start": 1357,
+                "tag": "claudecode"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/HKUDS/CLI-Anyt…",
+                "end": 353,
+                "expanded_url": "https://github.com/HKUDS/CLI-Anything",
+                "start": 330,
+                "url": "https://t.co/BlRymgR21a"
+              }
+            ]
+          },
+          "text": "Introducing CLI-Anything🚀 Making ALL software agent-native with one command. Today's software serves humans👨‍💻. Tomorrow's users will be agents🤖.\n\nCLI-Anything: bridging the gap between AI agents and the world's software. One command line to make any software agent-ready for OpenClaw, nanobot, Cursor, Claude Code, etc.\n\nGitHub: https://t.co/BlRymgR21a\n\n🤔 Why CLI-Anything?\nCLI is the universal interface for both humans and AI agents:\n\n- Structured & Composable - Text commands match LLM format and chain for complex workflows\n\n- Lightweight & Universal - Minimal overhead, works across all systems without dependencies\n\n- Self-Describing - --help flags provide automatic documentation agents can discover\n\n- Proven Success - Claude Code runs thousands of real workflows through CLI daily\n\n- Agent-First Design - Structured JSON output eliminates parsing complexity\n\n- Deterministic & Reliable - Consistent results enable predictable agent behavior\n\n💡 CLI-Anything's Vision: Building Agent-Native Software\n- 🌐 Universal Access - Every software becomes instantly agent-controllable through structured CLI.\n\n- 🔗 Seamless Integration - Agents control any application without APIs, GUI, rebuilding or complex wrappers.\n\n- 🚀 Future-Ready Ecosystem - Transform human-designed software into agent-native tools with one command.\n\n#CLIAnything  #openclaw #nanobot #claudecode"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1154,
+          "impression_count": 200251,
+          "like_count": 813,
+          "quote_count": 31,
+          "reply_count": 42,
+          "retweet_count": 155
+        },
+        "reply_settings": "everyone",
+        "text": "Introducing CLI-Anything🚀 Making ALL software agent-native with one command. Today's software serves humans👨‍💻. Tomorrow's users will be agents🤖.\n\nCLI-Anything: bridging the gap between AI agents and the world's software. One command line to make any software agent-ready for https://t.co/5WZ62aq09d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "wish you have a good day",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "http://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/eTavjpxMtr"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2031630035707437373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990335184202588161/WaT_RP5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 879,
+          "following_count": 108,
+          "like_count": 4414,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 376
+        },
+        "url": "https://t.co/eTavjpxMtr",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-24T06:46:05.000Z",
+        "description": "Leading HKU-Data Intelligence Lab | nanobot, LightRAG, DeepCode, RAG-Anything, AI-Trader, DeepTutor, AutoAgent, AI-Researcher, VideoRAG, ViMax",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/HKUDS",
+                "end": 23,
+                "expanded_url": "https://github.com/HKUDS",
+                "start": 0,
+                "url": "https://t.co/nffJgK4Sip"
+              }
+            ]
+          }
+        },
+        "id": "1716707587171975168",
+        "location": "Hong Kong",
+        "name": "Chao Huang",
+        "pinned_tweet_id": "2023282092042580015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1716708001346899968/f7nx5bDw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10724,
+          "following_count": 56,
+          "like_count": 509,
+          "listed_count": 107,
+          "media_count": 111,
+          "tweet_count": 381
+        },
+        "url": "https://t.co/nffJgK4Sip",
+        "username": "huang_chao4969",
+        "verified": true
+      }
+    ]
+  }
+}

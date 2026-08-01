@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2062758362509680899",
+    "created_at": "2026-06-06T04:24:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T05:24:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063114751115505834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2008845195299913728",
+          "start": 0,
+          "username": "Suiai__"
+        },
+        {
+          "end": 25,
+          "id": "1077906424661856257",
+          "start": 9,
+          "username": "nf0RvF9qLpjzOpv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063114751115505834",
+    "in_reply_to_user_id": "2008845195299913728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062873867316777058",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Suiai__ @nf0RvF9qLpjzOpv 🤧那我再看看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2062758362509680899",
+        "created_at": "2026-06-06T04:24:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T05:24:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063114751115505834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2008845195299913728",
+              "start": 0,
+              "username": "Suiai__"
+            },
+            {
+              "end": 25,
+              "id": "1077906424661856257",
+              "start": 9,
+              "username": "nf0RvF9qLpjzOpv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063114751115505834",
+        "in_reply_to_user_id": "2008845195299913728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062873867316777058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Suiai__ @nf0RvF9qLpjzOpv 🤧那我再看看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008845195299913728",
+        "conversation_id": "2062758362509680899",
+        "created_at": "2026-06-05T12:27:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T13:27:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062873867316777058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1858727254345281536",
+              "start": 0,
+              "username": "NNNullptr"
+            },
+            {
+              "end": 27,
+              "id": "1077906424661856257",
+              "start": 11,
+              "username": "nf0RvF9qLpjzOpv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062873867316777058",
+        "in_reply_to_user_id": "1858727254345281536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062825513849335875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NNNullptr @nf0RvF9qLpjzOpv 别，真别，破比赛面试官真看不上，实习不怎么看技术的，关键是你要能快速到岗，能稳定干几个月，当然找实习也看城市"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "Math Student & Tech Enthusiast",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1189,
+          "following_count": 171,
+          "like_count": 6548,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 914
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-07T10:16:52.000Z",
+        "description": "",
+        "id": "2008845195299913728",
+        "name": "SSui ai",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008845282637955073/cTcOA-6__normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 15,
+          "like_count": 190,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 140
+        },
+        "username": "Suiai__",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-26T12:38:12.000Z",
+        "description": "",
+        "id": "1077906424661856257",
+        "name": "2501_0",
+        "pinned_tweet_id": "1177544367357100034",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 78,
+          "like_count": 427819,
+          "listed_count": 1,
+          "media_count": 244,
+          "tweet_count": 186379
+        },
+        "username": "nf0RvF9qLpjzOpv",
+        "verified": false
+      }
+    ]
+  }
+}

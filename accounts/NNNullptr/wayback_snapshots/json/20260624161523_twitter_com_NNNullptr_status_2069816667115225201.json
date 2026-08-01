@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2069816667115225201",
+    "created_at": "2026-06-24T16:15:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T17:15:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069816667115225201"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ashasw114514/s…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/ashasw114514/status/2069397110391459942",
+          "start": 10,
+          "url": "https://t.co/8e7kWWvDOL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069816667115225201",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069397110391459942",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我对有钱人的态度： https://t.co/8e7kWWvDOL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1056,
+        "media_key": "3_2069397103454105600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLf5s5KasAAL4py.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2069816667115225201",
+        "created_at": "2026-06-24T16:15:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T17:15:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069816667115225201"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ashasw114514/s…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/ashasw114514/status/2069397110391459942",
+              "start": 10,
+              "url": "https://t.co/8e7kWWvDOL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069816667115225201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069397110391459942",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我对有钱人的态度： https://t.co/8e7kWWvDOL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069397103454105600"
+          ]
+        },
+        "author_id": "1981638054688501760",
+        "conversation_id": "2069397110391459942",
+        "created_at": "2026-06-23T12:28:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T13:28:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069397110391459942"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VaoD8CiB3L",
+              "end": 37,
+              "expanded_url": "https://x.com/ashasw114514/status/2069397110391459942/photo/1",
+              "media_key": "3_2069397103454105600",
+              "start": 14,
+              "url": "https://t.co/VaoD8CiB3L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069397110391459942",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 148906,
+          "like_count": 2116,
+          "quote_count": 7,
+          "reply_count": 221,
+          "retweet_count": 63
+        },
+        "reply_settings": "everyone",
+        "text": "average共产主义者： https://t.co/VaoD8CiB3L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "捉摸不透",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1297,
+          "following_count": 178,
+          "like_count": 7105,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 1045
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T08:25:16.000Z",
+        "description": "县城穷蛆  粉区退散 后现代黑话定型文享受者  此账号一切仇恨言论都是troll  账号存在搬运内容请注意  查成分互fo🚪52\n@dual_runplex\n@LinkingMadoka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 65,
+                "username": "dual_runplex"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "LinkingMadoka"
+              }
+            ]
+          }
+        },
+        "id": "1981638054688501760",
+        "location": "Toronto, Ontario",
+        "name": "搞耍潮爹🉑到付✈️",
+        "pinned_tweet_id": "2047635999803809809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042630733886558212/PjNOs5t0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4487,
+          "following_count": 3344,
+          "like_count": 7360,
+          "listed_count": 10,
+          "media_count": 646,
+          "tweet_count": 5474
+        },
+        "url": "",
+        "username": "ashasw114514",
+        "verified": true
+      }
+    ]
+  }
+}

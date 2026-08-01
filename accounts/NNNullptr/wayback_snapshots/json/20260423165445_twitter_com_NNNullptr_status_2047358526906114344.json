@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2047355053921730785",
+    "created_at": "2026-04-23T16:54:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T17:54:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047358526906114344"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1559879177888616448",
+          "start": 0,
+          "username": "hehesumimasen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047358526906114344",
+    "in_reply_to_user_id": "1559879177888616448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047358377714692360",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hehesumimasen 其实我也，我有差不多一年半个月不活跃了以后，回来基本就没有认识的人了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2047355053921730785",
+        "created_at": "2026-04-23T16:54:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T17:54:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047358526906114344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1559879177888616448",
+              "start": 0,
+              "username": "hehesumimasen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047358526906114344",
+        "in_reply_to_user_id": "1559879177888616448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047358377714692360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hehesumimasen 其实我也，我有差不多一年半个月不活跃了以后，回来基本就没有认识的人了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1559879177888616448",
+        "conversation_id": "2047355053921730785",
+        "created_at": "2026-04-23T16:54:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T17:54:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047358377714692360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1858727254345281536",
+              "start": 0,
+              "username": "NNNullptr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047358377714692360",
+        "in_reply_to_user_id": "1858727254345281536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047355053921730785",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NNNullptr 可能是玩着玩着没热情了吧，我也有淡了一段时间，现在也有一些珍惜互关推油好久没上号了感觉😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "wish you have a good day",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1070,
+          "following_count": 140,
+          "like_count": 5008,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 525
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-17T12:26:04.000Z",
+        "description": "Player",
+        "id": "1559879177888616448",
+        "name": "Kukuguha",
+        "pinned_tweet_id": "1609123467017981952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1568393779706531841/o2rS4JAF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 719,
+          "like_count": 3949,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 566
+        },
+        "username": "hehesumimasen",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2063309382927241389",
+    "created_at": "2026-06-06T21:06:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T22:06:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063367038740095482"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1527652153392701442",
+          "start": 0,
+          "username": "ctf7zi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063367038740095482",
+    "in_reply_to_user_id": "1527652153392701442",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063309382927241389",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ctf7zi 失联很久了，好像是被父母抓走了，还没有消息吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063309373209006080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKJY8WvbUAAXmFO.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2063309382927241389",
+        "created_at": "2026-06-06T21:06:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T22:06:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063367038740095482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1527652153392701442",
+              "start": 0,
+              "username": "ctf7zi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063367038740095482",
+        "in_reply_to_user_id": "1527652153392701442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063309382927241389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ctf7zi 失联很久了，好像是被父母抓走了，还没有消息吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063309373209006080"
+          ]
+        },
+        "author_id": "1527652153392701442",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063309382927241389",
+        "created_at": "2026-06-06T17:17:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T18:17:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063309382927241389"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vZ5aJmmBSB",
+              "end": 41,
+              "expanded_url": "https://x.com/ctf7zi/status/2063309382927241389/photo/1",
+              "media_key": "3_2063309373209006080",
+              "start": 18,
+              "url": "https://t.co/vZ5aJmmBSB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063309382927241389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 419,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "有人知道这位还好吗...失踪好久了 https://t.co/vZ5aJmmBSB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "Math Student & Tech Enthusiast",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1188,
+          "following_count": 172,
+          "like_count": 6579,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 920
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-20T14:07:21.000Z",
+        "description": "自伤/od/跨女/一些碎碎念",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ctf7zi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ctf7zi",
+                "start": 0,
+                "url": "https://t.co/N1lw2XkF1m"
+              }
+            ]
+          }
+        },
+        "id": "1527652153392701442",
+        "name": "くしろ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785403185932455936/UTl4_iZQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1027,
+          "following_count": 549,
+          "like_count": 26982,
+          "listed_count": 3,
+          "media_count": 225,
+          "tweet_count": 8711
+        },
+        "url": "https://t.co/N1lw2XkF1m",
+        "username": "ctf7zi",
+        "verified": false
+      }
+    ]
+  }
+}

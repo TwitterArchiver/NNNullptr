@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2056917681736224919",
+    "created_at": "2026-05-20T01:59:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T02:59:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056917681736224919"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/berryxia/statu…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/berryxia/status/2056535082421441020",
+          "start": 6,
+          "url": "https://t.co/zGo1ZZK4hZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056917681736224919",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056535082421441020",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我偏爱手写 https://t.co/zGo1ZZK4hZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2056535074754154497",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIpHwSbaUAEbzqd.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2056917681736224919",
+        "created_at": "2026-05-20T01:59:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T02:59:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056917681736224919"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/berryxia/statu…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/berryxia/status/2056535082421441020",
+              "start": 6,
+              "url": "https://t.co/zGo1ZZK4hZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056917681736224919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056535082421441020",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我偏爱手写 https://t.co/zGo1ZZK4hZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056535074754154497"
+          ]
+        },
+        "author_id": "431617343",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237037424661770242",
+              "name": "Neuroscience"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "2056535082421441020",
+        "created_at": "2026-05-19T00:39:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T01:38:51.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056535018110144694",
+          "2056535082421441020"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g1erdw6dpd",
+              "end": 178,
+              "expanded_url": "https://x.com/berryxia/status/2056535082421441020/photo/1",
+              "media_key": "3_2056535074754154497",
+              "start": 155,
+              "url": "https://t.co/g1erdw6dpd"
+            },
+            {
+              "display_url": "x.com/ihtesham2005/s…",
+              "end": 202,
+              "expanded_url": "https://twitter.com/ihtesham2005/status/2056381836499263953",
+              "start": 179,
+              "url": "https://t.co/U35u7FzBsN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056535082421441020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "兄弟们，一个挪威神经科学家花了整整20年，就为了证明一件事：  \n\n手写笔记和打字，在大脑里是完全不同的两件事。  \n\n她叫Audrey van der Meer，在Trondheim经营脑科学研究实验室。\n\n2024年她在Frontiers in Psychology上发的那篇论文，直接把争议画上了句号。  \n\n实验很简单：36名大学生戴上256通道EEG帽。  \n\n屏幕上闪出一个单词。  \n一半人用数字笔在触屏上手写，另一半直接在键盘上打字。  \n\n结果惊人：  \n\n手写时，大脑全亮。\n\n记忆区、感觉整合区、新信息编码区全部同步激活，像整个皮层网络同时醒过来。  \n\n打字时呢？\n大部分脑区瞬间安静，刚才那些连接几乎全消失。  \n\n同一个单词、同一个大脑、同一个人，两套完全不同的神经事件。  \n\n原因藏在微动作里：手写每一个字母，都是上千个微小动作和眼睛实时配合的空间问题。\n手指、手腕、视觉、空间定位全在协同工作。  \n\n打字呢？\n每按一个键都是完全相同的动作，大脑几乎不需要整合，也没什么问题要解决。  \n\n十年前普林斯顿的另一组研究用完全不同的方法也得到了相同结论：手写笔记的学生在真正理解题上完胜，打字组只记住了表面内容。  \n\n因为手写逼你必须听、必须选、必须用自己的话重新组织。  \n\n打字让你像复印机一样狂敲，却几乎没经过大脑加工。  \n\n我看完后最大的感受是：  \n\n我们以为打字是效率，手写是老派。  \n\n其实手写才是真正让知识扎根"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1163,
+          "impression_count": 274839,
+          "like_count": 1823,
+          "quote_count": 60,
+          "reply_count": 106,
+          "retweet_count": 417
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056381836499263953",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "兄弟们，一个挪威神经科学家花了整整20年，就为了证明一件事：  \n\n手写笔记和打字，在大脑里是完全不同的两件事。  \n\n她叫Audrey van der Meer，在Trondheim经营脑科学研究实验室。\n\n2024年她在Frontiers in Psychology上发的那篇论文，直接把争议画上了句号。 https://t.co/g1erdw6dpd https://t.co/U35u7FzBsN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "wish you have a good day",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1135,
+          "following_count": 159,
+          "like_count": 5793,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 716
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2011-12-08T13:56:00.000Z",
+        "description": "Building AI tools AI System Prompt \nLove Design & Coding & Share Prompt！ 📮:Andyhuo@me.com",
+        "id": "431617343",
+        "name": "Berryxia.AI",
+        "pinned_tweet_id": "2056689979448021168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016043556964605952/Tqi9KA2r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42474,
+          "following_count": 603,
+          "like_count": 3669,
+          "listed_count": 574,
+          "media_count": 1153,
+          "tweet_count": 6280
+        },
+        "username": "berryxia",
+        "verified": true
+      }
+    ]
+  }
+}
