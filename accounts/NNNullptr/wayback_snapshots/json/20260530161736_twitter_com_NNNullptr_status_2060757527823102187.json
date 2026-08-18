@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2060757527823102187",
+    "created_at": "2026-05-30T16:17:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T17:17:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060757527823102187"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NNNullptr/stat…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/NNNullptr/status/2060755871047770519",
+          "start": 7,
+          "url": "https://t.co/cY33hJfLim"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060757527823102187",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060755871047770519",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我觉得很幽默 https://t.co/cY33hJfLim"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2060757527823102187",
+        "created_at": "2026-05-30T16:17:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T17:17:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060757527823102187"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NNNullptr/stat…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/NNNullptr/status/2060755871047770519",
+              "start": 7,
+              "url": "https://t.co/cY33hJfLim"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060757527823102187",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060755871047770519",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我觉得很幽默 https://t.co/cY33hJfLim"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2060680874304409908",
+        "created_at": "2026-05-30T16:11:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T17:11:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060755871047770519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1913946244764098560",
+              "start": 0,
+              "username": "Tibmal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060755871047770519",
+        "in_reply_to_user_id": "1913946244764098560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060680874304409908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tibmal 碳水脸这个词一开始是浪蛆造出来的，就是为了嘲笑老中的，居然被当做一个有点正经的概念传起来我觉得很幽默"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "Math Student & Tech Enthusiast",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1149,
+          "following_count": 169,
+          "like_count": 6300,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 853
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      }
+    ]
+  }
+}

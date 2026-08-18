@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2069669084674068681",
+    "created_at": "2026-06-25T05:40:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T06:40:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070019248420954117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1902395717240688640",
+          "start": 0,
+          "username": "Kakakatrina000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070019248420954117",
+    "in_reply_to_user_id": "1902395717240688640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069669084674068681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kakakatrina000 但是真的很卷很卷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2069669084674068681",
+        "created_at": "2026-06-25T05:40:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T06:40:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070019248420954117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1902395717240688640",
+              "start": 0,
+              "username": "Kakakatrina000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070019248420954117",
+        "in_reply_to_user_id": "1902395717240688640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069669084674068681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kakakatrina000 但是真的很卷很卷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902395717240688640",
+        "conversation_id": "2069669084674068681",
+        "created_at": "2026-06-24T06:28:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T07:28:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069669084674068681"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069669084674068681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2023,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "但是说实话成绩好的话又没有方向去往计算机相关读吧，真的，去顶尖学校读出来赚老多了，哪怕没那么喜欢这门学科你去看一下他们出来的工资，再不喜欢都会爱上的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "那种捉摸不透的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1297,
+          "following_count": 180,
+          "like_count": 7136,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 1051
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-19T16:24:34.000Z",
+        "description": "不约不🚪但欢迎打钱 hh\n想发什么发什么，我的开心是第一",
+        "id": "1902395717240688640",
+        "name": "Kakakatrina",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060068351557390336/5zvwNpSE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 61,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 556
+        },
+        "url": "",
+        "username": "Kakakatrina000",
+        "verified": false
+      }
+    ]
+  }
+}

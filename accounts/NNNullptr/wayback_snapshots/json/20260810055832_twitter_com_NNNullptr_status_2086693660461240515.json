@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2086449623422660862",
+    "created_at": "2026-08-10T05:58:32.000Z",
+    "display_text_range": [
+      13,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T06:58:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086693660461240515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1675486338509074432",
+          "start": 0,
+          "username": "HirasawaOvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086693660461240515",
+    "in_reply_to_user_id": "1675486338509074432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086671380603625807",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HirasawaOvO 对"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1058,
+        "media_key": "3_2086671378066137088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPVYkAybYAA8Cap.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2086449623422660862",
+        "created_at": "2026-08-10T05:58:32.000Z",
+        "display_text_range": [
+          13,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T06:58:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086693660461240515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1675486338509074432",
+              "start": 0,
+              "username": "HirasawaOvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086693660461240515",
+        "in_reply_to_user_id": "1675486338509074432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086671380603625807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HirasawaOvO 对"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086671378066137088"
+          ]
+        },
+        "author_id": "1675486338509074432",
+        "conversation_id": "2086449623422660862",
+        "created_at": "2026-08-10T04:30:00.000Z",
+        "display_text_range": [
+          11,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T05:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086671380603625807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1858727254345281536",
+              "start": 0,
+              "username": "NNNullptr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VIx7OwfGYg",
+              "end": 38,
+              "expanded_url": "https://x.com/HirasawaOvO/status/2086671380603625807/photo/1",
+              "media_key": "3_2086671378066137088",
+              "start": 15,
+              "url": "https://t.co/VIx7OwfGYg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086671380603625807",
+        "in_reply_to_user_id": "1858727254345281536",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086671378066137088"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086449623422660862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NNNullptr 这个吗 https://t.co/VIx7OwfGYg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "捉摸不透的用户：南方的狼",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086693660461240515",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1858727254345281536/1774548658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1305,
+          "following_count": 184,
+          "like_count": 7482,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 1202
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-02T12:47:39.000Z",
+        "description": "一个热衷于逃避现实的胆小鬼",
+        "id": "1675486338509074432",
+        "is_identity_verified": false,
+        "location": "第三新东京市旧仙石原高原五丁目",
+        "most_recent_tweet_id": "2086671380603625807",
+        "name": "Pochiiiii 2.0",
+        "pinned_tweet_id": "1801092119035293830",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1675486338509074432/1778424706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983214312325033984/5ocM-3XV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 784,
+          "following_count": 379,
+          "like_count": 7295,
+          "listed_count": 4,
+          "media_count": 156,
+          "tweet_count": 2309
+        },
+        "url": "",
+        "username": "HirasawaOvO",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

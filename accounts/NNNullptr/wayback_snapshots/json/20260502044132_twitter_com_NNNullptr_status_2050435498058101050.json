@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2050385431045243222",
+    "created_at": "2026-05-02T04:41:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T05:41:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050435498058101050"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1924212425332813824",
+          "start": 0,
+          "username": "Phoenixyin13"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050435498058101050",
+    "in_reply_to_user_id": "1924212425332813824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050385431045243222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Phoenixyin13 好网红的套路啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_2050385425030639616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHRurj-W8AAImkY.jpg",
+        "width": 1440
+      },
+      {
+        "height": 385,
+        "media_key": "3_2050385425026457600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHRurj9XIAAPtuP.jpg",
+        "width": 1179
+      },
+      {
+        "height": 836,
+        "media_key": "3_2050385425034797056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHRurj_WYAA2650.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2050385431045243222",
+        "created_at": "2026-05-02T04:41:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T05:41:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050435498058101050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1924212425332813824",
+              "start": 0,
+              "username": "Phoenixyin13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050435498058101050",
+        "in_reply_to_user_id": "1924212425332813824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050385431045243222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Phoenixyin13 好网红的套路啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050385425030639616",
+            "3_2050385425026457600",
+            "3_2050385425034797056"
+          ]
+        },
+        "author_id": "1924212425332813824",
+        "conversation_id": "2050385431045243222",
+        "created_at": "2026-05-02T01:22:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T02:22:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050385431045243222"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uOXZfBURqP",
+              "end": 149,
+              "expanded_url": "https://x.com/Phoenixyin13/status/2050385431045243222/photo/1",
+              "media_key": "3_2050385425030639616",
+              "start": 126,
+              "url": "https://t.co/uOXZfBURqP"
+            },
+            {
+              "display_url": "pic.x.com/uOXZfBURqP",
+              "end": 149,
+              "expanded_url": "https://x.com/Phoenixyin13/status/2050385431045243222/photo/1",
+              "media_key": "3_2050385425026457600",
+              "start": 126,
+              "url": "https://t.co/uOXZfBURqP"
+            },
+            {
+              "display_url": "pic.x.com/uOXZfBURqP",
+              "end": 149,
+              "expanded_url": "https://x.com/Phoenixyin13/status/2050385431045243222/photo/1",
+              "media_key": "3_2050385425034797056",
+              "start": 126,
+              "url": "https://t.co/uOXZfBURqP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050385431045243222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "实话说，我最讨厌在AI时代造神。\n\n比利时神童 Laurent Simons被誉为小爱因斯坦：\n8岁：高中毕业\n15岁：量子物理博士学位到手。\n而现在，他把下一个方向直接定在了用AI攻克人类衰老的Realm。\n\n在他眼里，死亡只是一个还没拼完的拼图。\n他要用AI把人类寿命直接拉长，把“l生老病死四个字，从人类剧本里彻底删掉！\n这是开挂级别的降维打击。\n\n当普通人还在为高考、考研、35岁危机焦虑的时候，这个少年好像已经把人类终极难题当成了毕业论文的方向。\n\n但在我看来，这个天才的落点我表示怀疑：\n2019年(9岁):媒体说他要在埃因霍温理工拿电气工程学士——后来没拿到,因为学校不肯为了赶他10岁生日提前安排答辩,他父亲带他退学了。\n这件事当时被包装成神童被官僚耽误，实际是学校学术标准和家长公关诉求的冲突\n2021年:11岁在安特卫普大学拿了物理学士\n2024年(报道):15岁拿量子物理博士。但博士论文、导师、答辩委员会、发表记录,公开可查的几乎没有。\n\nSimons的paper没有进入任何主流物理学家的视野。我觉得目前是没有的。\n\n我的评价是:让他先发一篇PRL再说。\n\n至于AI+永生，这是2026年最被滥用的buzzword组合。\n而用AI攻克衰老作为一个15岁刚毕业博士的research agenda，我表示深切怀疑。\n\n因为这个领域的入场券是:分子生物学 + 老年学 + 临床医学 + ML的交叉训练,通常需要一个MD/PhD加5-10年博后。但Simons的物理背景与衰老研究的核心方法论几乎没有交集。我不知道他如何落笔。\n\n也许我是个庸人，理解不了天才的思路。\n我自始至终没有说他不强，我的意思是，AI+永生的解决，在他的整个叙事里，本质上是一场泡沫。\n\n过去神童的故事终点是教授、诺奖、菲尔兹；现在媒体需要的故事是少年天才用AI解决XX终极问题。\n\n真正的天才KPI从来没变，即解决一个领域内被公认为重要的开放问题。\n变的，只是媒体的注意力分配。\n\n在我看来，Terence Tao 在做的Erdős discrepancy problem、Navier-Stokes,远比AI+永生硬核。\n但媒体写不出爆款，仅此而已。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 8925,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "实话说，我最讨厌在AI时代造神。\n\n比利时神童 Laurent Simons被誉为小爱因斯坦：\n8岁：高中毕业\n15岁：量子物理博士学位到手。\n而现在，他把下一个方向直接定在了用AI攻克人类衰老的Realm。\n\n在他眼里，死亡只是一个还没拼完的拼图。 https://t.co/uOXZfBURqP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "wish you have a good day",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1104,
+          "following_count": 142,
+          "like_count": 5213,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 598
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-18T21:16:21.000Z",
+        "description": "🇺🇸 04美本 | 计算机科学&认知科学\n⚙️AI, cognition, crypto, and the future of intelligence.\n✨相信好奇心驱动。相信人永远可塑。",
+        "id": "1924212425332813824",
+        "location": "Beverly Hills, CA",
+        "name": "Phoenix Yin",
+        "pinned_tweet_id": "2050075400995234077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028337523773038592/1kSOtKBU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3098,
+          "following_count": 1299,
+          "like_count": 4058,
+          "listed_count": 13,
+          "media_count": 166,
+          "tweet_count": 2282
+        },
+        "username": "Phoenixyin13",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2070784594501361845",
+    "created_at": "2026-06-27T10:51:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T11:51:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070822367039750431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1750329917252976640",
+          "start": 0,
+          "username": "yueyue8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070822367039750431",
+    "in_reply_to_user_id": "1750329917252976640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070784594501361845",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yueyue8964 完全豆包"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070784579083059201",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLznmmqaQAEVvw3.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2070784594501361845",
+        "created_at": "2026-06-27T10:51:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T11:51:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070822367039750431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1750329917252976640",
+              "start": 0,
+              "username": "yueyue8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070822367039750431",
+        "in_reply_to_user_id": "1750329917252976640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070784594501361845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yueyue8964 完全豆包"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070784579083059201"
+          ]
+        },
+        "author_id": "1750329917252976640",
+        "conversation_id": "2070784594501361845",
+        "created_at": "2026-06-27T08:21:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T09:21:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070784594501361845"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pw5JKS3seN",
+              "end": 111,
+              "expanded_url": "https://x.com/yueyue8964/status/2070784594501361845/photo/1",
+              "media_key": "3_2070784579083059201",
+              "start": 88,
+              "url": "https://t.co/Pw5JKS3seN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070784594501361845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2247,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "国抖一群贱种 衣服没有假发没有纹身没有妆没有拿个醒图给自己p美了 女的至少还p了头发男的戴个眼镜脸一洗就拍上了点开主页穿个情趣内衣俩人自拍上了给网友当套使 😂贱逼情侣啥时候死 https://t.co/Pw5JKS3seN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "捉摸不透的用户：南方的狼",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1295,
+          "following_count": 181,
+          "like_count": 7225,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 1066
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-25T01:29:16.000Z",
+        "description": "我想我不够好",
+        "id": "1750329917252976640",
+        "location": "无声的寂静海",
+        "name": "小榆",
+        "pinned_tweet_id": "1865899514122666310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807218968463327232/_cUbucHu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10024,
+          "following_count": 552,
+          "like_count": 11066,
+          "listed_count": 21,
+          "media_count": 503,
+          "tweet_count": 13801
+        },
+        "url": "",
+        "username": "yueyue8964",
+        "verified": false
+      }
+    ]
+  }
+}

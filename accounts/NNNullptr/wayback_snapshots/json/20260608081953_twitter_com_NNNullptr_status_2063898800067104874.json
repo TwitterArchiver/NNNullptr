@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2063644782874992841",
+    "created_at": "2026-06-08T08:19:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T09:19:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063898800067104874"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1966023688006078464",
+          "start": 0,
+          "username": "callme_doubi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063898800067104874",
+    "in_reply_to_user_id": "1966023688006078464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063644782874992841",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@callme_doubi 起标题有一套"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063644766617927680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKOJ-0jbAAAnOZk.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2063644782874992841",
+        "created_at": "2026-06-08T08:19:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T09:19:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063898800067104874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1966023688006078464",
+              "start": 0,
+              "username": "callme_doubi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063898800067104874",
+        "in_reply_to_user_id": "1966023688006078464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063644782874992841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@callme_doubi 起标题有一套"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063644766617927680"
+          ]
+        },
+        "author_id": "1966023688006078464",
+        "conversation_id": "2063644782874992841",
+        "created_at": "2026-06-07T15:30:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T16:30:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063644782874992841"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CnMULu7Z8W",
+              "end": 28,
+              "expanded_url": "https://x.com/callme_doubi/status/2063644782874992841/photo/1",
+              "media_key": "3_2063644766617927680",
+              "start": 5,
+              "url": "https://t.co/CnMULu7Z8W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063644782874992841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 113,
+          "impression_count": 124922,
+          "like_count": 1904,
+          "quote_count": 20,
+          "reply_count": 117,
+          "retweet_count": 107
+        },
+        "reply_settings": "everyone",
+        "text": "完全实话 https://t.co/CnMULu7Z8W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "Math Student & Tech Enthusiast",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1192,
+          "following_count": 172,
+          "like_count": 6633,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 949
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-11T06:19:22.000Z",
+        "description": "屁话很多 将懵逼贯彻到底 缩写黑话一概不知 阿弥陀佛",
+        "id": "1966023688006078464",
+        "location": "随意搬运",
+        "name": "豆比",
+        "pinned_tweet_id": "2058872080926744916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051485163281055744/F-PqCl9C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3425,
+          "following_count": 116,
+          "like_count": 5781,
+          "listed_count": 1,
+          "media_count": 498,
+          "tweet_count": 4771
+        },
+        "username": "callme_doubi",
+        "verified": false
+      }
+    ]
+  }
+}

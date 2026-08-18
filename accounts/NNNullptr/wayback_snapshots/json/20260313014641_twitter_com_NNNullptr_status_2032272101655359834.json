@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2032272101655359834",
+    "created_at": "2026-03-13T01:46:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T02:46:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032272101655359834"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/entangled_pair…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/entangled_pair/status/2032020454496747978",
+          "start": 6,
+          "url": "https://t.co/UkbolVdVJa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032272101655359834",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032020454496747978",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "同质化的人 https://t.co/UkbolVdVJa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 982,
+        "media_key": "3_2032020313945563136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDMvtZ0aYAAl5X7.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2032272101655359834",
+        "created_at": "2026-03-13T01:46:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T02:46:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032272101655359834"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/entangled_pair…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/entangled_pair/status/2032020454496747978",
+              "start": 6,
+              "url": "https://t.co/UkbolVdVJa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032272101655359834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032020454496747978",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "同质化的人 https://t.co/UkbolVdVJa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032020313945563136"
+          ]
+        },
+        "author_id": "982460989005287424",
+        "conversation_id": "2032020454496747978",
+        "created_at": "2026-03-12T09:06:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T10:06:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032020454496747978"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NCfTTEhvlQ",
+              "end": 60,
+              "expanded_url": "https://x.com/entangled_pair/status/2032020454496747978/photo/1",
+              "media_key": "3_2032020313945563136",
+              "start": 37,
+              "url": "https://t.co/NCfTTEhvlQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032020454496747978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 137,
+          "impression_count": 55407,
+          "like_count": 656,
+          "quote_count": 7,
+          "reply_count": 12,
+          "retweet_count": 57
+        },
+        "reply_settings": "everyone",
+        "text": "草光是看这段话都觉得ptsd\n我回忆起了当初为什么一份简历也不肯往湾区投 https://t.co/NCfTTEhvlQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "wish you have a good day",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "http://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/eTavjpxMtr"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2031630035707437373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990335184202588161/WaT_RP5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 875,
+          "following_count": 109,
+          "like_count": 4424,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 383
+        },
+        "url": "https://t.co/eTavjpxMtr",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-07T03:32:07.000Z",
+        "description": "即时退出当代生活 ✉️: entangledpair(AT)pm(DOT)me",
+        "id": "982460989005287424",
+        "location": "Shenzhen",
+        "name": "𝙅𝙆.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924644713724051458/jCG1pD7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 637,
+          "following_count": 315,
+          "like_count": 6657,
+          "listed_count": 3,
+          "media_count": 83,
+          "tweet_count": 929
+        },
+        "username": "entangled_pair",
+        "verified": false
+      }
+    ]
+  }
+}

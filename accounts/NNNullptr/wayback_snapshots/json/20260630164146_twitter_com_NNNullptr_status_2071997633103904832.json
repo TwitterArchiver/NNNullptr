@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2071938204505362919",
+    "created_at": "2026-06-30T16:41:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T17:41:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071997633103904832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1447499448649601025",
+          "start": 0,
+          "username": "LVTGW666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071997633103904832",
+    "in_reply_to_user_id": "1447499448649601025",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071938204505362919",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LVTGW666 感觉这个赛道还不如找个男的拍出租屋苦命力工夫妇小视频，起码还可以带货一些纸巾米面油等生活用品"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2448,
+        "media_key": "3_2071938187916677120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMEAzedXEAAZDR0.jpg",
+        "width": 1224
+      },
+      {
+        "height": 2471,
+        "media_key": "3_2071938187857997824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMEAzePXsAAB6-1.jpg",
+        "width": 1224
+      },
+      {
+        "height": 2444,
+        "media_key": "3_2071938187920867328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMEAzeeXAAAS6DB.jpg",
+        "width": 1203
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2071938204505362919",
+        "created_at": "2026-06-30T16:41:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T17:41:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071997633103904832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1447499448649601025",
+              "start": 0,
+              "username": "LVTGW666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071997633103904832",
+        "in_reply_to_user_id": "1447499448649601025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071938204505362919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LVTGW666 感觉这个赛道还不如找个男的拍出租屋苦命力工夫妇小视频，起码还可以带货一些纸巾米面油等生活用品"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071938187916677120",
+            "3_2071938187857997824",
+            "3_2071938187920867328"
+          ]
+        },
+        "author_id": "1447499448649601025",
+        "conversation_id": "2071938204505362919",
+        "created_at": "2026-06-30T12:45:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T13:45:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071938204505362919"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qhTTnmQ3EC",
+              "end": 34,
+              "expanded_url": "https://x.com/LVTGW666/status/2071938204505362919/photo/1",
+              "media_key": "3_2071938187916677120",
+              "start": 11,
+              "url": "https://t.co/qhTTnmQ3EC"
+            },
+            {
+              "display_url": "pic.x.com/qhTTnmQ3EC",
+              "end": 34,
+              "expanded_url": "https://x.com/LVTGW666/status/2071938204505362919/photo/1",
+              "media_key": "3_2071938187857997824",
+              "start": 11,
+              "url": "https://t.co/qhTTnmQ3EC"
+            },
+            {
+              "display_url": "pic.x.com/qhTTnmQ3EC",
+              "end": 34,
+              "expanded_url": "https://x.com/LVTGW666/status/2071938204505362919/photo/1",
+              "media_key": "3_2071938187920867328",
+              "start": 11,
+              "url": "https://t.co/qhTTnmQ3EC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071938204505362919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 21524,
+          "like_count": 103,
+          "quote_count": 2,
+          "reply_count": 23,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "还真有人走燕妮赛道啊 https://t.co/qhTTnmQ3EC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "捉摸不透的用户：南方的狼",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1297,
+          "following_count": 182,
+          "like_count": 7310,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1084
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-11T09:49:03.000Z",
+        "description": "我是一直都是啥b啊 分析哲学倒数第6324人 重铸正统施特劳斯荣光，我辈义不容辞 备用小号@lvtgw8964 YouTube：https://t.co/wPvV77mrq4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 45,
+                "username": "lvtgw8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCzPNz…",
+                "end": 87,
+                "expanded_url": "https://youtube.com/channel/UCzPNzUrZ6mQE_DdUyEzWfVQ?si=9P3osu1z2MSLK9OS",
+                "start": 64,
+                "url": "https://t.co/wPvV77mrq4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCzPNz…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCzPNzUrZ6mQE_DdUyEzWfVQ?si=9P3osu1z2MSLK9OS",
+                "start": 0,
+                "url": "https://t.co/wPvV77mrq4"
+              }
+            ]
+          }
+        },
+        "id": "1447499448649601025",
+        "location": "Yokohama-shi Kanagawa",
+        "name": "利维坦冲浪里",
+        "pinned_tweet_id": "2008518971486806332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1496193678477787137/gt41UKj__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72521,
+          "following_count": 996,
+          "like_count": 14989,
+          "listed_count": 307,
+          "media_count": 5615,
+          "tweet_count": 13162
+        },
+        "url": "https://t.co/wPvV77mrq4",
+        "username": "LVTGW666",
+        "verified": true
+      }
+    ]
+  }
+}

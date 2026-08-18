@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2057696307767284178",
+    "created_at": "2026-05-22T06:29:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T07:29:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057710471449550934"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1716365133742755840",
+          "start": 0,
+          "username": "ls_qu30904"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057710471449550934",
+    "in_reply_to_user_id": "1716365133742755840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057696307767284178",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ls_qu30904 汇报还是开少了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2057696307767284178",
+        "created_at": "2026-05-22T06:29:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T07:29:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057710471449550934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1716365133742755840",
+              "start": 0,
+              "username": "ls_qu30904"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057710471449550934",
+        "in_reply_to_user_id": "1716365133742755840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057696307767284178",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ls_qu30904 汇报还是开少了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1716365133742755840",
+        "conversation_id": "2057696307767284178",
+        "created_at": "2026-05-22T05:33:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T06:33:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057696307767284178"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057696307767284178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2580,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃饭的时候听到隔壁桌的男的大声跟对面dating的女生科普agent 说自己在字节做了xxx 开发了xx 内心os妈的cs不愧是嘉豪爆率最高的专业"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "不要紧张",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1139,
+          "following_count": 163,
+          "like_count": 5892,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 748
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-23T08:05:23.000Z",
+        "description": "偶尔上线 私信会看 绿色交流 sb勿扰",
+        "id": "1716365133742755840",
+        "name": "buuuuq",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929875587164000262/-MGHklyj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5487,
+          "following_count": 113,
+          "like_count": 573,
+          "listed_count": 12,
+          "media_count": 29,
+          "tweet_count": 481
+        },
+        "username": "ls_qu30904",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,367 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2058035763519123726",
+    "created_at": "2026-05-23T13:17:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T14:17:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058175365001134290"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "171091319",
+          "start": 0,
+          "username": "leftrational"
+        },
+        {
+          "end": 26,
+          "id": "1715961861026525184",
+          "start": 14,
+          "username": "Jack1158713"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058175365001134290",
+    "in_reply_to_user_id": "171091319",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058133260207808947",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@leftrational @Jack1158713 对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2058035763519123726",
+        "created_at": "2026-05-23T13:17:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T14:17:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058175365001134290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "171091319",
+              "start": 0,
+              "username": "leftrational"
+            },
+            {
+              "end": 26,
+              "id": "1715961861026525184",
+              "start": 14,
+              "username": "Jack1158713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058175365001134290",
+        "in_reply_to_user_id": "171091319",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058133260207808947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@leftrational @Jack1158713 对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "171091319",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2058035763519123726",
+        "created_at": "2026-05-23T10:29:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T11:29:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058133260207808947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1715961861026525184",
+              "start": 0,
+              "username": "Jack1158713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058133260207808947",
+        "in_reply_to_user_id": "1715961861026525184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2591,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058035763519123726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jack1158713 天天发表暴论，不装windows，怎么装steam玩游戏，写代码vscode哪里不能写。mac有什么折腾的，都是成熟系统。三大系统只有Linux有资格嘲讽。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "不要紧张",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1138,
+          "following_count": 163,
+          "like_count": 5912,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 753
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2010-07-26T14:51:03.000Z",
+        "description": "",
+        "id": "171091319",
+        "name": "Lefts",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1012758598500225024/JElozVAp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 230,
+          "like_count": 670,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 436
+        },
+        "username": "leftrational",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-22T05:22:55.000Z",
+        "description": "❤️ 保持热爱\n🚀 AI Directory: https://t.co/HRhBaUrBM1\n📮 meepo.hyper@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "huntifyai.com",
+                "end": 47,
+                "expanded_url": "https://huntifyai.com",
+                "start": 24,
+                "url": "https://t.co/HRhBaUrBM1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "huntifyai.com",
+                "end": 23,
+                "expanded_url": "https://huntifyai.com",
+                "start": 0,
+                "url": "https://t.co/HRhBaUrBM1"
+              }
+            ]
+          }
+        },
+        "id": "1715961861026525184",
+        "name": "Meepo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852279839946141696/de-jezIY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5600,
+          "following_count": 301,
+          "like_count": 1135,
+          "listed_count": 55,
+          "media_count": 312,
+          "tweet_count": 2125
+        },
+        "url": "https://t.co/HRhBaUrBM1",
+        "username": "Jack1158713",
+        "verified": false
+      }
+    ]
+  }
+}

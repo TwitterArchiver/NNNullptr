@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2082949017244479678",
+    "created_at": "2026-07-30T21:58:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T22:58:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082949017244479678"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/1ggxv/status/2…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/1ggxv/status/2082248297692213293",
+          "start": 14,
+          "url": "https://t.co/meSURRdy3t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082949017244479678",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082248297692213293",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "外网咋这么多人爱盗小葵的图 https://t.co/meSURRdy3t"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1908,
+        "media_key": "3_2082248285377687552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOWhyIgacAAE7Fw.jpg",
+        "width": 1436
+      },
+      {
+        "height": 1912,
+        "media_key": "3_2082248292143140864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOWhyhtbEAA0uQz.jpg",
+        "width": 1436
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2082949017244479678",
+        "created_at": "2026-07-30T21:58:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T22:58:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082949017244479678"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/1ggxv/status/2…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/1ggxv/status/2082248297692213293",
+              "start": 14,
+              "url": "https://t.co/meSURRdy3t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082949017244479678",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082248297692213293",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "外网咋这么多人爱盗小葵的图 https://t.co/meSURRdy3t"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082248285377687552",
+            "3_2082248292143140864"
+          ]
+        },
+        "author_id": "2063565746677190656",
+        "conversation_id": "2082248297692213293",
+        "created_at": "2026-07-28T23:34:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T00:34:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082248297692213293"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7CFHvfJC2r",
+              "end": 33,
+              "expanded_url": "https://x.com/1ggxv/status/2082248297692213293/photo/1",
+              "media_key": "3_2082248285377687552",
+              "start": 10,
+              "url": "https://t.co/7CFHvfJC2r"
+            },
+            {
+              "display_url": "pic.x.com/7CFHvfJC2r",
+              "end": 33,
+              "expanded_url": "https://x.com/1ggxv/status/2082248297692213293/photo/1",
+              "media_key": "3_2082248292143140864",
+              "start": 10,
+              "url": "https://t.co/7CFHvfJC2r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082248297692213293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 61,
+          "impression_count": 21418,
+          "like_count": 1048,
+          "quote_count": 3,
+          "reply_count": 88,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "总之是一些怼脸拍… https://t.co/7CFHvfJC2r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "捉摸不透的用户：南方的狼",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1307,
+          "following_count": 185,
+          "like_count": 7450,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 1167
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-07T10:17:05.000Z",
+        "description": "喜欢交友哈",
+        "id": "2063565746677190656",
+        "location": "Los Angeles, CA",
+        "name": "しおなぎ",
+        "pinned_tweet_id": "2081556507414737363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077818262096953344/mRtsx4HK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1263,
+          "following_count": 1102,
+          "like_count": 34,
+          "listed_count": 4,
+          "media_count": 17,
+          "tweet_count": 57
+        },
+        "url": "",
+        "username": "1ggxv",
+        "verified": false
+      }
+    ]
+  }
+}

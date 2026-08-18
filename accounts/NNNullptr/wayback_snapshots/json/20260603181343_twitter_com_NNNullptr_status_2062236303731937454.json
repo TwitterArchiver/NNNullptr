@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2062236303731937454",
+    "created_at": "2026-06-03T18:13:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T19:13:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062236303731937454"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2062236303731937454",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "孩子们我真不敢吃雷生了，我昨天吃了一片雷生，然后在入睡的前一个小时被强行拉进清醒梦和睡眠瘫痪，梦里场景不断切换根本无法控制，并且我不知道为什么一直非常恐慌，我整个介于清醒和睡梦之间，我可以感受到自己在努力地眨眼试图醒来，但是我脑子还在不断切换场景并且根本动不了，真的太难受了😱😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2062236303731937454",
+        "created_at": "2026-06-03T18:13:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T19:13:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062236303731937454"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062236303731937454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "孩子们我真不敢吃雷生了，我昨天吃了一片雷生，然后在入睡的前一个小时被强行拉进清醒梦和睡眠瘫痪，梦里场景不断切换根本无法控制，并且我不知道为什么一直非常恐慌，我整个介于清醒和睡梦之间，我可以感受到自己在努力地眨眼试图醒来，但是我脑子还在不断切换场景并且根本动不了，真的太难受了😱😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "Math Student & Tech Enthusiast",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1153,
+          "following_count": 172,
+          "like_count": 6439,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 878
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      }
+    ]
+  }
+}

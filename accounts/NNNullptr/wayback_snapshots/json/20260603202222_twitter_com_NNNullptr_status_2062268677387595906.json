@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2062268677387595906",
+    "created_at": "2026-06-03T20:22:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T21:22:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062268677387595906"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YuhDunKnoEH/st…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/YuhDunKnoEH/status/2062209564506800481",
+          "start": 6,
+          "url": "https://t.co/gjiwf0pE9n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062268677387595906",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062209564506800481",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我非常认同 https://t.co/gjiwf0pE9n"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2062268677387595906",
+        "created_at": "2026-06-03T20:22:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T21:22:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062268677387595906"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YuhDunKnoEH/st…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/YuhDunKnoEH/status/2062209564506800481",
+              "start": 6,
+              "url": "https://t.co/gjiwf0pE9n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062268677387595906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062209564506800481",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我非常认同 https://t.co/gjiwf0pE9n"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1362697010239963137",
+        "conversation_id": "2062209564506800481",
+        "created_at": "2026-06-03T16:27:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T17:27:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062209564506800481"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/faeslily/statu…",
+              "end": 300,
+              "expanded_url": "https://twitter.com/faeslily/status/2061120464894743037",
+              "start": 277,
+              "url": "https://t.co/imz12QuJTH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062209564506800481",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 979,
+          "impression_count": 82859,
+          "like_count": 4490,
+          "quote_count": 28,
+          "reply_count": 27,
+          "retweet_count": 370
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061120464894743037",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Once you no longer romanticize the intellectualization of your dysfunctions, you can quickly get over this type of stuff, but you'll have to relinquish that part of your ego that says your self-analysis actually makes you smart or interesting. A tall order for a lot of y'all. https://t.co/imz12QuJTH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "Math Student & Tech Enthusiast",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1153,
+          "following_count": 171,
+          "like_count": 6445,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 882
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-19T09:34:32.000Z",
+        "description": "🇯🇲",
+        "id": "1362697010239963137",
+        "name": "Yuhhhh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823758685329358848/2qsJn09l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 650,
+          "following_count": 689,
+          "like_count": 67858,
+          "listed_count": 3,
+          "media_count": 1418,
+          "tweet_count": 15963
+        },
+        "username": "YuhDunKnoEH",
+        "verified": false
+      }
+    ]
+  }
+}

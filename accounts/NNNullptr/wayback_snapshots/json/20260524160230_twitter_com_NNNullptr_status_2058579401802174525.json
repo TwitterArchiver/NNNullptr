@@ -1,0 +1,389 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040692468",
+          "name": "GitHub"
+        }
+      }
+    ],
+    "conversation_id": "2058433616187920634",
+    "created_at": "2026-05-24T16:02:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T17:02:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058579401802174525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1699797396589588480",
+          "start": 0,
+          "username": "MaxForAI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058579401802174525",
+    "in_reply_to_user_id": "1699797396589588480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058433616187920634",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MaxForAI 之前不是还有人搞了什么agent自动在github里找项目提交pr的吗，更是造粪机"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2058433616187920634",
+        "created_at": "2026-05-24T16:02:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T17:02:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058579401802174525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1699797396589588480",
+              "start": 0,
+              "username": "MaxForAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058579401802174525",
+        "in_reply_to_user_id": "1699797396589588480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058433616187920634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MaxForAI 之前不是还有人搞了什么agent自动在github里找项目提交pr的吗，更是造粪机"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699797396589588480",
+        "conversation_id": "2058433616187920634",
+        "created_at": "2026-05-24T06:23:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T07:23:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058433616187920634"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/vllm_project/s…",
+              "end": 176,
+              "expanded_url": "https://twitter.com/vllm_project/status/2058358072020779391",
+              "start": 153,
+              "url": "https://t.co/jZTLVJhM6L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058433616187920634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "真离谱啊….\n\n现在居然已经有辅导班开始教学生刷开源项目PR，给简历「镀金」了。\n\n这次差点中招的是vLLM。\n\nvLLM社区发帖表示，有学员在辅导机构指导下提交了一个PR，但这个PR针对的是一个并不存在的问题。\n\n更离谱的是，他还通过大量@维护者来博取关注。\n\n这套打法其实很熟悉：\n\n培训机构要案例，\n学员要简历，\n维护者被迫付出时间，\n开源社区承担垃圾PR带来的筛选成本。\n\n最恶心的地方在于，它不是单纯「学生水平不够」。\n\n水平不够可以学，可以问，可以从小issue做起。\n\n但把开源项目当成简历工厂，把维护者的善意当成免费背书，这tm过分了…\n\n真正做过开源的人都知道，一个PR不是提交了代码就算贡献。\n\n维护者要看问题是否真实存在，要判断方案是否合理，要跑测试，要讨论兼容性，要考虑后续维护。\n\n这些时间本来应该花在真实bug、真实feature、真实用户问题上。\n\n现在被拿来给培训班产出「学员成功参与顶级开源项目」的宣传素材。\n\n这件事如果继续扩散，以后大项目只能越来越防御性：\n\n新人PR更难被信任，\n维护者更不愿意回应，\n真正想参与开源的人也会被这类垃圾流量拖累。\n\n开源贡献本来是工程能力和社区信用的积累。\n\n现在有人想把它做成简历流水线….."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 21082,
+          "like_count": 94,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058358072020779391",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真离谱啊….\n\n现在居然已经有辅导班开始教学生刷开源项目PR，给简历「镀金」了。\n\n这次差点中招的是vLLM。\n\nvLLM社区发帖表示，有学员在辅导机构指导下提交了一个PR，但这个PR针对的是一个并不存在的问题。\n\n更离谱的是，他还通过大量@维护者来博取关注。\n\n这套打法其实很熟悉：\n\n培训机构要案例， https://t.co/jZTLVJhM6L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "不要紧张",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1139,
+          "following_count": 163,
+          "like_count": 5931,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 763
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-07T14:51:17.000Z",
+        "description": "没啥好看的，也就发点AI相关的内容👌\n\n海本辍学创业\n📖Prev Marswave CMO（0-300万ARR）、美元基金SR、某知名模型团队人才负责人、AI专业媒体运营、多个百万用户产品经理\n\n小红书Max for AI（4万粉丝，单篇千万观看）\n公众号01Founder（写点长文）\n\n更多请访问网站⬇️（DM我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "maxforai.com",
+                "end": 23,
+                "expanded_url": "http://maxforai.com",
+                "start": 0,
+                "url": "https://t.co/Sl0Wv6feey"
+              }
+            ]
+          }
+        },
+        "id": "1699797396589588480",
+        "location": "Singapore",
+        "name": "Max For AI",
+        "pinned_tweet_id": "2005923836987154936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885611457376903171/zWWnahYp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9787,
+          "following_count": 1733,
+          "like_count": 9407,
+          "listed_count": 98,
+          "media_count": 502,
+          "tweet_count": 3872
+        },
+        "url": "https://t.co/Sl0Wv6feey",
+        "username": "MaxForAI",
+        "verified": true
+      }
+    ]
+  }
+}

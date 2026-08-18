@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2062215742322536490",
+    "created_at": "2026-06-03T16:52:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T17:52:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062215742322536490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1496256880015990789",
+          "start": 3,
+          "username": "Tekeee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062215742322536490",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 124
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062051657148665977",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Tekeee: college is basically being unemployed but your parents respect it"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2062215742322536490",
+        "created_at": "2026-06-03T16:52:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T17:52:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062215742322536490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1496256880015990789",
+              "start": 3,
+              "username": "Tekeee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062215742322536490",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 124
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062051657148665977",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Tekeee: college is basically being unemployed but your parents respect it"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1496256880015990789",
+        "conversation_id": "2062051657148665977",
+        "created_at": "2026-06-03T06:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T07:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062051657148665977"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062051657148665977",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 42781,
+          "like_count": 2950,
+          "quote_count": 6,
+          "reply_count": 27,
+          "retweet_count": 124
+        },
+        "reply_settings": "everyone",
+        "text": "college is basically being unemployed but your parents respect it"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "Math Student & Tech Enthusiast",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1153,
+          "following_count": 172,
+          "like_count": 6437,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 877
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-22T22:53:43.000Z",
+        "description": "internet kid • @spinversee",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "spinversee"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Tekeebunker",
+                "end": 23,
+                "expanded_url": "https://t.me/Tekeebunker",
+                "start": 0,
+                "url": "https://t.co/p9gMGXHepA"
+              }
+            ]
+          }
+        },
+        "id": "1496256880015990789",
+        "name": "Tekee",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005783499534475264/w6-xCBuJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103644,
+          "following_count": 31083,
+          "like_count": 293617,
+          "listed_count": 352,
+          "media_count": 3057,
+          "tweet_count": 26628
+        },
+        "url": "https://t.co/p9gMGXHepA",
+        "username": "Tekeee",
+        "verified": true
+      }
+    ]
+  }
+}

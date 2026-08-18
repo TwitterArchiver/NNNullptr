@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2055903125144494101",
+    "created_at": "2026-05-18T08:53:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T09:53:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056297137244393473"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1120712903886344200",
+          "start": 0,
+          "username": "Philo2022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056297137244393473",
+    "in_reply_to_user_id": "1120712903886344200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055903125144494101",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Philo2022 整段话和最后一句的关联是？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2055903125144494101",
+        "created_at": "2026-05-18T08:53:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T09:53:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056297137244393473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1120712903886344200",
+              "start": 0,
+              "username": "Philo2022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056297137244393473",
+        "in_reply_to_user_id": "1120712903886344200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055903125144494101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Philo2022 整段话和最后一句的关联是？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1120712903886344200",
+        "conversation_id": "2055903125144494101",
+        "created_at": "2026-05-17T06:47:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T07:47:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055903125144494101"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055903125144494101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1791,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 32,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么是年轻人？\n\n年轻人就是要没心没肺地唱歌跳舞，用重金属震到耳朵发聋，没完没了地大喊大叫，像是没有明天一样喝酒大笑。日本的中学生大学生，当属年轻人中的年轻人。\n\n能不能让我谈个女大🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "wish you have a good day",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1137,
+          "following_count": 156,
+          "like_count": 5756,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 706
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-23T15:35:52.000Z",
+        "description": "Creator, Artist, Creator of @dopamindai & https://t.co/CiW3w1GiB2 & Art Gallery https://t.co/FbODek76Fh | Blog: https://t.co/b6PsjnsGoA | My Artwork: @PhiloArt2020 | En: @Philo1024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 28,
+                "username": "dopamindai"
+              },
+              {
+                "end": 163,
+                "start": 150,
+                "username": "PhiloArt2020"
+              },
+              {
+                "end": 180,
+                "start": 170,
+                "username": "Philo1024"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "GoShipFast.com",
+                "end": 65,
+                "expanded_url": "http://GoShipFast.com",
+                "start": 42,
+                "url": "https://t.co/CiW3w1GiB2"
+              },
+              {
+                "display_url": "philoart.io",
+                "end": 103,
+                "expanded_url": "http://philoart.io",
+                "start": 80,
+                "url": "https://t.co/FbODek76Fh"
+              },
+              {
+                "display_url": "philoli.com",
+                "end": 135,
+                "expanded_url": "http://philoli.com",
+                "start": 112,
+                "url": "https://t.co/b6PsjnsGoA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "philoli.com",
+                "end": 23,
+                "expanded_url": "https://philoli.com/",
+                "start": 0,
+                "url": "https://t.co/E4ytxr9zV2"
+              }
+            ]
+          }
+        },
+        "id": "1120712903886344200",
+        "name": "Philo",
+        "pinned_tweet_id": "1954486195519623328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1432329882692767747/oX4paPF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28719,
+          "following_count": 559,
+          "like_count": 9758,
+          "listed_count": 182,
+          "media_count": 1618,
+          "tweet_count": 15122
+        },
+        "url": "https://t.co/E4ytxr9zV2",
+        "username": "Philo2022",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2059073941176828127",
+    "created_at": "2026-05-26T06:21:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T07:21:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059157842138145198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1144057372769341440",
+          "start": 0,
+          "username": "AkinoNya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059157842138145198",
+    "in_reply_to_user_id": "1144057372769341440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059132607217201660",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AkinoNya 这算很典型的空心人了🙀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2059073941176828127",
+        "created_at": "2026-05-26T06:21:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T07:21:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059157842138145198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1144057372769341440",
+              "start": 0,
+              "username": "AkinoNya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059157842138145198",
+        "in_reply_to_user_id": "1144057372769341440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059132607217201660",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AkinoNya 这算很典型的空心人了🙀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1144057372769341440",
+        "conversation_id": "2059073941176828127",
+        "created_at": "2026-05-26T04:40:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T05:40:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059132607217201660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1858727254345281536",
+              "start": 0,
+              "username": "NNNullptr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059132607217201660",
+        "in_reply_to_user_id": "1858727254345281536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 146,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059073941176828127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NNNullptr 原来这叫空心人，我还以为我这种天天没有目标混日子的才算。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "不要紧张",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1140,
+          "following_count": 166,
+          "like_count": 5995,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 791
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-27T01:38:28.000Z",
+        "description": "计算机科学你把人害惨了。劝人学 EE/ME，劝人买沪深 300 第 114514 人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "akinokae.de",
+                "end": 23,
+                "expanded_url": "https://akinokae.de",
+                "start": 0,
+                "url": "https://t.co/uNiGTwQcTQ"
+              }
+            ]
+          }
+        },
+        "id": "1144057372769341440",
+        "name": "秋野かえで",
+        "pinned_tweet_id": "1477094692940484609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046191891138650112/WWvDysig_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 7,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 66
+        },
+        "url": "https://t.co/uNiGTwQcTQ",
+        "username": "AkinoNya",
+        "verified": false
+      }
+    ]
+  }
+}

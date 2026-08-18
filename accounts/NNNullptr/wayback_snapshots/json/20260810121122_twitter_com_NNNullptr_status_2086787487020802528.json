@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2086787487020802528",
+    "created_at": "2026-08-10T12:11:22.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T13:11:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086787487020802528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "768212526693806080",
+          "start": 3,
+          "username": "v444mpiredoll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086787487020802528",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3281
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086488083705299169",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @v444mpiredoll: no eres ni gótica ni baddie, eres solo una pick me desesperada que vive a base de sexualizar una subcultura que NO quier…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2086787487020802528",
+        "created_at": "2026-08-10T12:11:22.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T13:11:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086787487020802528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "768212526693806080",
+              "start": 3,
+              "username": "v444mpiredoll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086787487020802528",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3281
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086488083705299169",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @v444mpiredoll: no eres ni gótica ni baddie, eres solo una pick me desesperada que vive a base de sexualizar una subcultura que NO quier…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "768212526693806080",
+        "conversation_id": "2086488083705299169",
+        "created_at": "2026-08-09T16:21:38.000Z",
+        "display_text_range": [
+          0,
+          137
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T17:21:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086488083705299169"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pinkchyu/statu…",
+              "end": 161,
+              "expanded_url": "https://twitter.com/pinkchyu/status/2086365145769316489",
+              "start": 138,
+              "url": "https://t.co/W2he0ywlH2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086488083705299169",
+        "lang": "es",
+        "note_request_suggestions": [
+          {
+            "suggestion": "She is goth",
+            "suggestion_id": "2086763461267087746"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2474,
+          "impression_count": 1628176,
+          "like_count": 45356,
+          "quote_count": 149,
+          "reply_count": 17,
+          "retweet_count": 3281
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086365145769316489",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "no eres ni gótica ni baddie, eres solo una pick me desesperada que vive a base de sexualizar una subcultura que NO quiere ser sexualizada https://t.co/W2he0ywlH2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "捉摸不透的用户：南方的狼",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086787487020802528",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1858727254345281536/1774548658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1303,
+          "following_count": 184,
+          "like_count": 7490,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 1205
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-08-23T22:25:13.000Z",
+        "description": "Tell me if you need me and call me if you feelin' alone @hel4do_ ♡ CASADA",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 56,
+                "username": "hel4do_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/v444mpiredoll?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/v444mpiredoll?igsh=MWEwNnZjMHpncWJpMA==",
+                "start": 0,
+                "url": "https://t.co/rpp8pKMBUH"
+              }
+            ]
+          }
+        },
+        "id": "768212526693806080",
+        "is_identity_verified": false,
+        "location": "ado's dick",
+        "most_recent_tweet_id": "2086786786320109950",
+        "name": "꩜",
+        "pinned_tweet_id": "2080043813364494527",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/768212526693806080/1785547117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086708340734705664/yKW_j0_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1402,
+          "following_count": 526,
+          "like_count": 11542,
+          "listed_count": 1,
+          "media_count": 664,
+          "tweet_count": 24944
+        },
+        "url": "https://t.co/rpp8pKMBUH",
+        "username": "v444mpiredoll",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

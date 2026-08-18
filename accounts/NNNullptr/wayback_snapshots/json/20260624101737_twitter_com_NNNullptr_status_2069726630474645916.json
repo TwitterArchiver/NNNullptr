@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2069674533284651193",
+    "created_at": "2026-06-24T10:17:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T11:17:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069726630474645916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1346974977434771460",
+          "start": 0,
+          "username": "N0rthern_Land"
+        },
+        {
+          "end": 29,
+          "id": "1285577648861659137",
+          "start": 15,
+          "username": "vanillaCitron"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069726630474645916",
+    "in_reply_to_user_id": "1346974977434771460",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069674533284651193",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N0rthern_Land @vanillaCitron 好好玩北"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069674507950817280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLj1_9cXAAAJ78v.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2069674507959226368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLj1_9eXUAATXBM.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2069674533284651193",
+        "created_at": "2026-06-24T10:17:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T11:17:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069726630474645916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1346974977434771460",
+              "start": 0,
+              "username": "N0rthern_Land"
+            },
+            {
+              "end": 29,
+              "id": "1285577648861659137",
+              "start": 15,
+              "username": "vanillaCitron"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069726630474645916",
+        "in_reply_to_user_id": "1346974977434771460",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069674533284651193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N0rthern_Land @vanillaCitron 好好玩北"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069674507950817280",
+            "3_2069674507959226368"
+          ]
+        },
+        "author_id": "1346974977434771460",
+        "conversation_id": "2069674533284651193",
+        "created_at": "2026-06-24T06:50:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T07:50:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069674533284651193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1285577648861659137",
+              "start": 1,
+              "username": "vanillaCitron"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GCMQd0FneF",
+              "end": 42,
+              "expanded_url": "https://x.com/N0rthern_Land/status/2069674533284651193/photo/1",
+              "media_key": "3_2069674507950817280",
+              "start": 19,
+              "url": "https://t.co/GCMQd0FneF"
+            },
+            {
+              "display_url": "pic.x.com/GCMQd0FneF",
+              "end": 42,
+              "expanded_url": "https://x.com/N0rthern_Land/status/2069674533284651193/photo/1",
+              "media_key": "3_2069674507959226368",
+              "start": 19,
+              "url": "https://t.co/GCMQd0FneF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069674533284651193",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 6809,
+          "like_count": 236,
+          "quote_count": 1,
+          "reply_count": 26,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "和@vanillaCitron 🫳🫳 https://t.co/GCMQd0FneF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "捉摸不透",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1297,
+          "following_count": 178,
+          "like_count": 7089,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 1043
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-07T00:20:49.000Z",
+        "description": "bi/日常推/从那不勒斯到今天走了有多远/🏳️‍🌈/看黄男别关注我/目前只有×&小红书账号，其他平台出现均为盗窃。女朋友：@ayashikinoco\n私信和误ban解除请发在里账：@Private_plot",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 61,
+                "username": "ayashikinoco"
+              },
+              {
+                "end": 103,
+                "start": 90,
+                "username": "Private_plot"
+              }
+            ]
+          }
+        },
+        "id": "1346974977434771460",
+        "name": "南长尾山雀",
+        "pinned_tweet_id": "1777993830031302950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056942176878444544/dwWBMQ9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63663,
+          "following_count": 908,
+          "like_count": 117294,
+          "listed_count": 152,
+          "media_count": 3731,
+          "tweet_count": 37454
+        },
+        "url": "",
+        "username": "N0rthern_Land",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-21T14:10:31.000Z",
+        "description": "🏳️‍🌈 / 🌠 ex. Tencent design designer /  SSC 26 Winner / iOS developer, made @PieceletNeoDB",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "PieceletNeoDB"
+              }
+            ]
+          }
+        },
+        "id": "1285577648861659137",
+        "location": "出逃要趕早 | 🐘 @lcandy@m.cmx.im",
+        "name": "citron🍢🍋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1686744469415104512/OFA-6nhA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3469,
+          "following_count": 1128,
+          "like_count": 19625,
+          "listed_count": 19,
+          "media_count": 944,
+          "tweet_count": 7045
+        },
+        "url": "",
+        "username": "vanillaCitron",
+        "verified": false
+      }
+    ]
+  }
+}

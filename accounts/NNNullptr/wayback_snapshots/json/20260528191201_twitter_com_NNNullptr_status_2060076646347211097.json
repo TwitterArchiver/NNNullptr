@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2060076646347211097",
+    "created_at": "2026-05-28T19:12:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T20:12:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060076646347211097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1958324469505871872",
+          "start": 3,
+          "username": "neobty"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060076646347211097",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3073
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059890122645192905",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @neobty: 개 썌끼들아 내가 이력서에 소중한 개인정보 적어서 갖다 바쳤으면 읽어보고 기면 기다 파이면 파이다 대답을 확실하게 해 씨 빨 어제오늘 한 회사에서 내 이력서 열람했단 알람만 6개왔어 내 이력서로 뭐해"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2060076646347211097",
+        "created_at": "2026-05-28T19:12:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T20:12:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060076646347211097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1958324469505871872",
+              "start": 3,
+              "username": "neobty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060076646347211097",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3073
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059890122645192905",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @neobty: 개 썌끼들아 내가 이력서에 소중한 개인정보 적어서 갖다 바쳤으면 읽어보고 기면 기다 파이면 파이다 대답을 확실하게 해 씨 빨 어제오늘 한 회사에서 내 이력서 열람했단 알람만 6개왔어 내 이력서로 뭐해"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1958324469505871872",
+        "conversation_id": "2059890122645192905",
+        "created_at": "2026-05-28T06:50:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T07:50:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059890122645192905"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059890122645192905",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 313,
+          "impression_count": 300835,
+          "like_count": 4607,
+          "quote_count": 160,
+          "reply_count": 57,
+          "retweet_count": 3073
+        },
+        "reply_settings": "everyone",
+        "text": "개 썌끼들아 내가 이력서에 소중한 개인정보 적어서 갖다 바쳤으면 읽어보고 기면 기다 파이면 파이다 대답을 확실하게 해 씨 빨 어제오늘 한 회사에서 내 이력서 열람했단 알람만 6개왔어 내 이력서로 뭐해"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "Math Student & Tech Enthusiast",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1146,
+          "following_count": 169,
+          "like_count": 6165,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 827
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-21T00:25:20.000Z",
+        "description": "좀 더 뜨거운 오타쿠",
+        "id": "1958324469505871872",
+        "name": "바또용",
+        "pinned_tweet_id": "2012142947098341509",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045837970159394816/-m_LmutW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2293,
+          "following_count": 247,
+          "like_count": 779,
+          "listed_count": 8,
+          "media_count": 1149,
+          "tweet_count": 9150
+        },
+        "username": "neobty",
+        "verified": false
+      }
+    ]
+  }
+}

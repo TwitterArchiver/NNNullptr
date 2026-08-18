@@ -1,0 +1,578 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Non-fungible tokens",
+          "id": "1369311988040355840",
+          "name": "NFTs"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Investing",
+          "id": "847894353708068864",
+          "name": "Investing"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Non-fungible tokens",
+          "id": "1369311988040355840",
+          "name": "NFTs"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491481998862348291",
+          "name": "Digital asset industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "1492162686204854274",
+          "name": "Digital assets & cryptocurrency"
+        }
+      }
+    ],
+    "conversation_id": "2056931776279576832",
+    "created_at": "2026-05-20T16:34:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T17:34:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057137793189687461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1416680666184306689",
+          "start": 0,
+          "username": "PANews"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057137793189687461",
+    "in_reply_to_user_id": "1416680666184306689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056931776279576832",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PANews NFT又复活了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1874,
+        "media_key": "3_2056931672214667264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIuwdTGbAAAzX-7.jpg",
+        "width": 1874
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Non-fungible tokens",
+              "id": "1369311988040355840",
+              "name": "NFTs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Investing",
+              "id": "847894353708068864",
+              "name": "Investing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Non-fungible tokens",
+              "id": "1369311988040355840",
+              "name": "NFTs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491481998862348291",
+              "name": "Digital asset industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "2056931776279576832",
+        "created_at": "2026-05-20T16:34:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T17:34:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057137793189687461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1416680666184306689",
+              "start": 0,
+              "username": "PANews"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057137793189687461",
+        "in_reply_to_user_id": "1416680666184306689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056931776279576832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PANews NFT又复活了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056931672214667264"
+          ]
+        },
+        "author_id": "1416680666184306689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Non-fungible tokens",
+              "id": "1369311988040355840",
+              "name": "NFTs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Investing",
+              "id": "847894353708068864",
+              "name": "Investing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Non-fungible tokens",
+              "id": "1369311988040355840",
+              "name": "NFTs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491481998862348291",
+              "name": "Digital asset industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Painting",
+              "id": "847869659957182464",
+              "name": "Painting"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Painting",
+              "id": "847869659957182464",
+              "name": "Painting"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2056931776279576832",
+        "created_at": "2026-05-20T02:55:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T03:55:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056931776279576832"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6HCdDwYkca",
+              "end": 157,
+              "expanded_url": "https://x.com/PANews/status/2056931776279576832/photo/1",
+              "media_key": "3_2056931672214667264",
+              "start": 134,
+              "url": "https://t.co/6HCdDwYkca"
+            },
+            {
+              "display_url": "x.com/SHL0MS/status/…",
+              "end": 181,
+              "expanded_url": "https://twitter.com/SHL0MS/status/2054280631807316329",
+              "start": 158,
+              "url": "https://t.co/QMZidCf1IG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056931776279576832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 219,
+                "id": "875284969186353152",
+                "start": 210,
+                "username": "Jediwolf"
+              }
+            ]
+          },
+          "text": "😲莫奈名画被误判为AI作品，NFT卖出4.25万美元\n\n匿名艺术家 SHL0MS 将莫奈1914年《睡莲》高清扫描版发上X，裁掉签名并声称是AI生成，吸引超600人批判。\n\n\"无灵魂\"\"缺乏光学混合\"\"边缘太软\"，发言者中不乏真实画家和艺评人，帖子浏览量达684万。\n\n两天后他揭晓真相，将所有批判截图整理后铸成NFT，命名《Inferior Image》，最终经28次出价以约4.25万美元成交，买家为AI艺术收藏家 @Jediwolf。\n\nSHL0MS 事后表示：\"'AI'标签给了人们社会许可，让他们跳过眼睛直接开口。\""
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 89,
+          "impression_count": 77912,
+          "like_count": 205,
+          "quote_count": 16,
+          "reply_count": 16,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054280631807316329",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😲莫奈名画被误判为AI作品，NFT卖出4.25万美元\n\n匿名艺术家 SHL0MS 将莫奈1914年《睡莲》高清扫描版发上X，裁掉签名并声称是AI生成，吸引超600人批判。\n\n\"无灵魂\"\"缺乏光学混合\"\"边缘太软\"，发言者中不乏真实画家和艺评人，帖子浏览量达684万。 https://t.co/6HCdDwYkca https://t.co/QMZidCf1IG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "wish you have a good day",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1136,
+          "following_count": 160,
+          "like_count": 5852,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 736
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-18T08:46:20.000Z",
+        "description": "A leading crypto news outlet in Asia since 2018， 提供有价值的 #Crypto #Blockchain 资讯和研报。 Cofounders @web3stellakung @tongtongbee , CEO @SunnyNgPA Intern @PANewsLab",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 56,
+                "tag": "Crypto"
+              },
+              {
+                "end": 75,
+                "start": 64,
+                "tag": "Blockchain"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 109,
+                "start": 94,
+                "username": "web3stellakung"
+              },
+              {
+                "end": 122,
+                "start": 110,
+                "username": "tongtongbee"
+              },
+              {
+                "end": 139,
+                "start": 129,
+                "username": "SunnyNgPA"
+              },
+              {
+                "end": 157,
+                "start": 147,
+                "username": "PANewsLab"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/PANewsLab",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/PANewsLab",
+                "start": 0,
+                "url": "https://t.co/VHHFHKHgBo"
+              }
+            ]
+          }
+        },
+        "id": "1416680666184306689",
+        "name": "PANews丨APP全面升级",
+        "pinned_tweet_id": "2054510839164711004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1608641504142315521/6ztLV4Q6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97494,
+          "following_count": 1166,
+          "like_count": 3621,
+          "listed_count": 1318,
+          "media_count": 15479,
+          "tweet_count": 65357
+        },
+        "url": "https://t.co/VHHFHKHgBo",
+        "username": "PANews",
+        "verified": true
+      }
+    ]
+  }
+}

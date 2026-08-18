@@ -1,0 +1,543 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2033146887856157015",
+    "created_at": "2026-03-15T11:42:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T12:42:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033146887856157015"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/DrHashClub/sta…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/DrHashClub/status/2033099461036327000",
+          "start": 21,
+          "url": "https://t.co/vluU4B4wiN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033146887856157015",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033099461036327000",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "快进到ai造出新冠2.0然后w3毁灭人类 https://t.co/vluU4B4wiN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 776,
+        "media_key": "3_2033099454568648704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDcFLp6a0AA6qNT.jpg",
+        "width": 1200
+      },
+      {
+        "height": 778,
+        "media_key": "3_2033099456867176448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDcFLyebkAA7GU8.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2033099459358552064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDcFL7wa8AA2npK.jpg",
+        "width": 889
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2033146887856157015",
+        "created_at": "2026-03-15T11:42:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T12:42:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033146887856157015"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/DrHashClub/sta…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/DrHashClub/status/2033099461036327000",
+              "start": 21,
+              "url": "https://t.co/vluU4B4wiN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033146887856157015",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033099461036327000",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "快进到ai造出新冠2.0然后w3毁灭人类 https://t.co/vluU4B4wiN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033099454568648704",
+            "3_2033099456867176448",
+            "3_2033099459358552064"
+          ]
+        },
+        "author_id": "1594117661679550464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2033099461036327000",
+        "created_at": "2026-03-15T08:34:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T09:34:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033099461036327000"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UyGKc1CzKT",
+              "end": 179,
+              "expanded_url": "https://x.com/DrHashClub/status/2033099461036327000/photo/1",
+              "media_key": "3_2033099454568648704",
+              "start": 156,
+              "url": "https://t.co/UyGKc1CzKT"
+            },
+            {
+              "display_url": "pic.x.com/UyGKc1CzKT",
+              "end": 179,
+              "expanded_url": "https://x.com/DrHashClub/status/2033099461036327000/photo/1",
+              "media_key": "3_2033099456867176448",
+              "start": 156,
+              "url": "https://t.co/UyGKc1CzKT"
+            },
+            {
+              "display_url": "pic.x.com/UyGKc1CzKT",
+              "end": 179,
+              "expanded_url": "https://x.com/DrHashClub/status/2033099461036327000/photo/1",
+              "media_key": "3_2033099459358552064",
+              "start": 156,
+              "url": "https://t.co/UyGKc1CzKT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033099461036327000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这事太硬核了。\n\n澳洲一个程序员，领养了只癌症晚期的流浪狗Rosie，兽医说活不了几个月。\n\n这哥们没认命：\n· 花3000刀测序肿瘤DNA\n· 把基因数据喂给ChatGPT和AlphaFold\n· 零生物学背景，硬是找到突变蛋白\n· 自己设计了mRNA疫苗方案\n· 搞定100页伦理审批，开车10小时带狗打针\n\n结果：肿瘤缩小近一半，狗活蹦乱跳。\n\nAI时代，普通人真的能干出以前只有实验室才能做的事。问题来了——既然能给狗做，为什么不能给人做？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 94,
+          "impression_count": 39283,
+          "like_count": 210,
+          "quote_count": 3,
+          "reply_count": 25,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "这事太硬核了。\n\n澳洲一个程序员，领养了只癌症晚期的流浪狗Rosie，兽医说活不了几个月。\n\n这哥们没认命：\n· 花3000刀测序肿瘤DNA\n· 把基因数据喂给ChatGPT和AlphaFold\n· 零生物学背景，硬是找到突变蛋白\n· 自己设计了mRNA疫苗方案\n· 搞定100页伦理审批，开车10小时带狗打针 https://t.co/UyGKc1CzKT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "wish you have a good day",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "http://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/eTavjpxMtr"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2031630035707437373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990335184202588161/WaT_RP5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 878,
+          "following_count": 107,
+          "like_count": 4450,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 390
+        },
+        "url": "https://t.co/eTavjpxMtr",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-19T23:57:46.000Z",
+        "description": "很会赚钱的交易社区 | Trading • Crypto • Finance | Powered by @CryptoApprenti1 @0xpeas 🚘 Opinions & Analysis, Not Financial Advice.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 52,
+                "username": "CryptoApprenti1"
+              },
+              {
+                "end": 76,
+                "start": 69,
+                "username": "0xpeas"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "drhash.io",
+                "end": 23,
+                "expanded_url": "http://drhash.io/",
+                "start": 0,
+                "url": "https://t.co/wwKi8luV8q"
+              }
+            ]
+          }
+        },
+        "id": "1594117661679550464",
+        "location": "USA",
+        "name": "Dr.Hash 赛博哈希",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960769782921486337/5j0hNRX1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25553,
+          "following_count": 130,
+          "like_count": 1776,
+          "listed_count": 157,
+          "media_count": 1189,
+          "tweet_count": 4716
+        },
+        "url": "https://t.co/wwKi8luV8q",
+        "username": "DrHashClub",
+        "verified": true
+      }
+    ]
+  }
+}

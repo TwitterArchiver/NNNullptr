@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2057014700672790554",
+    "created_at": "2026-05-20T09:54:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T10:54:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057037363394851239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1476522562889076739",
+          "start": 0,
+          "username": "X1aox1aobai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057037363394851239",
+    "in_reply_to_user_id": "1476522562889076739",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057035793802432926",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@X1aox1aobai 目前体感上和Cluade区别不大"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2057014700672790554",
+        "created_at": "2026-05-20T09:54:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T10:54:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057037363394851239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1476522562889076739",
+              "start": 0,
+              "username": "X1aox1aobai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057037363394851239",
+        "in_reply_to_user_id": "1476522562889076739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057035793802432926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@X1aox1aobai 目前体感上和Cluade区别不大"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476522562889076739",
+        "conversation_id": "2057014700672790554",
+        "created_at": "2026-05-20T09:48:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T10:48:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057035793802432926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1858727254345281536",
+              "start": 0,
+              "username": "NNNullptr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057035793802432926",
+        "in_reply_to_user_id": "1858727254345281536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057014700672790554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NNNullptr 好用吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "wish you have a good day",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1135,
+          "following_count": 159,
+          "like_count": 5822,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 730
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-30T11:56:57.000Z",
+        "description": "欢迎互Fo，欢迎私信w喵。",
+        "id": "1476522562889076739",
+        "name": "Bai Xiao",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1476522695789793286/kIZ0VFLD_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 635,
+          "like_count": 7993,
+          "listed_count": 2,
+          "media_count": 10,
+          "tweet_count": 348
+        },
+        "username": "X1aox1aobai",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2045421548279107584"
+      ]
+    },
+    "author_id": "1858727254345281536",
+    "conversation_id": "2045423105817125192",
+    "created_at": "2026-04-18T08:44:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T09:44:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045423105817125192"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ll2kbPyHP7",
+          "end": 23,
+          "expanded_url": "https://x.com/NNNullptr/status/2045423105817125192/video/1",
+          "media_key": "13_2045421548279107584",
+          "start": 0,
+          "url": "https://t.co/ll2kbPyHP7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045423105817125192",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/ll2kbPyHP7"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 180949,
+        "height": 1516,
+        "media_key": "13_2045421548279107584",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2045421548279107584/img/VFenGP4YOkGXwBML.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045421548279107584/vid/avc1/454x270/BpPvS2ocJ3Z5AGth.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045421548279107584/vid/avc1/606x360/X_zMQr4x3BGfT_BB.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045421548279107584/vid/avc1/1214x720/v7hgcqcMRzVcc4Es.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2045421548279107584/pl/is0fiU4TPgOBSt7z.m3u8?tag=14"
+          }
+        ],
+        "width": 2560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2045421548279107584"
+          ]
+        },
+        "author_id": "1858727254345281536",
+        "conversation_id": "2045423105817125192",
+        "created_at": "2026-04-18T08:44:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T09:44:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045423105817125192"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ll2kbPyHP7",
+              "end": 23,
+              "expanded_url": "https://x.com/NNNullptr/status/2045423105817125192/video/1",
+              "media_key": "13_2045421548279107584",
+              "start": 0,
+              "url": "https://t.co/ll2kbPyHP7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045423105817125192",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ll2kbPyHP7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "wish you have a good day",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1058,
+          "following_count": 134,
+          "like_count": 4901,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 492
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      }
+    ]
+  }
+}

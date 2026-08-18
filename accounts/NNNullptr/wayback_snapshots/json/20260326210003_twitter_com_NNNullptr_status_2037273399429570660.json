@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2037273399429570660",
+    "created_at": "2026-03-26T21:00:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T22:00:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037273399429570660"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mofuwo8964/sta…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/mofuwo8964/status/2037034396419842064",
+          "start": 11,
+          "url": "https://t.co/13NKPWJgZm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037273399429570660",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037034396419842064",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我对我的裙子就这样: https://t.co/13NKPWJgZm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2037273399429570660",
+        "created_at": "2026-03-26T21:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T22:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037273399429570660"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mofuwo8964/sta…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/mofuwo8964/status/2037034396419842064",
+              "start": 11,
+              "url": "https://t.co/13NKPWJgZm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037273399429570660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037034396419842064",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我对我的裙子就这样: https://t.co/13NKPWJgZm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2037034396419842064",
+        "created_at": "2026-03-26T05:10:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T06:10:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037034396419842064"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037034396419842064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 40370,
+          "like_count": 531,
+          "quote_count": 2,
+          "reply_count": 17,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "其实我挺佩服能穿着日牌lolita做爱的，真的，我每天把我的裙子供起来，虽然我无条件支持一切对天使般甜美和宝贝星星闪光售卖机制的抱怨，但是我对我的天使甜美和宝贝闪光们依旧是怀抱着最孝顺的心情，套在防尘袋里拦腰挂着，每天欣赏一遍来抑制我自杀的冲动"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "wish you have a good day",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2031630035707437373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 877,
+          "following_count": 108,
+          "like_count": 4566,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 402
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "マヌルネコ中毒｜喜欢自说自话｜精神障害者 ｜需要互fo可以私信有时候不看小铃铛｜",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2036881385164857397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035506507119529984/x_8oMbZr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2668,
+          "following_count": 848,
+          "like_count": 2823,
+          "listed_count": 4,
+          "media_count": 153,
+          "tweet_count": 2112
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

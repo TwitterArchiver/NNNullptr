@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2070831812314628433",
+    "created_at": "2026-06-27T16:21:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T17:21:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070905418029858942"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1921296124586893312",
+          "start": 0,
+          "username": "meari_1705"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070905418029858942",
+    "in_reply_to_user_id": "1921296124586893312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070831812314628433",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meari_1705 正确的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2070831812314628433",
+        "created_at": "2026-06-27T16:21:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T17:21:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070905418029858942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1921296124586893312",
+              "start": 0,
+              "username": "meari_1705"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070905418029858942",
+        "in_reply_to_user_id": "1921296124586893312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070831812314628433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meari_1705 正确的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1921296124586893312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Behavior around Fashion",
+              "id": "1006277139233103872",
+              "name": "Behavior around fashion"
+            }
+          }
+        ],
+        "conversation_id": "2070831812314628433",
+        "created_at": "2026-06-27T11:29:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T12:29:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070831812314628433"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070831812314628433",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 645,
+          "like_count": 71,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "i love being a girl and i love being able to wear pretty and cute clothes .. when i wear lolita or girly i feel better than ever"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "捉摸不透的用户：南方的狼",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1295,
+          "following_count": 182,
+          "like_count": 7234,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 1068
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-10T20:08:00.000Z",
+        "description": "⋆𐙚₊˚⊹♡\npl/en \n\nthrone : https://t.co/wFOgUuMvEs\n₊˚⊹ ᰔ \nhttps://t.co/uecstaw7uB\n₊˚⊹ ᰔ \nrepost only with credit \n₊˚⊹ ᰔ \npriv acc: @yuyu_1705",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 128,
+                "username": "yuyu_1705"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "throne.com/meari_1705",
+                "end": 47,
+                "expanded_url": "https://throne.com/meari_1705",
+                "start": 24,
+                "url": "https://t.co/wFOgUuMvEs"
+              },
+              {
+                "display_url": "ko-fi.com/meari_1705",
+                "end": 78,
+                "expanded_url": "https://ko-fi.com/meari_1705",
+                "start": 55,
+                "url": "https://t.co/uecstaw7uB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/mearii.ri?utm_…",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/mearii.ri?utm_source=linktree_profile_share&ltsid=c3f495f5-d2a0-4655-8040-4cb933bf",
+                "start": 0,
+                "url": "https://t.co/SFf3J0azB7"
+              }
+            ]
+          }
+        },
+        "id": "1921296124586893312",
+        "name": "meari",
+        "pinned_tweet_id": "1990059179068064135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023452495616299009/Elh5YIVO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6982,
+          "following_count": 772,
+          "like_count": 17328,
+          "listed_count": 12,
+          "media_count": 1276,
+          "tweet_count": 5129
+        },
+        "url": "https://t.co/SFf3J0azB7",
+        "username": "meari_1705",
+        "verified": false
+      }
+    ]
+  }
+}

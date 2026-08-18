@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2033712636878328130",
+    "created_at": "2026-03-17T01:10:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T02:10:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033712636878328130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1596695231717871616",
+          "start": 3,
+          "username": "dontbesilent"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033712636878328130",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033212132041633815",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dontbesilent: 韩炳哲在《倦怠社会》里所批评的功绩社会，乍一看我全都符合\n\n1、全领域效率至上，内部的无限自我优化\n2、即便是人与人的对话，也必须有产出、必须推进、必须逻辑严密，韩炳哲说这是自我剥削…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2033712636878328130",
+        "created_at": "2026-03-17T01:10:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T02:10:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033712636878328130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1596695231717871616",
+              "start": 3,
+              "username": "dontbesilent"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033712636878328130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033212132041633815",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dontbesilent: 韩炳哲在《倦怠社会》里所批评的功绩社会，乍一看我全都符合\n\n1、全领域效率至上，内部的无限自我优化\n2、即便是人与人的对话，也必须有产出、必须推进、必须逻辑严密，韩炳哲说这是自我剥削…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596695231717871616",
+        "conversation_id": "2033212132041633815",
+        "created_at": "2026-03-15T16:02:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T17:02:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033212132041633815"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033212132041633815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "韩炳哲在《倦怠社会》里所批评的功绩社会，乍一看我全都符合\n\n1、全领域效率至上，内部的无限自我优化\n2、即便是人与人的对话，也必须有产出、必须推进、必须逻辑严密，韩炳哲说这是自我剥削\n3、功绩社会只允许“积极”“肯定”“更多”。甚至在休息时也想要“高效休息”，韩炳哲说的“现代人已经失去休息的概念”\n4、因为压力来自自己（不是老板），所以无法逃避\n5、存在（Being）变成了生产（Doing）\n\n的确，我甚至接受不了我用的充电器没有智能功率管理，我在家用 Anker 的 250W 的 6 口充电器，出门用另外一个 Anker 的 160W 的 3 口充电器\n\n就算我买充电宝，我都不只是关心充电宝给手机充电的速度，我还关心充电器给充电宝充电的速度\n\n我的人生已经容不下二流的充电宝了😂\n\n韩炳哲推崇“深刻无聊”，比如刷短视频是假休闲，不做任何事才是真休闲\n\n可我觉得人做什么事情总归应该有些好处吧，不能因为韩炳哲是个知名的哲学家，他就来害我？\n\nAI 跟我说，当我能够实现韩炳哲所说的“深刻无聊”之后，我会发现我的大脑可以实现真正的“峰值放松”，从而开启深度创造力\n\n可是这不又绕回功绩社会了吗？\n\n如果我并不是真的喜欢这种无聊，我只是为了更猛的创造，才让自己去无聊。这岂不是功绩 Pro Max？\n\n韩炳哲的解释是：更有创造力只是一个副产品，应该让无聊这件事情本身成为目的，他最极端的表述是：“人类一切努力的终极目的就是无所事事”\n\n可我还是从韩炳哲的理论里发现了一个裂缝：创造 和 生产，还是不同的\n\n从某一种商业模式的视角出发，创造似乎就是生产；但如果把“效率”这个词放进来的话，就会发现创造不一定是为了效率，反而符合了韩炳哲所说的玩的乐趣、“存在的强度”\n\n可是把自己的行为定性为“创造”而不是“生产”，到底有多少是事实、多少是辩解呢\n\n除非脑机接口、抽血化验，否则似乎无法辩明了\n\n当你进行了一个星期的低效率生产，这到底是因为你在玩、在创造，还是因为你想生产、却太菜了？\n\n结果发现，引入韩炳哲的理论，似乎无助于把事情搞清楚\n\n也许放弃韩炳哲，换成其他人的框架，才有可能越辩越明"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 60,
+          "impression_count": 10387,
+          "like_count": 110,
+          "quote_count": 4,
+          "reply_count": 14,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "韩炳哲在《倦怠社会》里所批评的功绩社会，乍一看我全都符合\n\n1、全领域效率至上，内部的无限自我优化\n2、即便是人与人的对话，也必须有产出、必须推进、必须逻辑严密，韩炳哲说这是自我剥削"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "wish you have a good day",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "http://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/eTavjpxMtr"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2031630035707437373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990335184202588161/WaT_RP5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 879,
+          "following_count": 107,
+          "like_count": 4467,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 401
+        },
+        "url": "https://t.co/eTavjpxMtr",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-27T02:39:52.000Z",
+        "description": "🔍 商业哲学爱好者 📡 维特根斯坦种草主播 🫆 生活合伙人 @XiaoNianTalk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 30,
+                "username": "XiaoNianTalk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xhslink.com/m/91XgUX47uJu",
+                "end": 23,
+                "expanded_url": "https://xhslink.com/m/91XgUX47uJu",
+                "start": 0,
+                "url": "https://t.co/zobutG78v6"
+              }
+            ]
+          }
+        },
+        "id": "1596695231717871616",
+        "name": "dontbesilent",
+        "pinned_tweet_id": "2033105436891820309",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840665561287798784/GJCK0iKf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71877,
+          "following_count": 1206,
+          "like_count": 10289,
+          "listed_count": 699,
+          "media_count": 1590,
+          "tweet_count": 14656
+        },
+        "url": "https://t.co/zobutG78v6",
+        "username": "dontbesilent",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063435337087725568",
+        "3_2063435337570160640"
+      ]
+    },
+    "author_id": "1858727254345281536",
+    "conversation_id": "2063401670781149282",
+    "created_at": "2026-06-07T01:38:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T02:38:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063435348441805111"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xnhmfUeguO",
+          "end": 31,
+          "expanded_url": "https://x.com/NNNullptr/status/2063435348441805111/photo/1",
+          "media_key": "3_2063435337087725568",
+          "start": 8,
+          "url": "https://t.co/xnhmfUeguO"
+        },
+        {
+          "display_url": "pic.x.com/xnhmfUeguO",
+          "end": 31,
+          "expanded_url": "https://x.com/NNNullptr/status/2063435348441805111/photo/1",
+          "media_key": "3_2063435337570160640",
+          "start": 8,
+          "url": "https://t.co/xnhmfUeguO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063435348441805111",
+    "in_reply_to_user_id": "1858727254345281536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063401670781149282",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "差点没把我笑死 https://t.co/xnhmfUeguO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063435337087725568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKLLgawaMAAKkB3.jpg",
+        "width": 920
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2063435337570160640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKLLgcjbkAAbZM5.jpg",
+        "width": 920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063435337087725568",
+            "3_2063435337570160640"
+          ]
+        },
+        "author_id": "1858727254345281536",
+        "conversation_id": "2063401670781149282",
+        "created_at": "2026-06-07T01:38:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T02:38:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063435348441805111"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xnhmfUeguO",
+              "end": 31,
+              "expanded_url": "https://x.com/NNNullptr/status/2063435348441805111/photo/1",
+              "media_key": "3_2063435337087725568",
+              "start": 8,
+              "url": "https://t.co/xnhmfUeguO"
+            },
+            {
+              "display_url": "pic.x.com/xnhmfUeguO",
+              "end": 31,
+              "expanded_url": "https://x.com/NNNullptr/status/2063435348441805111/photo/1",
+              "media_key": "3_2063435337570160640",
+              "start": 8,
+              "url": "https://t.co/xnhmfUeguO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063435348441805111",
+        "in_reply_to_user_id": "1858727254345281536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063401670781149282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "差点没把我笑死 https://t.co/xnhmfUeguO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2063401670781149282",
+        "created_at": "2026-06-06T23:24:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T00:24:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063401670781149282"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063401670781149282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 330,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我今天回去看了高中时候那个给我留下一种不知道何意味的男大学生的主页，其实我内心的崩溃和恐惧还是会有一种溢出来的感觉，我根本都不知道为什么，我仔细审视只觉得很无聊很平庸，🤧我觉得之所以我会那么恐惧，是因为那个时候我把自己觉得很隐私的事情在精神不太正常的情况下告诉他了，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "Math Student & Tech Enthusiast",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1188,
+          "following_count": 172,
+          "like_count": 6592,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 937
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      }
+    ]
+  }
+}

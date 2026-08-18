@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2058762694476677530",
+    "created_at": "2026-05-25T04:10:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T05:10:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058762694476677530"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zhangxiaojubtc…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/zhangxiaojubtc/status/2058719772913885315",
+          "start": 10,
+          "url": "https://t.co/1sJ95VKFQI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058762694476677530",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058719772913885315",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "ai开发就问这些吗 https://t.co/1sJ95VKFQI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2058762694476677530",
+        "created_at": "2026-05-25T04:10:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T05:10:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058762694476677530"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zhangxiaojubtc…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/zhangxiaojubtc/status/2058719772913885315",
+              "start": 10,
+              "url": "https://t.co/1sJ95VKFQI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058762694476677530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058719772913885315",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ai开发就问这些吗 https://t.co/1sJ95VKFQI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1859219751274434560",
+        "conversation_id": "2058719772913885315",
+        "created_at": "2026-05-25T01:20:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T02:20:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058719772913885315"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058719772913885315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 8942,
+          "like_count": 21,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "真的有人只会codex就找到AI开发岗位？\n\n他们是怎样过面试技术题的？\n\n1. openclaw和传统的agent实现有什么大的区别！或是说openclaw有什么新设计？\n\n2. 那长期记忆是怎么检索的？长期记忆除了存在本地的文件系统当中还存在哪里？\n\n3. 那你说说这里压缩上下文的策略，压缩的具体是那部分message？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "不要紧张",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1138,
+          "following_count": 164,
+          "like_count": 5945,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 768
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-20T12:58:33.000Z",
+        "description": "硅基生物 | AI重塑On-chain | Codex实战 · 3D建模 · Agents · DeAI | 干货演示为主 | 非投资建议",
+        "id": "1859219751274434560",
+        "name": "小橘",
+        "pinned_tweet_id": "2058145289450741958",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954031907198709760/Noucgw1C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3055,
+          "following_count": 2910,
+          "like_count": 6702,
+          "listed_count": 10,
+          "media_count": 192,
+          "tweet_count": 2895
+        },
+        "username": "zhangxiaojubtc",
+        "verified": true
+      }
+    ]
+  }
+}

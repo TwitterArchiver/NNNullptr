@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2041204128114954655",
+    "created_at": "2026-04-06T23:59:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T00:59:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041304814609670209"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1598723832230998016",
+          "start": 0,
+          "username": "Kotorixxxxxx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041304814609670209",
+    "in_reply_to_user_id": "1598723832230998016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041204128114954655",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kotorixxxxxx 谈到这种也是完蛋了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2041204116979150849",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFPQVGKbcAEktis.jpg",
+        "width": 499
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2041204128114954655",
+        "created_at": "2026-04-06T23:59:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T00:59:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041304814609670209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1598723832230998016",
+              "start": 0,
+              "username": "Kotorixxxxxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041304814609670209",
+        "in_reply_to_user_id": "1598723832230998016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041204128114954655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kotorixxxxxx 谈到这种也是完蛋了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041204116979150849"
+          ]
+        },
+        "author_id": "1598723832230998016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2041204128114954655",
+        "created_at": "2026-04-06T17:19:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T18:19:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041204128114954655"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P9heYUNW5y",
+              "end": 31,
+              "expanded_url": "https://x.com/Kotorixxxxxx/status/2041204128114954655/photo/1",
+              "media_key": "3_2041204116979150849",
+              "start": 8,
+              "url": "https://t.co/P9heYUNW5y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041204128114954655",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 893,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "诶( ⩌⤚⩌) https://t.co/P9heYUNW5y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "wish you have a good day",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2031630035707437373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1051,
+          "following_count": 118,
+          "like_count": 4755,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 438
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-02T17:00:54.000Z",
+        "description": "希望大家都能开心呢 不是女生 全网同id宝宝们不要被骗了TAT 在成都 是男娘伪娘！划重点",
+        "id": "1598723832230998016",
+        "location": "🚪52/288 全国可✈️",
+        "name": "南小彩🍥",
+        "pinned_tweet_id": "1913532584124162231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787455166813544448/EdRCLjMg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15972,
+          "following_count": 784,
+          "like_count": 6212,
+          "listed_count": 58,
+          "media_count": 554,
+          "tweet_count": 6166
+        },
+        "username": "Kotorixxxxxx",
+        "verified": false
+      }
+    ]
+  }
+}

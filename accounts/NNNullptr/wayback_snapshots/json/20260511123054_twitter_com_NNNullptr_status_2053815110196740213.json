@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2053603722261848064"
+      ],
+      "media_source_tweet_id": [
+        "2053648787629916236"
+      ]
+    },
+    "author_id": "1858727254345281536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2053815110196740213",
+    "created_at": "2026-05-11T12:30:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T13:30:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053815110196740213"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1238520105841168386",
+          "start": 3,
+          "username": "cybercxre"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nRa0Fh9vyp",
+          "end": 38,
+          "expanded_url": "https://x.com/cybercxre/status/2053648787629916236/video/1",
+          "media_key": "13_2053603722261848064",
+          "start": 15,
+          "url": "https://t.co/nRa0Fh9vyp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053815110196740213",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3629
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053648787629916236",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cybercxre: https://t.co/nRa0Fh9vyp"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12500,
+        "height": 690,
+        "media_key": "13_2053603722261848064",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2053603722261848064/img/esW3IDoN_gmEaM_r.jpg",
+        "public_metrics": {
+          "view_count": 152152
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053603722261848064/vid/avc1/280x270/c-1bUKNZfoC93SCL.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053603722261848064/vid/avc1/374x360/7LzP6PqYi66N43vy.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053603722261848064/vid/avc1/720x690/qTRB6U52TGCYdSaG.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2053603722261848064/pl/72V41UMkwjRcyArf.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2053603722261848064"
+          ],
+          "media_source_tweet_id": [
+            "2053648787629916236"
+          ]
+        },
+        "author_id": "1858727254345281536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053815110196740213",
+        "created_at": "2026-05-11T12:30:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T13:30:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053815110196740213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1238520105841168386",
+              "start": 3,
+              "username": "cybercxre"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nRa0Fh9vyp",
+              "end": 38,
+              "expanded_url": "https://x.com/cybercxre/status/2053648787629916236/video/1",
+              "media_key": "13_2053603722261848064",
+              "start": 15,
+              "url": "https://t.co/nRa0Fh9vyp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053815110196740213",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3629
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053648787629916236",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cybercxre: https://t.co/nRa0Fh9vyp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2053603722261848064"
+          ]
+        },
+        "author_id": "1238520105841168386",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053648787629916236",
+        "created_at": "2026-05-11T01:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T02:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053648787629916236"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nRa0Fh9vyp",
+              "end": 23,
+              "expanded_url": "https://x.com/cybercxre/status/2053648787629916236/video/1",
+              "media_key": "13_2053603722261848064",
+              "start": 0,
+              "url": "https://t.co/nRa0Fh9vyp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053648787629916236",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3668,
+          "impression_count": 446953,
+          "like_count": 22491,
+          "quote_count": 57,
+          "reply_count": 34,
+          "retweet_count": 3629
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/nRa0Fh9vyp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "wish you have a good day",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1113,
+          "following_count": 151,
+          "like_count": 5569,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 671
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-13T17:40:00.000Z",
+        "description": "plin plin plon",
+        "id": "1238520105841168386",
+        "name": "cybercore",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052839544215556097/AdMZJt62_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95112,
+          "following_count": 25,
+          "like_count": 2133,
+          "listed_count": 126,
+          "media_count": 1987,
+          "tweet_count": 2122
+        },
+        "username": "cybercxre",
+        "verified": true
+      }
+    ]
+  }
+}

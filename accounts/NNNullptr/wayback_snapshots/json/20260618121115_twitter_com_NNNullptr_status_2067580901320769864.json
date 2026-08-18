@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2067578588422197662",
+    "created_at": "2026-06-18T12:11:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T13:11:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067580901320769864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "113420822",
+          "start": 0,
+          "username": "Remedios6801"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067580901320769864",
+    "in_reply_to_user_id": "113420822",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067578588422197662",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Remedios6801 ✓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2067578588422197662",
+        "created_at": "2026-06-18T12:11:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T13:11:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067580901320769864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "113420822",
+              "start": 0,
+              "username": "Remedios6801"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067580901320769864",
+        "in_reply_to_user_id": "113420822",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067578588422197662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Remedios6801 ✓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "113420822",
+        "conversation_id": "2067578588422197662",
+        "created_at": "2026-06-18T12:02:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T13:02:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067578588422197662"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NNNullptr/stat…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/NNNullptr/status/2067289396412661772",
+              "start": 27,
+              "url": "https://t.co/r0oNtU4VsM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067578588422197662",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067289396412661772",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "身價四千萬大小姐！河蟹你全家！！\n知道這梗的都老了🫠 https://t.co/r0oNtU4VsM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "Math Student & Tech Enthusiast",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1204,
+          "following_count": 173,
+          "like_count": 6931,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1024
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2010-02-11T18:11:40.000Z",
+        "description": "ACG | Music | Reading | Arts\n這帳主要追ACG宅物的, GalGame Music lover. \n偶然也會說點香港\n\nTraditional Chinese & English",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "olivia2fish.blogspot.com",
+                "end": 23,
+                "expanded_url": "https://olivia2fish.blogspot.com/",
+                "start": 0,
+                "url": "https://t.co/JF8WyWTsCA"
+              }
+            ]
+          }
+        },
+        "id": "113420822",
+        "name": "Ophelia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995869892751622146/nAuL5P0v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 872,
+          "like_count": 4938,
+          "listed_count": 2,
+          "media_count": 208,
+          "tweet_count": 2632
+        },
+        "url": "https://t.co/JF8WyWTsCA",
+        "username": "Remedios6801",
+        "verified": false
+      }
+    ]
+  }
+}

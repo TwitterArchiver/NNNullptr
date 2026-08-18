@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Tea",
+          "id": "850450940213592064",
+          "name": "Tea"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1792595821940113408",
+          "name": "Matcha"
+        }
+      }
+    ],
+    "conversation_id": "2057869273746522565",
+    "created_at": "2026-05-22T17:00:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T18:00:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057869273746522565"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/1_4_2_imak/sta…",
+          "end": 64,
+          "expanded_url": "https://twitter.com/1_4_2_imak/status/2057795444781224298",
+          "start": 41,
+          "url": "https://t.co/ZpTCKWZpM2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057869273746522565",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057795444781224298",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我每次看到有人说自己性取向正常我的心里就会咯噔一下🍵，异性恋最爱这么说自己🍵🍵🍵 https://t.co/ZpTCKWZpM2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tea",
+              "id": "850450940213592064",
+              "name": "Tea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1792595821940113408",
+              "name": "Matcha"
+            }
+          }
+        ],
+        "conversation_id": "2057869273746522565",
+        "created_at": "2026-05-22T17:00:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T18:00:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057869273746522565"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/1_4_2_imak/sta…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/1_4_2_imak/status/2057795444781224298",
+              "start": 41,
+              "url": "https://t.co/ZpTCKWZpM2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057869273746522565",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057795444781224298",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我每次看到有人说自己性取向正常我的心里就会咯噔一下🍵，异性恋最爱这么说自己🍵🍵🍵 https://t.co/ZpTCKWZpM2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1346189622334771202",
+        "conversation_id": "2057795444781224298",
+        "created_at": "2026-05-22T12:07:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T13:07:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057795444781224298"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057795444781224298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 817,
+          "like_count": 65,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "我覺得有受過社會科學訓練、擁有社科基本素養的人，應該對「正常」、「正確」這些字眼非常敏感，無論它是否被用在跟你親近的立場上。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "不要紧张",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1138,
+          "following_count": 163,
+          "like_count": 5908,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 749
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-04T20:19:57.000Z",
+        "description": "💧🪵大學店在逃研究生，500年前交換去過五道口，正式宣布「及早離去」才是學術圈唯一出路！料理、攝影、寫作，隨機發瘋/發廚，亂糟八七，還有其他隨機的暴言。一般的fgo player。language：CH、JP、EN🆗。寫是Ж但是讀成k哦。",
+        "id": "1346189622334771202",
+        "location": "台灣",
+        "name": "Ж",
+        "pinned_tweet_id": "1660774960808468480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772272100684050432/miWudCe9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 347,
+          "like_count": 106199,
+          "listed_count": 4,
+          "media_count": 968,
+          "tweet_count": 10611
+        },
+        "username": "1_4_2_imak",
+        "verified": false
+      }
+    ]
+  }
+}

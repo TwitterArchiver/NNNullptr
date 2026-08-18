@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2054106275072626688",
+    "created_at": "2026-05-13T03:20:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T04:20:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054401305666589063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "4688616170",
+          "start": 0,
+          "username": "BTFxxkU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054401305666589063",
+    "in_reply_to_user_id": "4688616170",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054382477439807998",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BTFxxkU 亿万人……学数学"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2054106275072626688",
+        "created_at": "2026-05-13T03:20:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T04:20:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054401305666589063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "4688616170",
+              "start": 0,
+              "username": "BTFxxkU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054401305666589063",
+        "in_reply_to_user_id": "4688616170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054382477439807998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BTFxxkU 亿万人……学数学"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4688616170",
+        "conversation_id": "2054106275072626688",
+        "created_at": "2026-05-13T02:05:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T03:05:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054382477439807998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1858727254345281536",
+              "start": 0,
+              "username": "NNNullptr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054382477439807998",
+        "in_reply_to_user_id": "1858727254345281536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054106275072626688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NNNullptr 数学好啊，数学得学啊。没有这帮数学家搞建设我们这帮理工吹牛的资本都没有。真男人必会韦伯斯特……配时法。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "wish you have a good day",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1117,
+          "following_count": 152,
+          "like_count": 5621,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 680
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-01T10:15:08.000Z",
+        "description": "Extraordinary boilermaker. \n關注我，獲取更多套牢資訊。",
+        "id": "4688616170",
+        "name": "BTFU",
+        "pinned_tweet_id": "2041598311186981030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032222032910225408/dBggVUHy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 703,
+          "following_count": 3353,
+          "like_count": 2976,
+          "listed_count": 1,
+          "media_count": 247,
+          "tweet_count": 1989
+        },
+        "username": "BTFxxkU",
+        "verified": true
+      }
+    ]
+  }
+}

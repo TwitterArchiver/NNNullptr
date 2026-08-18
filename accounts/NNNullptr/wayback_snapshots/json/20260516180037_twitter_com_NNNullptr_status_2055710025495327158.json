@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2055489719606411272",
+    "created_at": "2026-05-16T18:00:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T19:00:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055710025495327158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "356114378",
+          "start": 0,
+          "username": "_yukirock"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055710025495327158",
+    "in_reply_to_user_id": "356114378",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055489719606411272",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_yukirock 像被大厂叙事洗脑了一样，😂他要是自己是什么深耕科研/行业的人，身边这种人不会少，他就是立人设装逼，通过夸大择偶条件给别人一种自己很牛逼的感觉😂😂😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2055489719606411272",
+        "created_at": "2026-05-16T18:00:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T19:00:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055710025495327158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "356114378",
+              "start": 0,
+              "username": "_yukirock"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055710025495327158",
+        "in_reply_to_user_id": "356114378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055489719606411272",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_yukirock 像被大厂叙事洗脑了一样，😂他要是自己是什么深耕科研/行业的人，身边这种人不会少，他就是立人设装逼，通过夸大择偶条件给别人一种自己很牛逼的感觉😂😂😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "356114378",
+        "conversation_id": "2055489719606411272",
+        "created_at": "2026-05-16T03:25:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T04:25:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055489719606411272"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/silsrc/status/…",
+              "end": 157,
+              "expanded_url": "https://twitter.com/silsrc/status/2055198517510173151",
+              "start": 134,
+              "url": "https://t.co/HtxiAptPoS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055489719606411272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1617,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055198517510173151",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Bro 天天复读这个招人条件都快看麻了，要是打造 incel 网红人设倒罢；人又不是工厂出来的标准商品，企业招人尚且做不到按图索骥，找对象标准卡这么细碎就更不现实，把自己想象的纸片人形象往真人头上套更是荒唐。不是说这样的人不存在，但你用错误的方法当然找不到正确的人。 https://t.co/HtxiAptPoS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "wish you have a good day",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1120,
+          "following_count": 153,
+          "like_count": 5719,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 699
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2011-08-16T10:59:26.000Z",
+        "description": "Webfont不勾bold/italics警察 听歌数拍子 椅子认不来 可乐止咳 奶茶顶饿 咖啡不解渴 游戏≠电竞 「做人要活出统战价值」 利益相关：基金全投了美股",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bit.ly/GoSleepEarly",
+                "end": 23,
+                "expanded_url": "https://bit.ly/GoSleepEarly",
+                "start": 0,
+                "url": "https://t.co/GZdMfzygfN"
+              }
+            ]
+          }
+        },
+        "id": "356114378",
+        "location": "How did I get here?",
+        "name": "Atacama Aquarium",
+        "pinned_tweet_id": "2025861676550262858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831594726769717248/rTnm8XAn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1669,
+          "following_count": 2179,
+          "like_count": 3709,
+          "listed_count": 34,
+          "media_count": 3690,
+          "tweet_count": 44515
+        },
+        "url": "https://t.co/GZdMfzygfN",
+        "username": "_yukirock",
+        "verified": false
+      }
+    ]
+  }
+}
