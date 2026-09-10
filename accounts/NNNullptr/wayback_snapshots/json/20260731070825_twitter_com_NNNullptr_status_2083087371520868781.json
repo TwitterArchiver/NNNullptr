@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2083057327176053134",
+    "created_at": "2026-07-31T07:08:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T08:08:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083087371520868781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2063565746677190656",
+          "start": 0,
+          "username": "1ggxv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083087371520868781",
+    "in_reply_to_user_id": "2063565746677190656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083057327176053134",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1ggxv 别盗图了，这是你吗你就盗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2083057318795874304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOiBmE2bEAAhgJa.jpg",
+        "width": 1436
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2083057327176053134",
+        "created_at": "2026-07-31T07:08:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T08:08:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083087371520868781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2063565746677190656",
+              "start": 0,
+              "username": "1ggxv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083087371520868781",
+        "in_reply_to_user_id": "2063565746677190656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083057327176053134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1ggxv 别盗图了，这是你吗你就盗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083057318795874304"
+          ]
+        },
+        "author_id": "2063565746677190656",
+        "conversation_id": "2083057327176053134",
+        "created_at": "2026-07-31T05:09:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T06:09:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083057327176053134"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2XBvkqQNQ7",
+              "end": 30,
+              "expanded_url": "https://x.com/1ggxv/status/2083057327176053134/photo/1",
+              "media_key": "3_2083057318795874304",
+              "start": 7,
+              "url": "https://t.co/2XBvkqQNQ7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083057327176053134",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 153,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想要你的关注 https://t.co/2XBvkqQNQ7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "捉摸不透的用户：南方的狼",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1305,
+          "following_count": 184,
+          "like_count": 7450,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 1172
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-07T10:17:05.000Z",
+        "description": "喜欢交友哈",
+        "id": "2063565746677190656",
+        "location": "Los Angeles, CA",
+        "name": "しおなぎ",
+        "pinned_tweet_id": "2081556507414737363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077818262096953344/mRtsx4HK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1258,
+          "following_count": 1096,
+          "like_count": 35,
+          "listed_count": 4,
+          "media_count": 18,
+          "tweet_count": 58
+        },
+        "url": "",
+        "username": "1ggxv",
+        "verified": false
+      }
+    ]
+  }
+}

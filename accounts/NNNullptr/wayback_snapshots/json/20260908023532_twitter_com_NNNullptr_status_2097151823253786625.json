@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2097151823253786625",
+    "created_at": "2026-09-08T02:35:32.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T03:35:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097151823253786625"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mdhmpilled/sta…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/mdhmpilled/status/2097030345476501915",
+          "start": 5,
+          "url": "https://t.co/wKwscEm2bR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097151823253786625",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097030345476501915",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😂😂😂😂 https://t.co/wKwscEm2bR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 554,
+        "media_key": "3_2097030340548153346",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRol-_OW0AI2nLu.jpg",
+        "width": 939
+      },
+      {
+        "height": 532,
+        "media_key": "3_2097030340539748352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRol-_MWkAAV6_1.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2097151823253786625",
+        "created_at": "2026-09-08T02:35:32.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T03:35:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097151823253786625"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mdhmpilled/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/mdhmpilled/status/2097030345476501915",
+              "start": 5,
+              "url": "https://t.co/wKwscEm2bR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097151823253786625",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097030345476501915",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😂😂😂😂 https://t.co/wKwscEm2bR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097030340548153346",
+            "3_2097030340539748352"
+          ]
+        },
+        "author_id": "1355386468601102336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2097030345476501915",
+        "created_at": "2026-09-07T18:32:49.000Z",
+        "display_text_range": [
+          0,
+          279
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T19:32:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097030345476501915"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mEKw551EDv",
+              "end": 303,
+              "expanded_url": "https://x.com/mdhmpilled/status/2097030345476501915/photo/1",
+              "media_key": "3_2097030340548153346",
+              "start": 280,
+              "url": "https://t.co/mEKw551EDv"
+            },
+            {
+              "display_url": "pic.x.com/mEKw551EDv",
+              "end": 303,
+              "expanded_url": "https://x.com/mdhmpilled/status/2097030345476501915/photo/1",
+              "media_key": "3_2097030340539748352",
+              "start": 280,
+              "url": "https://t.co/mEKw551EDv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097030345476501915",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2097030340548153346"
+          },
+          {
+            "media_key": "3_2097030340539748352"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 501,
+          "impression_count": 76666,
+          "like_count": 3827,
+          "quote_count": 46,
+          "reply_count": 21,
+          "retweet_count": 626
+        },
+        "reply_settings": "everyone",
+        "text": "Look what internet addiction has done to these impressionable young girls. In 2012, they were talking to each other and enjoying pastries. No phones in sight. Now look in 2026, Madoka and Mami are glued on their phones. They don't even care for their friends anymore. Disgusting. https://t.co/mEKw551EDv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "捉摸不透的用户，小南的第四个号了，不上网的时候都在学习，请勿打扰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097151823253786625",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1858727254345281536/1774548658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1313,
+          "following_count": 185,
+          "like_count": 7802,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 1351
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-01-30T05:25:00.000Z",
+        "description": "🇻🇳/🇺🇸 22 Normal Person With 0 Mental Illnesses Disabilities And Normal Sexuality And 200 Friends",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tisarimu.straw.page",
+                "end": 23,
+                "expanded_url": "https://tisarimu.straw.page/",
+                "start": 0,
+                "url": "https://t.co/7v3fB5LwvZ"
+              }
+            ]
+          }
+        },
+        "id": "1355386468601102336",
+        "is_identity_verified": false,
+        "location": "Send me stuff ➡️",
+        "most_recent_tweet_id": "2097119232546734391",
+        "name": "˚₊‧꒰ა krilly ໒꒱ ‧₊˚",
+        "pinned_tweet_id": "2048562727673638930",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1355386468601102336/1780357071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889098340521971712/NJeIONK2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3598,
+          "following_count": 608,
+          "like_count": 145366,
+          "listed_count": 9,
+          "media_count": 4876,
+          "tweet_count": 19033
+        },
+        "url": "https://t.co/7v3fB5LwvZ",
+        "username": "mdhmpilled",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

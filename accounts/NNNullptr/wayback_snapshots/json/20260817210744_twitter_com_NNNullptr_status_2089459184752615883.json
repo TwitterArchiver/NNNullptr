@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2089383594724859914",
+    "created_at": "2026-08-17T21:07:44.000Z",
+    "display_text_range": [
+      13,
+      65
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T22:07:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089459184752615883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1921935866114756608",
+          "start": 0,
+          "username": "MomoneChino"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089459184752615883",
+    "in_reply_to_user_id": "1921935866114756608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089383594724859914",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MomoneChino 多和人交流就好了，而且不和人交流她和别人在一起了也不关你什么事呀，你只是失去了自己从来没有得到过的东西而"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2089383594724859914",
+        "created_at": "2026-08-17T21:07:44.000Z",
+        "display_text_range": [
+          13,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T22:07:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089459184752615883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1921935866114756608",
+              "start": 0,
+              "username": "MomoneChino"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089459184752615883",
+        "in_reply_to_user_id": "1921935866114756608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089383594724859914",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomoneChino 多和人交流就好了，而且不和人交流她和别人在一起了也不关你什么事呀，你只是失去了自己从来没有得到过的东西而"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1921935866114756608",
+        "conversation_id": "2089383594724859914",
+        "created_at": "2026-08-17T16:07:22.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T17:07:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089383594724859914"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089383594724859914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 729,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "16岁时，自己喜欢一个二次元萌妹，结果半年时间也没怎么敢跟她交流，最后她和别人在一起了六年，我心痛了一年……\n23岁时，自己在芳文Only1.0上扩了一个智乃coser，然后尝试聊天，但是情商低被她说哭了，有点PTSD了。最近才知道她在跟我一个男性朋友逛了芳文Only2.0了……"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "捉摸不透的用户：南方的狼",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089459184752615883",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1858727254345281536/1774548658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1300,
+          "following_count": 186,
+          "like_count": 7569,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 1263
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-12T14:30:06.000Z",
+        "description": "人生就像钟摆，在痛苦和虚无之间摇摆 | aka.深柠 | 顺直男！",
+        "id": "1921935866114756608",
+        "is_identity_verified": false,
+        "location": "Beside Chino",
+        "most_recent_tweet_id": "2089393686190977489",
+        "name": "智乃",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1921935866114756608/1782210277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072847635573284865/CVT9ZAM3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 288,
+          "like_count": 4598,
+          "listed_count": 0,
+          "media_count": 396,
+          "tweet_count": 1540
+        },
+        "url": "",
+        "username": "MomoneChino",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

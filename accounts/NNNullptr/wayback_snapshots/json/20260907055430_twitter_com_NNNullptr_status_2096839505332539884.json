@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2096839505332539884",
+    "created_at": "2026-09-07T05:54:30.000Z",
+    "display_text_range": [
+      0,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T06:54:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096839505332539884"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/minami886886/s…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/minami886886/status/2096811509070623006",
+          "start": 14,
+          "url": "https://t.co/iVZmYbphbY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096839505332539884",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096811509070623006",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一些情况，这个是我另一个号 https://t.co/iVZmYbphbY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 979,
+        "media_key": "3_2096811502816923648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRle89JbEAAYKWy.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2096839505332539884",
+        "created_at": "2026-09-07T05:54:30.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T06:54:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096839505332539884"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/minami886886/s…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/minami886886/status/2096811509070623006",
+              "start": 14,
+              "url": "https://t.co/iVZmYbphbY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096839505332539884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096811509070623006",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一些情况，这个是我另一个号 https://t.co/iVZmYbphbY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096811502816923648"
+          ]
+        },
+        "author_id": "1650760116918943744",
+        "conversation_id": "2096811509070623006",
+        "created_at": "2026-09-07T04:03:15.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T05:03:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096811509070623006"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eZI9lG3DRt",
+              "end": 55,
+              "expanded_url": "https://x.com/minami886886/status/2096811509070623006/photo/1",
+              "media_key": "3_2096811502816923648",
+              "start": 32,
+              "url": "https://t.co/eZI9lG3DRt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096811509070623006",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096811502816923648"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1018,
+          "like_count": 42,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是小南，因为我现在的账号互关和这个重叠太少，所以在这边发一下 https://t.co/eZI9lG3DRt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "捉摸不透的用户，小南的第四个号了，不上网的时候都在学习，请勿打扰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096839505332539884",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1858727254345281536/1774548658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1314,
+          "following_count": 184,
+          "like_count": 7790,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 1359
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-25T07:14:30.000Z",
+        "description": "该账号是我的自留地，谢谢你们的陪伴",
+        "id": "1650760116918943744",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2031684756824571967",
+        "name": "南",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1650760116918943744/1739944194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993369268914917376/XvDfQ5d7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3188,
+          "following_count": 848,
+          "like_count": 55453,
+          "listed_count": 5,
+          "media_count": 601,
+          "tweet_count": 12908
+        },
+        "url": "",
+        "username": "minami886886",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2050092958473675165",
+    "created_at": "2026-05-01T06:00:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T07:00:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050092958473675165"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cupcakekttn/st…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/cupcakekttn/status/2049976205206814812",
+          "start": 18,
+          "url": "https://t.co/QPuYf7X4JK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050092958473675165",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049976205206814812",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "怀念cutecore长这样的时候: https://t.co/QPuYf7X4JK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 675,
+        "media_key": "3_2049976197443162112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHL6fYabEAAa6ov.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2050092958473675165",
+        "created_at": "2026-05-01T06:00:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T07:00:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050092958473675165"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cupcakekttn/st…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/cupcakekttn/status/2049976205206814812",
+              "start": 18,
+              "url": "https://t.co/QPuYf7X4JK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050092958473675165",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049976205206814812",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怀念cutecore长这样的时候: https://t.co/QPuYf7X4JK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049976197443162112"
+          ]
+        },
+        "author_id": "1917807936220606464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2049976205206814812",
+        "created_at": "2026-04-30T22:16:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T23:16:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049976205206814812"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bxYu0rxepF",
+              "end": 58,
+              "expanded_url": "https://x.com/cupcakekttn/status/2049976205206814812/photo/1",
+              "media_key": "3_2049976197443162112",
+              "start": 35,
+              "url": "https://t.co/bxYu0rxepF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049976205206814812",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 141,
+          "impression_count": 16774,
+          "like_count": 2476,
+          "quote_count": 17,
+          "reply_count": 18,
+          "retweet_count": 453
+        },
+        "reply_settings": "everyone",
+        "text": "I miss when cutecore was like this https://t.co/bxYu0rxepF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "wish you have a good day",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1106,
+          "following_count": 142,
+          "like_count": 5184,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 592
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T05:07:14.000Z",
+        "description": "so sweet and cute candy hamster 👼🧁🍌🍭🐹🍀",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tokidokis.straw.page",
+                "end": 23,
+                "expanded_url": "https://tokidokis.straw.page",
+                "start": 0,
+                "url": "https://t.co/SlRbhdp3tP"
+              }
+            ]
+          }
+        },
+        "id": "1917807936220606464",
+        "location": "5 cupcakes tall 🧁🍭",
+        "name": "⊹⁺⸜(ᐡ⸝ɞ̴̶̷ ·̮ ɞ̴̶̷⸝ᐡ)⸝⁺⊹",
+        "pinned_tweet_id": "2049660257832776089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048728055523545089/uphYFYx1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 808,
+          "following_count": 242,
+          "like_count": 2680,
+          "listed_count": 1,
+          "media_count": 178,
+          "tweet_count": 1595
+        },
+        "url": "https://t.co/SlRbhdp3tP",
+        "username": "cupcakekttn",
+        "verified": false
+      }
+    ]
+  }
+}

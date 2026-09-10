@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2093789651291271324",
+    "created_at": "2026-08-29T19:55:28.000Z",
+    "display_text_range": [
+      0,
+      1
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T20:55:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093789651291271324"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dougiejpg/stat…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/dougiejpg/status/2093460667172897044",
+          "start": 2,
+          "url": "https://t.co/juliLC2ceR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093789651291271324",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093460667172897044",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🥰 https://t.co/juliLC2ceR"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 140185,
+        "height": 720,
+        "media_key": "13_2053175256743849985",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2053175256743849985/img/y8yplu_GGTvilo02.jpg",
+        "public_metrics": {
+          "view_count": 531734
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053175256743849985/vid/avc1/378x270/UIVlf5ipP9cMGFUg.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053175256743849985/vid/avc1/504x360/BhJ4bA3ccmm_5zHV.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053175256743849985/vid/avc1/1008x720/TeevTlSzeQ4NF4IB.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2053175256743849985/pl/VVrvMTEqyHVxW-A-.m3u8?v=fe8"
+          }
+        ],
+        "width": 1008
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2093789651291271324",
+        "created_at": "2026-08-29T19:55:28.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T20:55:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093789651291271324"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dougiejpg/stat…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/dougiejpg/status/2093460667172897044",
+              "start": 2,
+              "url": "https://t.co/juliLC2ceR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093789651291271324",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093460667172897044",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🥰 https://t.co/juliLC2ceR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2053175256743849985"
+          ],
+          "media_source_tweet_id": [
+            "2053175407424241905"
+          ]
+        },
+        "author_id": "1058422277883203584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2093460667172897044",
+        "created_at": "2026-08-28T22:08:12.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T23:08:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093460667172897044"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E5QBsmf36v",
+              "end": 57,
+              "expanded_url": "https://x.com/aboutidolgirls/status/2053175407424241905/video/1",
+              "media_key": "13_2053175256743849985",
+              "start": 34,
+              "url": "https://t.co/E5QBsmf36v"
+            },
+            {
+              "display_url": "x.com/magneticado/st…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/magneticado/status/2092414119710163100",
+              "start": 58,
+              "url": "https://t.co/KNkjWTzpC0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093460667172897044",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "13_2053175256743849985"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 482,
+          "impression_count": 429131,
+          "like_count": 7058,
+          "quote_count": 118,
+          "reply_count": 56,
+          "retweet_count": 911
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092414119710163100",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Minha contribuição para os quotes\nhttps://t.co/E5QBsmf36v https://t.co/KNkjWTzpC0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "捉摸不透的用户，不上网的时候都在学习",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093789651291271324",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1858727254345281536/1774548658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1304,
+          "following_count": 184,
+          "like_count": 7705,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 1303
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-11-02T18:15:10.000Z",
+        "description": "Inconsistências e surtos que podem ou não ter a ver com K-pop nesse perfil. Assisto reality shows coreanos na twitch: https://t.co/F7ztMBTabP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/dougiejpg",
+                "end": 141,
+                "expanded_url": "https://www.twitch.tv/dougiejpg",
+                "start": 118,
+                "url": "https://t.co/F7ztMBTabP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popasiaticojpg.com",
+                "end": 23,
+                "expanded_url": "http://popasiaticojpg.com",
+                "start": 0,
+                "url": "https://t.co/b1K1r4scsN"
+              }
+            ]
+          }
+        },
+        "id": "1058422277883203584",
+        "is_identity_verified": false,
+        "location": "São Paulo, Brasil",
+        "most_recent_tweet_id": "2093786309957505321",
+        "name": "dougie",
+        "pinned_tweet_id": "2092766608405995753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1058422277883203584/1776895920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1709249385928740864/QCQIz2K3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1742,
+          "following_count": 388,
+          "like_count": 9379,
+          "listed_count": 4,
+          "media_count": 7100,
+          "tweet_count": 41496
+        },
+        "url": "https://t.co/b1K1r4scsN",
+        "username": "dougiejpg",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

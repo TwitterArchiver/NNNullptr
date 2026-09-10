@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2088635348696039424"
+      ],
+      "media_source_tweet_id": [
+        "2088635367927025995"
+      ]
+    },
+    "author_id": "1858727254345281536",
+    "conversation_id": "2088846356333142097",
+    "created_at": "2026-08-16T04:32:34.000Z",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T05:32:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088846356333142097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1907103503157547008",
+          "start": 3,
+          "username": "thraeded"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WOq6blKBxJ",
+          "end": 37,
+          "expanded_url": "https://x.com/thraeded/status/2088635367927025995/video/1",
+          "media_key": "13_2088635348696039424",
+          "start": 14,
+          "url": "https://t.co/WOq6blKBxJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088846356333142097",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2088635348696039424"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 663
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088635367927025995",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @thraeded: https://t.co/WOq6blKBxJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8975,
+        "height": 608,
+        "media_key": "13_2088635348696039424",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2088635348696039424/img/64w7Hq2h0lHnUvNZ.jpg",
+        "public_metrics": {
+          "view_count": 15415
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088635348696039424/vid/avc1/478x270/fT0VJvF2vKgQXioA.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088635348696039424/vid/avc1/638x360/92YBJOokunU5XViu.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088635348696039424/vid/avc1/1080x608/1Rd4OBwu8EceqByI.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2088635348696039424/pl/IDdfDsApahIPRsY2.m3u8"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088635348696039424"
+          ],
+          "media_source_tweet_id": [
+            "2088635367927025995"
+          ]
+        },
+        "author_id": "1858727254345281536",
+        "conversation_id": "2088846356333142097",
+        "created_at": "2026-08-16T04:32:34.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T05:32:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088846356333142097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1907103503157547008",
+              "start": 3,
+              "username": "thraeded"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WOq6blKBxJ",
+              "end": 37,
+              "expanded_url": "https://x.com/thraeded/status/2088635367927025995/video/1",
+              "media_key": "13_2088635348696039424",
+              "start": 14,
+              "url": "https://t.co/WOq6blKBxJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088846356333142097",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2088635348696039424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 663
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088635367927025995",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @thraeded: https://t.co/WOq6blKBxJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088635348696039424"
+          ]
+        },
+        "author_id": "1907103503157547008",
+        "conversation_id": "2088635367927025995",
+        "created_at": "2026-08-15T14:34:11.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T15:34:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088635367927025995"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WOq6blKBxJ",
+              "end": 23,
+              "expanded_url": "https://x.com/thraeded/status/2088635367927025995/video/1",
+              "media_key": "13_2088635348696039424",
+              "start": 0,
+              "url": "https://t.co/WOq6blKBxJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088635367927025995",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2088635348696039424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 215,
+          "impression_count": 57475,
+          "like_count": 3093,
+          "quote_count": 53,
+          "reply_count": 4,
+          "retweet_count": 663
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/WOq6blKBxJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "捉摸不透的用户：南方的狼",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088846356333142097",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1858727254345281536/1774548658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1299,
+          "following_count": 184,
+          "like_count": 7514,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 1235
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-01T16:11:43.000Z",
+        "description": "@thraedly 。。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "thraedly"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/thraeded",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/thraeded",
+                "start": 0,
+                "url": "https://t.co/us2QtCr994"
+              }
+            ]
+          }
+        },
+        "id": "1907103503157547008",
+        "is_identity_verified": false,
+        "location": "따봉",
+        "most_recent_tweet_id": "2088667103108956637",
+        "name": "ദ്ദി ᐝ",
+        "pinned_tweet_id": "2007000139173605411",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1907103503157547008/1786783051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083593858051661824/pUxB2Pw7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1404,
+          "following_count": 194,
+          "like_count": 4023,
+          "listed_count": 6,
+          "media_count": 191,
+          "tweet_count": 566
+        },
+        "url": "https://t.co/us2QtCr994",
+        "username": "thraeded",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

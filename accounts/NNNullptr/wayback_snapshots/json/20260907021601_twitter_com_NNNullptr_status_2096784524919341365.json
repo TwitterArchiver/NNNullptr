@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2096545846741672252",
+    "created_at": "2026-09-07T02:16:01.000Z",
+    "display_text_range": [
+      15,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T03:16:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096784524919341365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1682427504513155072",
+          "start": 0,
+          "username": "ygngxio311443"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096784524919341365",
+    "in_reply_to_user_id": "1682427504513155072",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096545846741672252",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ygngxio311443 我也是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2096545846741672252",
+        "created_at": "2026-09-07T02:16:01.000Z",
+        "display_text_range": [
+          15,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T03:16:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096784524919341365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1682427504513155072",
+              "start": 0,
+              "username": "ygngxio311443"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096784524919341365",
+        "in_reply_to_user_id": "1682427504513155072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096545846741672252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ygngxio311443 我也是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682427504513155072",
+        "conversation_id": "2096545846741672252",
+        "created_at": "2026-09-06T10:27:36.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T11:27:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096545846741672252"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096545846741672252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 11925,
+          "like_count": 96,
+          "quote_count": 1,
+          "reply_count": 28,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "原来新神是女的吗……我说怎么大家提到是用的“她”。我还怀疑过是不是因为她心理性别为女……居然真的是生理女性，完全看不出来"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "捉摸不透的用户，不上网的时候都在学习",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096784524919341365",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1858727254345281536/1774548658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1315,
+          "following_count": 184,
+          "like_count": 7791,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 1357
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-21T16:29:41.000Z",
+        "description": "intp｜Dom｜双性恋｜想要和有趣的人聊天\n小号备用@chingyee21",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 27,
+                "username": "chingyee21"
+              }
+            ]
+          }
+        },
+        "id": "1682427504513155072",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096555753590890998",
+        "name": "雨宫晓",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1682427504513155072/1781641507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066263700575768576/eFBUzech_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 636,
+          "following_count": 8,
+          "like_count": 256,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 325
+        },
+        "url": "",
+        "username": "ygngxio311443",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

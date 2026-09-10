@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2089038860701638837",
+    "created_at": "2026-08-16T17:17:31.000Z",
+    "display_text_range": [
+      0,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T18:17:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089038860701638837"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/duolingo/statu…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/duolingo/status/2087657558341231053",
+          "start": 21,
+          "url": "https://t.co/4HaRF1QCBv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089038860701638837",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087657558341231053",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我选择善良一次，整个世界就决定这样看待我 https://t.co/4HaRF1QCBv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2089038860701638837",
+        "created_at": "2026-08-16T17:17:31.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T18:17:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089038860701638837"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/duolingo/statu…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/duolingo/status/2087657558341231053",
+              "start": 21,
+              "url": "https://t.co/4HaRF1QCBv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089038860701638837",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087657558341231053",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我选择善良一次，整个世界就决定这样看待我 https://t.co/4HaRF1QCBv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "107238136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596157251587",
+              "name": "Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165570560",
+              "name": "Education Related - Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1278055867347120128",
+              "name": "Duolingo"
+            }
+          }
+        ],
+        "conversation_id": "2087657558341231053",
+        "created_at": "2026-08-12T21:48:43.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T22:48:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087657558341231053"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/toonhive/statu…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/toonhive/status/2087580025486786978",
+              "start": 68,
+              "url": "https://t.co/ROeLSpIvBT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087657558341231053",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1421,
+          "impression_count": 1775286,
+          "like_count": 51786,
+          "quote_count": 152,
+          "reply_count": 455,
+          "retweet_count": 2679
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087580025486786978",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "i choose to be kind ONCE and the whole world decides to perceive me https://t.co/ROeLSpIvBT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "捉摸不透的用户：南方的狼",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089038860701638837",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1858727254345281536/1774548658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1299,
+          "following_count": 185,
+          "like_count": 7531,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 1248
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-01-21T23:15:30.000Z",
+        "description": "hot owl summer 💚🦉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "duolingo.com",
+                "end": 23,
+                "expanded_url": "http://duolingo.com",
+                "start": 0,
+                "url": "https://t.co/rkZWsyHSRz"
+              }
+            ]
+          }
+        },
+        "id": "107238136",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087982676808520053",
+        "name": "Duolingo",
+        "pinned_tweet_id": "2013659156746506280",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/107238136/1770052240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072277831376093184/U5-jTCUP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1031829,
+          "following_count": 507,
+          "like_count": 24385,
+          "listed_count": 2783,
+          "media_count": 2081,
+          "tweet_count": 54191
+        },
+        "url": "https://t.co/rkZWsyHSRz",
+        "username": "duolingo",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2096600337411166417",
+    "created_at": "2026-09-06T21:17:49.000Z",
+    "display_text_range": [
+      10,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T22:17:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096709477571706968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1447499448649601025",
+          "start": 0,
+          "username": "LVTGW666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096709477571706968",
+    "in_reply_to_user_id": "1447499448649601025",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096600337411166417",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LVTGW666 依旧v区笑话，都找实习工作了还这样属实幽默，来来来上瓜条"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2096600321577607168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRie4luaYAAYKJf.jpg",
+        "width": 887
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2096600193341026304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRiexIAbcAAqpX0.jpg",
+        "width": 872
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2096600193244565504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRiexHpbkAAGXCA.jpg",
+        "width": 864
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2096600321619623936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRie4l4bgAAPu2l.jpg",
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2096600337411166417",
+        "created_at": "2026-09-06T21:17:49.000Z",
+        "display_text_range": [
+          10,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T22:17:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096709477571706968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1447499448649601025",
+              "start": 0,
+              "username": "LVTGW666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096709477571706968",
+        "in_reply_to_user_id": "1447499448649601025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096600337411166417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LVTGW666 依旧v区笑话，都找实习工作了还这样属实幽默，来来来上瓜条"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096600321577607168",
+            "3_2096600193341026304",
+            "3_2096600193244565504",
+            "3_2096600321619623936"
+          ]
+        },
+        "author_id": "1447499448649601025",
+        "conversation_id": "2096600337411166417",
+        "created_at": "2026-09-06T14:04:08.000Z",
+        "display_text_range": [
+          0,
+          87
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T15:04:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096600337411166417"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yR25v3OyUI",
+              "end": 111,
+              "expanded_url": "https://x.com/LVTGW666/status/2096600337411166417/photo/1",
+              "media_key": "3_2096600321577607168",
+              "start": 88,
+              "url": "https://t.co/yR25v3OyUI"
+            },
+            {
+              "display_url": "pic.x.com/yR25v3OyUI",
+              "end": 111,
+              "expanded_url": "https://x.com/LVTGW666/status/2096600337411166417/photo/1",
+              "media_key": "3_2096600193341026304",
+              "start": 88,
+              "url": "https://t.co/yR25v3OyUI"
+            },
+            {
+              "display_url": "pic.x.com/yR25v3OyUI",
+              "end": 111,
+              "expanded_url": "https://x.com/LVTGW666/status/2096600337411166417/photo/1",
+              "media_key": "3_2096600193244565504",
+              "start": 88,
+              "url": "https://t.co/yR25v3OyUI"
+            },
+            {
+              "display_url": "pic.x.com/yR25v3OyUI",
+              "end": 111,
+              "expanded_url": "https://x.com/LVTGW666/status/2096600337411166417/photo/1",
+              "media_key": "3_2096600321619623936",
+              "start": 88,
+              "url": "https://t.co/yR25v3OyUI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096600337411166417",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096600321577607168"
+          },
+          {
+            "media_key": "3_2096600193341026304"
+          },
+          {
+            "media_key": "3_2096600193244565504"
+          },
+          {
+            "media_key": "3_2096600321619623936"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 149,
+          "impression_count": 200377,
+          "like_count": 693,
+          "quote_count": 18,
+          "reply_count": 369,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "本00后现在已经深切的感受到跟10后的代沟了，还不太理解跨十岁代沟能差到哪里去的，可以看看这个聊天记录，看看能不能在不翻译的情况下，了解这个人想表达什么，以及为什么会莫名愤怒 https://t.co/yR25v3OyUI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "捉摸不透的用户，不上网的时候都在学习",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096709477571706968",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1858727254345281536/1774548658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1315,
+          "following_count": 184,
+          "like_count": 7789,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 1354
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-10-11T09:49:03.000Z",
+        "description": "我是一直都是啥b啊 分析哲学倒数第6324人 重铸正统施特劳斯荣光，我辈义不容辞 备用小号@lvtgw8964 YouTube：https://t.co/wPvV77mrq4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 45,
+                "username": "lvtgw8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCzPNz…",
+                "end": 87,
+                "expanded_url": "https://youtube.com/channel/UCzPNzUrZ6mQE_DdUyEzWfVQ?si=9P3osu1z2MSLK9OS",
+                "start": 64,
+                "url": "https://t.co/wPvV77mrq4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCzPNz…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCzPNzUrZ6mQE_DdUyEzWfVQ?si=9P3osu1z2MSLK9OS",
+                "start": 0,
+                "url": "https://t.co/wPvV77mrq4"
+              }
+            ]
+          }
+        },
+        "id": "1447499448649601025",
+        "is_identity_verified": true,
+        "location": "Yokohama-shi Kanagawa",
+        "most_recent_tweet_id": "2096697488996757681",
+        "name": "利维坦冲浪里",
+        "pinned_tweet_id": "2096313215307440545",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1447499448649601025/1634922805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1496193678477787137/gt41UKj__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75491,
+          "following_count": 1024,
+          "like_count": 15586,
+          "listed_count": 314,
+          "media_count": 6421,
+          "tweet_count": 14384
+        },
+        "url": "https://t.co/wPvV77mrq4",
+        "username": "LVTGW666",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

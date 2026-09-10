@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2092872392196681829",
+    "created_at": "2026-08-27T08:54:33.000Z",
+    "display_text_range": [
+      15,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T09:54:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092898553542881682"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2077073282768273408",
+          "start": 0,
+          "username": "Nengbunenb8yy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092898553542881682",
+    "in_reply_to_user_id": "2077073282768273408",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092872392196681829",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nengbunenb8yy 竟然是假的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2092872368356220928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQtgVJwaYAA-se0.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2092872368356298752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQtgVJwbkAAgdwE.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2092872368356315136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQtgVJwb0AAwC9M.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2092872392196681829",
+        "created_at": "2026-08-27T08:54:33.000Z",
+        "display_text_range": [
+          15,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T09:54:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092898553542881682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2077073282768273408",
+              "start": 0,
+              "username": "Nengbunenb8yy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092898553542881682",
+        "in_reply_to_user_id": "2077073282768273408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092872392196681829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nengbunenb8yy 竟然是假的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092872368356220928",
+            "3_2092872368356298752",
+            "3_2092872368356315136"
+          ]
+        },
+        "author_id": "2077073282768273408",
+        "conversation_id": "2092872392196681829",
+        "created_at": "2026-08-27T07:10:36.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T08:10:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092872392196681829"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KxoYPnAPIn",
+              "end": 43,
+              "expanded_url": "https://x.com/Nengbunenb8yy/status/2092872392196681829/photo/1",
+              "media_key": "3_2092872368356220928",
+              "start": 20,
+              "url": "https://t.co/KxoYPnAPIn"
+            },
+            {
+              "display_url": "pic.x.com/KxoYPnAPIn",
+              "end": 43,
+              "expanded_url": "https://x.com/Nengbunenb8yy/status/2092872392196681829/photo/1",
+              "media_key": "3_2092872368356298752",
+              "start": 20,
+              "url": "https://t.co/KxoYPnAPIn"
+            },
+            {
+              "display_url": "pic.x.com/KxoYPnAPIn",
+              "end": 43,
+              "expanded_url": "https://x.com/Nengbunenb8yy/status/2092872392196681829/photo/1",
+              "media_key": "3_2092872368356315136",
+              "start": 20,
+              "url": "https://t.co/KxoYPnAPIn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092872392196681829",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092872368356220928"
+          },
+          {
+            "media_key": "3_2092872368356298752"
+          },
+          {
+            "media_key": "3_2092872368356315136"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1999,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这个母狗是盗图的 我朋友只玩抖音和红薯 https://t.co/KxoYPnAPIn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "捉摸不透的用户：南方的狼",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092898553542881682",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1858727254345281536/1774548658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1295,
+          "following_count": 185,
+          "like_count": 7658,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 1290
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T16:51:12.000Z",
+        "description": "没什么好说的",
+        "id": "2077073282768273408",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092875787703927013",
+        "name": "Nengbunen",
+        "pinned_tweet_id": "2088573396821172261",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077073282768273408/1786776493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077073623903518720/9ashZMVG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 65,
+          "like_count": 1323,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 77
+        },
+        "url": "",
+        "username": "Nengbunenb8yy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
