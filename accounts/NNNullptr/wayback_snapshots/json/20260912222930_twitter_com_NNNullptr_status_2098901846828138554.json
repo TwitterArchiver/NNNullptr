@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2098801590237036887",
+    "created_at": "2026-09-12T22:29:30.000Z",
+    "display_text_range": [
+      13,
+      69
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T23:29:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098901846828138554"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2087523845901049856",
+          "start": 0,
+          "username": "suan4hjwnms"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098901846828138554",
+    "in_reply_to_user_id": "2087523845901049856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098801590237036887",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suan4hjwnms 这个好贵呀，饱饱你可以把图拿去拓竹直接生成模型，然后找个人打🙀反正我看图里这个貌似也是用的ai建模，你不介意就好"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1750,
+        "media_key": "3_2098801581470973953",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSBw6x2bAAEcOtn.jpg",
+        "width": 856
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2098801590237036887",
+        "created_at": "2026-09-12T22:29:30.000Z",
+        "display_text_range": [
+          13,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T23:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098901846828138554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2087523845901049856",
+              "start": 0,
+              "username": "suan4hjwnms"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098901846828138554",
+        "in_reply_to_user_id": "2087523845901049856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098801590237036887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suan4hjwnms 这个好贵呀，饱饱你可以把图拿去拓竹直接生成模型，然后找个人打🙀反正我看图里这个貌似也是用的ai建模，你不介意就好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098801581470973953"
+          ]
+        },
+        "author_id": "2087523845901049856",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          }
+        ],
+        "conversation_id": "2098801590237036887",
+        "created_at": "2026-09-12T15:51:07.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T16:51:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098801590237036887"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/etKPiSD3Fm",
+              "end": 42,
+              "expanded_url": "https://x.com/suan4hjwnms/status/2098801590237036887/photo/1",
+              "media_key": "3_2098801581470973953",
+              "start": 19,
+              "url": "https://t.co/etKPiSD3Fm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098801590237036887",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098801581470973953"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2544,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们谁家里有3d打印机可以便宜卖我啊 https://t.co/etKPiSD3Fm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "捉摸不透的用户，小南的第四个号了，不上网的时候都在学习",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098901846828138554",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1858727254345281536/1774548658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1317,
+          "following_count": 188,
+          "like_count": 8038,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 1414
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-12T12:58:00.000Z",
+        "description": "oder/bpd/pien/🩸/激进派反人类中心\n同类互fo 没回发私信给我就好\n联系不到我找@lyxz738 @T0X1C_R3B0Rn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "lyxz738"
+              },
+              {
+                "end": 69,
+                "start": 56,
+                "username": "T0X1C_R3B0Rn"
+              }
+            ]
+          }
+        },
+        "id": "2087523845901049856",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098881524443873311",
+        "name": "小酸4.0",
+        "pinned_tweet_id": "2088053477302055155",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087523845901049856/1786665438",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092618861329911808/N4KIRah-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 724,
+          "following_count": 384,
+          "like_count": 713,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 710
+        },
+        "url": "",
+        "username": "suan4hjwnms",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

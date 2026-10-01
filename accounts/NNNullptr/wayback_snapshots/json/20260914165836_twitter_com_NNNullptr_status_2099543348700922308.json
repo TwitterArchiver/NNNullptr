@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2099514480380318206",
+    "created_at": "2026-09-14T16:58:36.000Z",
+    "display_text_range": [
+      17,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T17:58:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099543348700922308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2089506719747674112",
+          "start": 0,
+          "username": "ikunlove666ikun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099543348700922308",
+    "in_reply_to_user_id": "2089506719747674112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099514480380318206",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ikunlove666ikun 真遇上徐加金了跑也跑不了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2099514480380318206",
+        "created_at": "2026-09-14T16:58:36.000Z",
+        "display_text_range": [
+          17,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T17:58:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099543348700922308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2089506719747674112",
+              "start": 0,
+              "username": "ikunlove666ikun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099543348700922308",
+        "in_reply_to_user_id": "2089506719747674112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099514480380318206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ikunlove666ikun 真遇上徐加金了跑也跑不了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2089506719747674112",
+        "conversation_id": "2099514480380318206",
+        "created_at": "2026-09-14T15:03:53.000Z",
+        "display_text_range": [
+          0,
+          142
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T16:03:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099514480380318206"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099514480380318206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "看到今天广东的新闻，后背发凉。在无差别攻击和戾气外溢的当下，整理了一份突发脱身指南，建议每个人都看一遍 🧵👇\n\n1.尽量避免在特殊时间、在人流量大的地方逗留太久，例如：\n知名网红打卡点、节假日的火车站飞机场、大型商超、广场\n\n2.非必要不出门，如果一定要出门的话，建议谨慎选择通勤路线\n地铁（已经帮你安检好）>开车>打车（打特价车容易被司机车内单杀）>公交（司机有可能献）\n\n骑行、步行（被献无处可躲），不要在路口、街边站立太久，选择有石墩的行人岛，不要一直低头、时常观察下附近的不稳定因素（大喊大叫、争执声、引擎声、刹车声、碰撞声、人流涌动）\n\n3.同任何底层服务行业的人交往一定保持客气的态度：外卖员、滴滴司机、路边小摊贩、服务员、环卫工人，他们很可能是刚破产的老板，随时准备献祭就等你引爆.\n\n4.不要凑热闹、越热闹的地方越不要去最好，如果你一个人除非你和别人有仇一般不会献你，人多了不一定。\n\n5.最坏情况：如果匹配到刀战，头也不回的跑，边跑边观察，\n如果是团伙开献，千万不要跑到别人同伙的包围圈里，边跑边\n看看有没有可以影响他视听的物品例如灭火器、牛奶、甚至可\n以把消防喷淋头打开，切忌和他搏斗哪怕你有武器，也不要妄\n想躲在某个地方等待，跑出刀战地图才是最安全的。\n\n如果匹配到赛车局：和刀战服恰恰相反，不要尝试使劲跑，你不可能跑得过汽车，反而跑动起来会被观察到，最该做的是：\n能进到室内就最好、越往里走越好，如果没有建筑物，就找高\n台、大树、石墩（路灯是没有用的），如果你不幸在空旷地区\n尽可能躲开车头行驶的方向、如果你躲开了他的加速他就不可\n能专门倒车撞你，因为他会损失加速度。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 23988,
+          "like_count": 137,
+          "quote_count": 4,
+          "reply_count": 16,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "看到今天广东的新闻，后背发凉。在无差别攻击和戾气外溢的当下，整理了一份突发脱身指南，建议每个人都看一遍 🧵👇\n\n1.尽量避免在特殊时间、在人流量大的地方逗留太久，例如：\n知名网红打卡点、节假日的火车站飞机场、大型商超、广场\n\n2.非必要不出门，如果一定要出门的话，建议谨慎选择通勤路线"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "一个捉摸不透的用户，小南的第四个号了，不上网的时候都在学习",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099543348700922308",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1858727254345281536/1774548658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1317,
+          "following_count": 189,
+          "like_count": 8176,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 1438
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-18T00:36:16.000Z",
+        "description": "干中学，学中干，一起互关。",
+        "id": "2089506719747674112",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099543192735813691",
+        "name": "张益达",
+        "pinned_tweet_id": "2098966412727607427",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089506719747674112/1787059078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089703350527053824/w63kbHoW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2779,
+          "following_count": 2285,
+          "like_count": 1073,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 1528
+        },
+        "url": "",
+        "username": "ikunlove666ikun",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2100240658640376251",
+    "created_at": "2026-09-17T04:26:42.000Z",
+    "display_text_range": [
+      16,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T05:26:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100441288122278124"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1903099585129816064",
+          "start": 0,
+          "username": "tokerumaisurii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100441288122278124",
+    "in_reply_to_user_id": "1903099585129816064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100240658640376251",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tokerumaisurii 本质炒作狗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2100240658640376251",
+        "created_at": "2026-09-17T04:26:42.000Z",
+        "display_text_range": [
+          16,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T05:26:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100441288122278124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1903099585129816064",
+              "start": 0,
+              "username": "tokerumaisurii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100441288122278124",
+        "in_reply_to_user_id": "1903099585129816064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100240658640376251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tokerumaisurii 本质炒作狗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2100240658640376251",
+        "created_at": "2026-09-16T15:09:28.000Z",
+        "display_text_range": [
+          0,
+          111
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T16:09:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100240658640376251"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100240658640376251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1938,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新出的故意重名软件“Clash”的作者“Hako / TokenPLS 团队”显然是一些炒作狗并且没玩过东方。\n你说你们抢人家Clash的身份干嘛，你就叫Clash NC = Clash New Classic不就好了吗？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "一个捉摸不透的用户，小南的第四个号了，不上网的时候都在学习",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100441288122278124",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1858727254345281536/1774548658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1318,
+          "following_count": 192,
+          "like_count": 8360,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 1465
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 15064 梦想打出东方将 ¦ https://t.co/2EQB4n0UDr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 105,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 82,
+                "url": "https://t.co/2EQB4n0UDr"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100440848081007084",
+        "name": "小虚空🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1903099585129816064/1743970554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4380,
+          "following_count": 352,
+          "like_count": 133507,
+          "listed_count": 17,
+          "media_count": 1538,
+          "tweet_count": 23444
+        },
+        "url": "",
+        "username": "tokerumaisurii",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2102357278758257149",
+    "created_at": "2026-09-22T19:20:09.000Z",
+    "display_text_range": [
+      14,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T20:20:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102478074487197936"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2083858416402079745",
+          "start": 0,
+          "username": "EvansRichter"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102478074487197936",
+    "in_reply_to_user_id": "2083858416402079745",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102357278758257149",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EvansRichter 谁能绷住"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2102357278758257149",
+        "created_at": "2026-09-22T19:20:09.000Z",
+        "display_text_range": [
+          14,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T20:20:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102478074487197936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2083858416402079745",
+              "start": 0,
+              "username": "EvansRichter"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102478074487197936",
+        "in_reply_to_user_id": "2083858416402079745",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102357278758257149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EvansRichter 谁能绷住"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2083858416402079745",
+        "conversation_id": "2102357278758257149",
+        "created_at": "2026-09-22T11:20:09.000Z",
+        "display_text_range": [
+          0,
+          136
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T12:20:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102357278758257149"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/taoo23713373/s…",
+              "end": 160,
+              "expanded_url": "https://twitter.com/taoo23713373/status/2089141389498138952",
+              "start": 137,
+              "url": "https://t.co/1PYHFRzHHa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102357278758257149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5174,
+          "like_count": 207,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089141389498138952",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "虐待动物这事实际上并不一定分男女，而且我们上过初中的都知道，男女里都有各自的坏，精神小伙约地方打群架，精神小妹堵厕所扇嘴巴子，说白了只是人的恶体现形式不同。\n但是在虐待动物这事上有意思的地方在于，部分男虐猫虐狗蛆竟然也声称女的才爱猫爱狗，虐猫虐狗的才是我们爷们。这谁能绷住 https://t.co/1PYHFRzHHa"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "一个捉摸不透的用户，小南的第四个号了，不上网的时候都在学习",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102478074487197936",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1858727254345281536/1774548658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1319,
+          "following_count": 197,
+          "like_count": 8605,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 1516
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-02T10:13:53.000Z",
+        "description": "男 19岁\n自由意识共产主义\n马克思主义\nLGBTQ+全友好\n欢迎互fo，互fo欢迎扩列",
+        "id": "2083858416402079745",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102477514505597407",
+        "name": "穿靴子的猫",
+        "pinned_tweet_id": "2101715146641211874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083858416402079745/1785666289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098376155514724352/Dmxindkp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 554,
+          "like_count": 8992,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 2074
+        },
+        "url": "",
+        "username": "EvansRichter",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

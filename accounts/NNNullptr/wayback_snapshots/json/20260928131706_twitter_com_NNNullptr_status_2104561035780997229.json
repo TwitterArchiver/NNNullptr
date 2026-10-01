@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2104393374665261546",
+    "created_at": "2026-09-28T13:17:06.000Z",
+    "display_text_range": [
+      0,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T14:17:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104561035780997229"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2104561035780997229",
+    "in_reply_to_user_id": "1858727254345281536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104393374665261546",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我已经研究了新的方式"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2104393374665261546",
+        "created_at": "2026-09-28T13:17:06.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T14:17:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104561035780997229"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104561035780997229",
+        "in_reply_to_user_id": "1858727254345281536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104393374665261546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我已经研究了新的方式"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2104393374665261546",
+        "created_at": "2026-09-28T02:10:52.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T03:10:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104393374665261546"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NNNullptr/stat…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/NNNullptr/status/2104391311579394288",
+              "start": 21,
+              "url": "https://t.co/4deWqxZFFe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104393374665261546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 501,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104391311579394288",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感觉照片一直差一点精致感不知道怎么解决🤧 https://t.co/4deWqxZFFe"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "一个捉摸不透的用户，小南的第四个号了，不上网的时候都在学习",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104561035780997229",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1858727254345281536/1774548658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1321,
+          "following_count": 193,
+          "like_count": 8987,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 1612
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

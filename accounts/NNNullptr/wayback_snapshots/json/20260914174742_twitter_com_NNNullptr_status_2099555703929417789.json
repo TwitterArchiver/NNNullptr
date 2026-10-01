@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2099555703929417789",
+    "created_at": "2026-09-14T17:47:42.000Z",
+    "display_text_range": [
+      0,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T18:47:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099555703929417789"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/imdatypagirl/s…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/imdatypagirl/status/2099128011392217576",
+          "start": 14,
+          "url": "https://t.co/m1QYfBUErp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099555703929417789",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099128011392217576",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我已经听了两年多360了😸 https://t.co/m1QYfBUErp"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 129842,
+        "height": 576,
+        "media_key": "13_2099127803958730752",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2099127803958730752/img/fLFquRb5j66NCza3.jpg",
+        "public_metrics": {
+          "view_count": 474473
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099127803958730752/vid/avc1/480x270/YCKKC9Wtqey2kO7M.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099127803958730752/vid/avc1/640x360/V-z9_G1Ly0Y_zokZ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099127803958730752/vid/avc1/1024x576/c1zCd__s0ZYsooI1.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2099127803958730752/pl/hOERQ26CUiEyWzoj.m3u8?v=cfc"
+          }
+        ],
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2099555703929417789",
+        "created_at": "2026-09-14T17:47:42.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T18:47:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099555703929417789"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/imdatypagirl/s…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/imdatypagirl/status/2099128011392217576",
+              "start": 14,
+              "url": "https://t.co/m1QYfBUErp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099555703929417789",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099128011392217576",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我已经听了两年多360了😸 https://t.co/m1QYfBUErp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2099127803958730752"
+          ],
+          "media_source_tweet_id": [
+            "2099127846182756574"
+          ]
+        },
+        "author_id": "1420027225441767425",
+        "conversation_id": "2099128011392217576",
+        "created_at": "2026-09-13T13:28:12.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T14:28:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099128011392217576"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BRGbPxIpVo",
+              "end": 54,
+              "expanded_url": "https://x.com/sohighschool29/status/2099127846182756574/video/1",
+              "media_key": "13_2099127803958730752",
+              "start": 31,
+              "url": "https://t.co/BRGbPxIpVo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099128011392217576",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2099127803958730752"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4258,
+          "impression_count": 1256604,
+          "like_count": 30893,
+          "quote_count": 681,
+          "reply_count": 0,
+          "retweet_count": 4922
+        },
+        "reply_settings": "following",
+        "text": "クラスで360パフォーマンスしてるdivaいてかっこよすぎる https://t.co/BRGbPxIpVo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "一个捉摸不透的用户，小南的第四个号了，不上网的时候都在学习",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099555703929417789",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1858727254345281536/1774548658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1317,
+          "following_count": 189,
+          "like_count": 8176,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 1439
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-07-27T14:24:16.000Z",
+        "description": "洋楽ガキ豆キッズ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/deluluchubbieg…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/deluluchubbiegurl?igsh=N2Jham5keHgxbDEz&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/YvXfAKppHp"
+              }
+            ]
+          }
+        },
+        "id": "1420027225441767425",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099502687440208090",
+        "name": "ゆいち",
+        "pinned_tweet_id": "1885675227348381994",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1420027225441767425/1712236626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053878337723056128/dGn0di5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24953,
+          "following_count": 3535,
+          "like_count": 140246,
+          "listed_count": 78,
+          "media_count": 9434,
+          "tweet_count": 24964
+        },
+        "url": "https://t.co/YvXfAKppHp",
+        "username": "imdatypagirl",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

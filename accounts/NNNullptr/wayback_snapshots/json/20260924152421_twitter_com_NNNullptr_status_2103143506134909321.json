@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2103131866677260371",
+    "created_at": "2026-09-24T15:24:21.000Z",
+    "display_text_range": [
+      12,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T16:24:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103143506134909321"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1783003313891614720",
+          "start": 0,
+          "username": "XiuYi22558"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103143506134909321",
+    "in_reply_to_user_id": "1783003313891614720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103142720583950509",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiuYi22558 特别萌呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2103131866677260371",
+        "created_at": "2026-09-24T15:24:21.000Z",
+        "display_text_range": [
+          12,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T16:24:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103143506134909321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1783003313891614720",
+              "start": 0,
+              "username": "XiuYi22558"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103143506134909321",
+        "in_reply_to_user_id": "1783003313891614720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103142720583950509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiuYi22558 特别萌呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1783003313891614720",
+        "conversation_id": "2103131866677260371",
+        "created_at": "2026-09-24T15:21:13.000Z",
+        "display_text_range": [
+          11,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T16:21:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103142720583950509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1858727254345281536",
+              "start": 0,
+              "username": "NNNullptr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103142720583950509",
+        "in_reply_to_user_id": "1858727254345281536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103131866677260371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NNNullptr 我懂我懂…我甚至把OC都设计成豆豆眉了…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "一个捉摸不透的用户，小南的第四个号了，不上网的时候都在学习",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103143518860411217",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1858727254345281536/1774548658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1319,
+          "following_count": 195,
+          "like_count": 8709,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 1544
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-24T05:21:44.000Z",
+        "description": "叫我小砍就行，认出我了直接来找我互关就行，这算我的微信小号，话很多",
+        "id": "1783003313891614720",
+        "is_identity_verified": false,
+        "location": "Tokyo-to, Japan",
+        "most_recent_tweet_id": "2103142720583950509",
+        "name": "凌晨国道互砍",
+        "pinned_tweet_id": "2089284746551697427",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1783003313891614720/1752773607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945899614512533504/i8HFYJ6e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 425,
+          "like_count": 5885,
+          "listed_count": 5,
+          "media_count": 257,
+          "tweet_count": 1832
+        },
+        "url": "",
+        "username": "XiuYi22558",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

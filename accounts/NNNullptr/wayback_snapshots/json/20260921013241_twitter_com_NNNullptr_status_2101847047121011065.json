@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2101731984829800764",
+    "created_at": "2026-09-21T01:32:41.000Z",
+    "display_text_range": [
+      15,
+      101
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T02:32:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101847047121011065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1629058457222656001",
+          "start": 0,
+          "username": "nursenika1840"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101847047121011065",
+    "in_reply_to_user_id": "1629058457222656001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101731984829800764",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nursenika1840 大人也不会穿外卖服去参加自己的同学聚会，其实就是不在乎孩子会不会被嘲笑和欺负而已，如果孩子因为这件事感到不舒服，还可以反过来骂孩子没良心虚荣，但总之就是不在乎孩子的处境而已"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1334,
+        "media_key": "3_2101731975187030016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSraGJIaYAAg8vY.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2101731984829800764",
+        "created_at": "2026-09-21T01:32:41.000Z",
+        "display_text_range": [
+          15,
+          101
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T02:32:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101847047121011065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1629058457222656001",
+              "start": 0,
+              "username": "nursenika1840"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101847047121011065",
+        "in_reply_to_user_id": "1629058457222656001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101731984829800764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nursenika1840 大人也不会穿外卖服去参加自己的同学聚会，其实就是不在乎孩子会不会被嘲笑和欺负而已，如果孩子因为这件事感到不舒服，还可以反过来骂孩子没良心虚荣，但总之就是不在乎孩子的处境而已"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101731975187030016"
+          ]
+        },
+        "author_id": "1629058457222656001",
+        "conversation_id": "2101731984829800764",
+        "created_at": "2026-09-20T17:55:28.000Z",
+        "display_text_range": [
+          0,
+          114
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T18:55:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101731984829800764"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e1v33qUdT7",
+              "end": 138,
+              "expanded_url": "https://x.com/nursenika1840/status/2101731984829800764/photo/1",
+              "media_key": "3_2101731975187030016",
+              "start": 115,
+              "url": "https://t.co/e1v33qUdT7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101731984829800764",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101731975187030016"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "说起来也惭愧，我妈当年穿着服装厂职工字样的灰色夹克衫来开家长会，开完会后来班里找我说事，我也让她下次别穿了，觉得丢人，让她下次别穿了。\n\n不过在闹钟世界不就是这样嘛，扪心自问一下，这位爸爸在同学聚会的时候，会穿外卖制服去吃饭么？\n\n我女儿现在有个同班同学，她爸爸每天会穿着浑身泥泞的施工服来接孩子，应该是刚下工直接过来了，换在中国，估计又要被笑死了。\n\n几千年秦制的国家，蓝领地位不如狗的国家。没得破。哦对了，这位每天穿工地服的男性是高贵的白人，按照某些推友的高级认知，高贵的白人都是坐办公室的，只有小黄男才会去做蓝领，毕竟小黄男彻底失败嘛，哈哈哈哈。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 9709,
+          "like_count": 79,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说起来也惭愧，我妈当年穿着服装厂职工字样的灰色夹克衫来开家长会，开完会后来班里找我说事，我也让她下次别穿了，觉得丢人，让她下次别穿了。\n\n不过在闹钟世界不就是这样嘛，扪心自问一下，这位爸爸在同学聚会的时候，会穿外卖制服去吃饭么？ https://t.co/e1v33qUdT7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "一个捉摸不透的用户，小南的第四个号了，不上网的时候都在学习",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101847047121011065",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1858727254345281536/1774548658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1320,
+          "following_count": 196,
+          "like_count": 8553,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 1498
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-24T09:59:45.000Z",
+        "description": "如有移民问题可以私信，只能力所能及回答。",
+        "id": "1629058457222656001",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101817765577605250",
+        "name": "澳洲护士卡子弟",
+        "pinned_tweet_id": "1791700234860740900",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1629058457222656001/1681452587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1648533563825082369/SW0QqoYh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54064,
+          "following_count": 442,
+          "like_count": 10273,
+          "listed_count": 197,
+          "media_count": 964,
+          "tweet_count": 19157
+        },
+        "url": "",
+        "username": "nursenika1840",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

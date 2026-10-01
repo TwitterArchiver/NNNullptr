@@ -1,0 +1,122 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2098653007114326447",
+    "created_at": "2026-09-12T06:00:42.000Z",
+    "display_text_range": [
+      0,
+      128
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T07:00:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098653007114326447"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2098653007114326447",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "following",
+    "text": "我的旧号已经好久没用了，没想到在那边发东西还有好多人愿意回复我，给我发私信，之前号真的玩太久了，算是我的第二个号，一个号被封的时候记得那个号一天找回了几百个眼熟互关，之前每天玩网的生活实在是太，感觉又开心又创伤，好多朋友都离开了，所以比起接受现实还不如逃避"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2098653007114326447",
+        "created_at": "2026-09-12T06:00:42.000Z",
+        "display_text_range": [
+          0,
+          128
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T07:00:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098653007114326447"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098653007114326447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "我的旧号已经好久没用了，没想到在那边发东西还有好多人愿意回复我，给我发私信，之前号真的玩太久了，算是我的第二个号，一个号被封的时候记得那个号一天找回了几百个眼熟互关，之前每天玩网的生活实在是太，感觉又开心又创伤，好多朋友都离开了，所以比起接受现实还不如逃避"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "捉摸不透的用户，小南的第四个号了，不上网的时候都在学习，请勿打扰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098653007114326447",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1858727254345281536/1774548658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1316,
+          "following_count": 187,
+          "like_count": 7990,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 1406
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

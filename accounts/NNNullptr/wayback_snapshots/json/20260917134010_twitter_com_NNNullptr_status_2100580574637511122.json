@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2100372024673841164",
+    "created_at": "2026-09-17T13:40:10.000Z",
+    "display_text_range": [
+      14,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T14:40:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100580574637511122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1963009659272626178",
+          "start": 0,
+          "username": "cgkchikaidol"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100580574637511122",
+    "in_reply_to_user_id": "1963009659272626178",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100372024673841164",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cgkchikaidol 这种东西发外网是不是有点太普通了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2100372016473985025",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSYFOIIaUAECASc.jpg",
+        "width": 410
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2100372016520200192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSYFOITbgAAP9Fl.jpg",
+        "width": 586
+      },
+      {
+        "height": 1620,
+        "media_key": "3_2100372016524390400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSYFOIUbcAAg1Cw.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2100372016524374018",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSYFOIUbMAIRmZs.jpg",
+        "width": 918
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2100372024673841164",
+        "created_at": "2026-09-17T13:40:10.000Z",
+        "display_text_range": [
+          14,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T14:40:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100580574637511122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1963009659272626178",
+              "start": 0,
+              "username": "cgkchikaidol"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100580574637511122",
+        "in_reply_to_user_id": "1963009659272626178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100372024673841164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cgkchikaidol 这种东西发外网是不是有点太普通了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100372016473985025",
+            "3_2100372016520200192",
+            "3_2100372016524390400",
+            "3_2100372016524374018"
+          ]
+        },
+        "author_id": "1963009659272626178",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2100372024673841164",
+        "created_at": "2026-09-16T23:51:28.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T00:51:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100372024673841164"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LEvxPRdD0c",
+              "end": 93,
+              "expanded_url": "https://x.com/cgkchikaidol/status/2100372024673841164/photo/1",
+              "media_key": "3_2100372016473985025",
+              "start": 70,
+              "url": "https://t.co/LEvxPRdD0c"
+            },
+            {
+              "display_url": "pic.x.com/LEvxPRdD0c",
+              "end": 93,
+              "expanded_url": "https://x.com/cgkchikaidol/status/2100372024673841164/photo/1",
+              "media_key": "3_2100372016520200192",
+              "start": 70,
+              "url": "https://t.co/LEvxPRdD0c"
+            },
+            {
+              "display_url": "pic.x.com/LEvxPRdD0c",
+              "end": 93,
+              "expanded_url": "https://x.com/cgkchikaidol/status/2100372024673841164/photo/1",
+              "media_key": "3_2100372016524390400",
+              "start": 70,
+              "url": "https://t.co/LEvxPRdD0c"
+            },
+            {
+              "display_url": "pic.x.com/LEvxPRdD0c",
+              "end": 93,
+              "expanded_url": "https://x.com/cgkchikaidol/status/2100372024673841164/photo/1",
+              "media_key": "3_2100372016524374018",
+              "start": 70,
+              "url": "https://t.co/LEvxPRdD0c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100372024673841164",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100372016473985025"
+          },
+          {
+            "media_key": "3_2100372016520200192"
+          },
+          {
+            "media_key": "3_2100372016524390400"
+          },
+          {
+            "media_key": "3_2100372016524374018"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2321,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "投稿 ❤️陕新团MoonArc红担发裸照背刺打架互撕当柜子在朋友圈发表不当言论 在清明节给列表发清明节快乐⁉️\n下图为多位匿名人士发送证据 https://t.co/LEvxPRdD0c"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "一个捉摸不透的用户，小南的第四个号了，不上网的时候都在学习",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100580574637511122",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1858727254345281536/1774548658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1320,
+          "following_count": 194,
+          "like_count": 8430,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 1473
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-02T22:43:58.000Z",
+        "description": "中国地下偶像相关揭示板",
+        "id": "1963009659272626178",
+        "is_identity_verified": false,
+        "location": "Japan",
+        "most_recent_tweet_id": "2100372024673841164",
+        "name": "中国地下偶像相关揭示板",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965223853304795136/zL6phnLD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3770,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 4,
+          "media_count": 101,
+          "tweet_count": 142
+        },
+        "url": "",
+        "username": "cgkchikaidol",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

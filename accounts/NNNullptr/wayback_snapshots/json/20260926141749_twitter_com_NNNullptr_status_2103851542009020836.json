@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2103779893570052403",
+    "created_at": "2026-09-26T14:17:49.000Z",
+    "display_text_range": [
+      17,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T15:17:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103851542009020836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1822663743895113728",
+          "start": 0,
+          "username": "keikurosawa0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103851542009020836",
+    "in_reply_to_user_id": "1822663743895113728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103779893570052403",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@keikurosawa0721 很厉害，很敬佩"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2103779880282492928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTIgp6HaEAApzBe.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2103779893570052403",
+        "created_at": "2026-09-26T14:17:49.000Z",
+        "display_text_range": [
+          17,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T15:17:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103851542009020836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1822663743895113728",
+              "start": 0,
+              "username": "keikurosawa0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103851542009020836",
+        "in_reply_to_user_id": "1822663743895113728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103779893570052403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@keikurosawa0721 很厉害，很敬佩"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103779880282492928"
+          ]
+        },
+        "author_id": "1822663743895113728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Global conversation about threats of terrorism, response of governments, and national security  ",
+              "id": "847543836330958848",
+              "name": "Global security & terrorism"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          }
+        ],
+        "conversation_id": "2103779893570052403",
+        "created_at": "2026-09-26T09:33:07.000Z",
+        "display_text_range": [
+          0,
+          133
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T10:33:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103779893570052403"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JAtXjFlmfD",
+              "end": 157,
+              "expanded_url": "https://x.com/keikurosawa0721/status/2103779893570052403/photo/1",
+              "media_key": "3_2103779880282492928",
+              "start": 134,
+              "url": "https://t.co/JAtXjFlmfD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103779893570052403",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103779880282492928"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "看到这个分享一下之前我在国防科大读研时的极端的案例来给大家做个示范：\n国防科大周一到周五出校门需要3层审批请假，而我从一开始就在校外租了房子，几乎没在校内住过，自由的像个野人。\n我是怎么操作的呢？我和我的室友说，我长期在北京出差，偶尔回来办点事，所以我就不住宿舍了。\n而我对导师辅导员们说我日常在学校，跟室友关系不好，经常睡在实验室，实验室不在辅导员管辖，他们无法确认我是不是真的在实验室。而我很确定辅导员不会跟室友们对账，因为室友的性格就是事不关己高高挂起。\n这样室友，老师都默认我守规矩，而事实上我一天假没请过，每天都可以自由在外边玩。\n除此之外我还用烟酒饮料贿赂门卫，潜行：趁门卫不注意跟着前面的人溜出去，用半年时间把学校的门禁系统摸了个透彻，跟着学校外聘老师的车偷渡出门，我有无数种办法从学校溜出去喝酒过夜谈恋爱，每天在出租屋兼职虚拟主播干自媒体。\n在长期违反纪律不假外出的同时我还是学生会的干部，班长，在老师眼里是好好同学。\n我想任何一个大陆学校没有一个管的有国防科大严格吧。被抓到的处分也极其严格。而我直到离校一次都没被抓到过，一次都没有。\n所以学校管的严根本不构成任何阻碍，有能力的人会利用社会工程学，政治学，抽象总结能力畅通无阻，所以弱者抱怨环境，强者利用环境达成自己的目的。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 7899,
+          "like_count": 112,
+          "quote_count": 4,
+          "reply_count": 10,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "看到这个分享一下之前我在国防科大读研时的极端的案例来给大家做个示范：\n国防科大周一到周五出校门需要3层审批请假，而我从一开始就在校外租了房子，几乎没在校内住过，自由的像个野人。\n我是怎么操作的呢？我和我的室友说，我长期在北京出差，偶尔回来办点事，所以我就不住宿舍了。 https://t.co/JAtXjFlmfD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "一个捉摸不透的用户，小南的第四个号了，不上网的时候都在学习",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103851542009020836",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1858727254345281536/1774548658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1318,
+          "following_count": 194,
+          "like_count": 8863,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 1585
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-11T15:58:18.000Z",
+        "description": "模态跃迁开放平台主管/开发者生态负责人，前dify产品工程师；夜莺开放平台主管（manus 前身）；前虚拟主播月流水60k；开发者和 FDE 最好的朋友；AI4Porn；华科本国防科大硕退学；99%手敲推文；24K纯活人；绝不装傻钓鱼；全是真情实感。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/KurosawaGeeker",
+                "end": 23,
+                "expanded_url": "https://github.com/KurosawaGeeker",
+                "start": 0,
+                "url": "https://t.co/rEROn3mlZu"
+              }
+            ]
+          }
+        },
+        "id": "1822663743895113728",
+        "is_identity_verified": false,
+        "location": "Wuhan",
+        "most_recent_tweet_id": "2103845521748299853",
+        "name": "武汉AI王小克",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1822663743895113728/1790341530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103472374616313856/2LtAt7QF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 157,
+          "like_count": 215,
+          "listed_count": 2,
+          "media_count": 56,
+          "tweet_count": 411
+        },
+        "url": "https://t.co/rEROn3mlZu",
+        "username": "keikurosawa0721",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2100450359181201492",
+    "created_at": "2026-09-17T05:02:44.000Z",
+    "display_text_range": [
+      0,
+      135
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T06:02:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100450359181201492"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "4677053179",
+          "start": 3,
+          "username": "Nohomework0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100450359181201492",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100257308966326699",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nohomework0: 诶诶诶？现在的人不会觉得导师这个群体有什么credibility吧？\n\n前面湘雅刚有人跳楼，后续呢？中山大学有学生为导师做实验稀里糊涂得了绝症现在人已经没了，后续呢？\n\n没有credibility的一群人，凭什么不以最大的恶意揣测他们？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2100450359181201492",
+        "created_at": "2026-09-17T05:02:44.000Z",
+        "display_text_range": [
+          0,
+          135
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T06:02:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100450359181201492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "4677053179",
+              "start": 3,
+              "username": "Nohomework0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100450359181201492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100257308966326699",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nohomework0: 诶诶诶？现在的人不会觉得导师这个群体有什么credibility吧？\n\n前面湘雅刚有人跳楼，后续呢？中山大学有学生为导师做实验稀里糊涂得了绝症现在人已经没了，后续呢？\n\n没有credibility的一群人，凭什么不以最大的恶意揣测他们？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4677053179",
+        "conversation_id": "2100257308966326699",
+        "created_at": "2026-09-16T16:15:38.000Z",
+        "display_text_range": [
+          0,
+          118
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T17:15:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100257308966326699"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100257308966326699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2600,
+          "like_count": 62,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "诶诶诶？现在的人不会觉得导师这个群体有什么credibility吧？\n\n前面湘雅刚有人跳楼，后续呢？中山大学有学生为导师做实验稀里糊涂得了绝症现在人已经没了，后续呢？\n\n没有credibility的一群人，凭什么不以最大的恶意揣测他们？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "一个捉摸不透的用户，小南的第四个号了，不上网的时候都在学习",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100450359181201492",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1858727254345281536/1774548658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1318,
+          "following_count": 192,
+          "like_count": 8373,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 1466
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-12-30T07:53:28.000Z",
+        "description": "万年单身但也不要和你在一起/告诉你不为人知的故事/不线下游玩/不加vx/我一点也不可爱/喜欢看樱桃小丸子/只狼，怪猎玩家/独立游戏爱好者/键政人远离，否则block/年糕精灵",
+        "id": "4677053179",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100435985654001881",
+        "name": "双层牛肉汉堡",
+        "pinned_tweet_id": "1277715332564545536",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4677053179/1593285822",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1263655317541236736/CJJovtRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5380,
+          "following_count": 3648,
+          "like_count": 14993,
+          "listed_count": 32,
+          "media_count": 2164,
+          "tweet_count": 30164
+        },
+        "url": "",
+        "username": "Nohomework0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2098038019756368046",
+    "created_at": "2026-09-10T13:16:58.000Z",
+    "display_text_range": [
+      0,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T14:16:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098038019756368046"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NNNullptr/stat…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/NNNullptr/status/2098031014404911318",
+          "start": 33,
+          "url": "https://t.co/JRSbQzhb6O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098038019756368046",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098031014404911318",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是否有人知道谷歌账号登录gpt如何跳过接受验证码，这个我也不知道 https://t.co/JRSbQzhb6O"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2098038019756368046",
+        "created_at": "2026-09-10T13:16:58.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T14:16:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098038019756368046"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NNNullptr/stat…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/NNNullptr/status/2098031014404911318",
+              "start": 33,
+              "url": "https://t.co/JRSbQzhb6O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098038019756368046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098031014404911318",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是否有人知道谷歌账号登录gpt如何跳过接受验证码，这个我也不知道 https://t.co/JRSbQzhb6O"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2098031014404911318",
+        "created_at": "2026-09-10T12:49:08.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T13:49:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098031014404911318"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098031014404911318",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "打数学建模呢，顺手帮我队友搞了个梯子🌚"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "捉摸不透的用户，小南的第四个号了，不上网的时候都在学习，请勿打扰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098038019756368046",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1858727254345281536/1774548658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1313,
+          "following_count": 184,
+          "like_count": 7899,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 1375
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

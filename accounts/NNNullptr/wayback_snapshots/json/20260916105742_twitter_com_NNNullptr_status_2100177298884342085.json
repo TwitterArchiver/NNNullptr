@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2100087537805251027",
+    "created_at": "2026-09-16T10:57:42.000Z",
+    "display_text_range": [
+      23,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T11:57:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100177298884342085"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1426441673454850051",
+          "start": 0,
+          "username": "SUI20BIUBIU"
+        },
+        {
+          "end": 22,
+          "id": "1758864975358001153",
+          "start": 13,
+          "username": "MayDAnhe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100177298884342085",
+    "in_reply_to_user_id": "1426441673454850051",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100135741351231615",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SUI20BIUBIU @MayDAnhe 精品大果"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2100087537805251027",
+        "created_at": "2026-09-16T10:57:42.000Z",
+        "display_text_range": [
+          23,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T11:57:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100177298884342085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1426441673454850051",
+              "start": 0,
+              "username": "SUI20BIUBIU"
+            },
+            {
+              "end": 22,
+              "id": "1758864975358001153",
+              "start": 13,
+              "username": "MayDAnhe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100177298884342085",
+        "in_reply_to_user_id": "1426441673454850051",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100135741351231615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SUI20BIUBIU @MayDAnhe 精品大果"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1426441673454850051",
+        "conversation_id": "2100087537805251027",
+        "created_at": "2026-09-16T08:12:34.000Z",
+        "display_text_range": [
+          10,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T09:12:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100135741351231615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1758864975358001153",
+              "start": 0,
+              "username": "MayDAnhe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100135741351231615",
+        "in_reply_to_user_id": "1758864975358001153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 143,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100087537805251027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MayDAnhe 大果有在天天吃吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "一个捉摸不透的用户，小南的第四个号了，不上网的时候都在学习",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100177298884342085",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1858727254345281536/1774548658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1317,
+          "following_count": 190,
+          "like_count": 8314,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 1458
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-14T07:13:05.000Z",
+        "description": "这里sui 堆废话号不定时掉落照片和摸鱼 喜欢杀戮尖塔和pjsk˚ʚ₍ ᐢ. ̫ .ᐢ ₎ɞ˚",
+        "id": "1426441673454850051",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100137335455404292",
+        "name": "不敢换昵称了",
+        "pinned_tweet_id": "1883480529913430384",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1426441673454850051/1721699038",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782714880266731522/OsyYGqWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3969,
+          "following_count": 659,
+          "like_count": 33858,
+          "listed_count": 15,
+          "media_count": 185,
+          "tweet_count": 4742
+        },
+        "url": "",
+        "username": "SUI20BIUBIU",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-17T14:44:32.000Z",
+        "description": "1m",
+        "id": "1758864975358001153",
+        "is_identity_verified": false,
+        "location": "🚪",
+        "most_recent_tweet_id": "2100087537805251027",
+        "name": "蛋本蛋豆奶",
+        "pinned_tweet_id": "1759277335667220862",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758864975358001153/1715594590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028248443693699072/Z41Rd02s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50029,
+          "following_count": 869,
+          "like_count": 5634,
+          "listed_count": 187,
+          "media_count": 282,
+          "tweet_count": 2601
+        },
+        "url": "",
+        "username": "MayDAnhe",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

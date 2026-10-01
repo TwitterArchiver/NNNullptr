@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2100826295521181774",
+    "created_at": "2026-09-18T21:57:45.000Z",
+    "display_text_range": [
+      19,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T22:57:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101068182702432265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1567061441152450560",
+          "start": 0,
+          "username": "Xe1_N0n"
+        },
+        {
+          "end": 18,
+          "id": "1894375325934784517",
+          "start": 9,
+          "username": "HongSwor"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101068182702432265",
+    "in_reply_to_user_id": "1567061441152450560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100878793720414629",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xe1_N0n @HongSwor 说明当下的痛苦对她来说已经无法承受了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2100826295521181774",
+        "created_at": "2026-09-18T21:57:45.000Z",
+        "display_text_range": [
+          19,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T22:57:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101068182702432265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1567061441152450560",
+              "start": 0,
+              "username": "Xe1_N0n"
+            },
+            {
+              "end": 18,
+              "id": "1894375325934784517",
+              "start": 9,
+              "username": "HongSwor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101068182702432265",
+        "in_reply_to_user_id": "1567061441152450560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100878793720414629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xe1_N0n @HongSwor 说明当下的痛苦对她来说已经无法承受了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567061441152450560",
+        "conversation_id": "2100826295521181774",
+        "created_at": "2026-09-18T09:25:11.000Z",
+        "display_text_range": [
+          10,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T10:25:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100878793720414629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1894375325934784517",
+              "start": 0,
+              "username": "HongSwor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100878793720414629",
+        "in_reply_to_user_id": "1894375325934784517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 242,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100836768815697945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HongSwor 14岁，经历过多少生活，就说生活比死亡还要难？把死看的太轻，把活着看的太重。为什么会导致这样呢。。。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "一个捉摸不透的用户，小南的第四个号了，不上网的时候都在学习",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101068182702432265",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1858727254345281536/1774548658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1320,
+          "following_count": 195,
+          "like_count": 8496,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 1485
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-06T08:05:48.000Z",
+        "description": "A Chemistry Geek | Total Synthesis of Complex Natural Products",
+        "id": "1567061441152450560",
+        "is_identity_verified": false,
+        "location": "CN",
+        "most_recent_tweet_id": "2100878793720414629",
+        "name": "Kenzaki_Kazuma🍥",
+        "pinned_tweet_id": "1834084114460189092",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1567061441152450560/1730537122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869176809121808384/wgakVqI0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1914,
+          "following_count": 747,
+          "like_count": 712,
+          "listed_count": 4,
+          "media_count": 158,
+          "tweet_count": 2384
+        },
+        "url": "",
+        "username": "Xe1_N0n",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T13:14:24.000Z",
+        "description": "你好｜个人特征：MTX/BPD/ADHD/双相 | 主要关注：公共交通/垂直交通/建筑文化/城乡规划/美学/卡迷 | 颜色偏好：绿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "haizi.huhaitai.com/03/121",
+                "end": 23,
+                "expanded_url": "https://haizi.huhaitai.com/03/121",
+                "start": 0,
+                "url": "https://t.co/Y9Zk1gDAaF"
+              }
+            ]
+          }
+        },
+        "id": "1894375325934784517",
+        "is_identity_verified": false,
+        "location": "公元前",
+        "most_recent_tweet_id": "2100946499773288796",
+        "name": "葉栩然",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894375325934784517/1789652485",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099011438476181504/mKkQneHT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 571,
+          "following_count": 489,
+          "like_count": 42707,
+          "listed_count": 2,
+          "media_count": 137,
+          "tweet_count": 10590
+        },
+        "url": "https://t.co/Y9Zk1gDAaF",
+        "username": "HongSwor",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

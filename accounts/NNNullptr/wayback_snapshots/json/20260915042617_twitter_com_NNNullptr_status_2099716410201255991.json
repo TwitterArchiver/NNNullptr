@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2099583121268122042",
+    "created_at": "2026-09-15T04:26:17.000Z",
+    "display_text_range": [
+      11,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T05:26:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099716410201255991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1589833472956301312",
+          "start": 0,
+          "username": "r1ckposts"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099716410201255991",
+    "in_reply_to_user_id": "1589833472956301312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099583121268122042",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@r1ckposts 这种东西要打敏感标签🤮🤮"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2099583121268122042",
+        "created_at": "2026-09-15T04:26:17.000Z",
+        "display_text_range": [
+          11,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T05:26:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099716410201255991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1589833472956301312",
+              "start": 0,
+              "username": "r1ckposts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099716410201255991",
+        "in_reply_to_user_id": "1589833472956301312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099583121268122042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@r1ckposts 这种东西要打敏感标签🤮🤮"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589833472956301312",
+        "conversation_id": "2099583121268122042",
+        "created_at": "2026-09-14T19:36:39.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T20:36:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099583121268122042"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/BennettWaisbre…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/BennettWaisbren/status/2099484560509501700",
+              "start": 52,
+              "url": "https://t.co/mX95ByKFxh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099583121268122042",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 869,
+          "impression_count": 292337,
+          "like_count": 17502,
+          "quote_count": 12,
+          "reply_count": 163,
+          "retweet_count": 1277
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099484560509501700",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "sorry but im actually so concerned for straight men https://t.co/mX95ByKFxh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "一个捉摸不透的用户，小南的第四个号了，不上网的时候都在学习",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099716410201255991",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1858727254345281536/1774548658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1318,
+          "following_count": 189,
+          "like_count": 8190,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 1440
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-08T04:13:39.000Z",
+        "description": "Father of 3 beautiful porklings. Skinny and on a diet.",
+        "id": "1589833472956301312",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099702211643154844",
+        "name": "John Pork's Shady Responses",
+        "pinned_tweet_id": "1985517065038414196",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1589833472956301312/1780685217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062967435473391616/DEgW2zkX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4538,
+          "following_count": 561,
+          "like_count": 55124,
+          "listed_count": 4,
+          "media_count": 4903,
+          "tweet_count": 21999
+        },
+        "url": "",
+        "username": "r1ckposts",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

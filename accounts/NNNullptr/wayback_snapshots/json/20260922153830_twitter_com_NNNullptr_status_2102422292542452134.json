@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2101287125039591496",
+    "created_at": "2026-09-22T15:38:30.000Z",
+    "display_text_range": [
+      14,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T16:38:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102422292542452134"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1574358430877261824",
+          "start": 0,
+          "username": "momoai_daily"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102422292542452134",
+    "in_reply_to_user_id": "1574358430877261824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101287125039591496",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@momoai_daily 光头+宝岛奇兵＞985"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2101287125039591496",
+        "created_at": "2026-09-22T15:38:30.000Z",
+        "display_text_range": [
+          14,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T16:38:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102422292542452134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1574358430877261824",
+              "start": 0,
+              "username": "momoai_daily"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102422292542452134",
+        "in_reply_to_user_id": "1574358430877261824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101287125039591496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@momoai_daily 光头+宝岛奇兵＞985"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1574358430877261824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2101287125039591496",
+        "created_at": "2026-09-19T12:27:45.000Z",
+        "display_text_range": [
+          0,
+          127
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T13:27:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101287125039591496"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101287125039591496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 746,
+          "impression_count": 370303,
+          "like_count": 2257,
+          "quote_count": 25,
+          "reply_count": 385,
+          "retweet_count": 124
+        },
+        "reply_settings": "everyone",
+        "text": "掌握一些人生变轻松的小密码\n雅思 6.5 +电焊＞985\n德语＋美术＞985\n韩语+程序员&gt;985\n日语+影视技术＞985\n印度语+生物学＞985\n缅甸语+解剖学＞985\n墨西哥语+化学＞985\n阿拉伯语+炸药＞985\n长沙师范+图书管理员＞985"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "一个捉摸不透的用户，小南的第四个号了，不上网的时候都在学习",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102422292542452134",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1858727254345281536/1774548658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1319,
+          "following_count": 197,
+          "like_count": 8601,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 1515
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-26T11:21:29.000Z",
+        "description": "🕹️ 04 央企裸辞｜用 AI 重启人生\n🌍 英语专八 · 雅思7.5 · 日语 N2\n💻 持续分享 AI +语言学习干货\nTg 群：https://t.co/SVO7Oyd0nV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoIntelligen…",
+                "end": 90,
+                "expanded_url": "https://t.me/MomoIntelligence",
+                "start": 67,
+                "url": "https://t.co/SVO7Oyd0nV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/momoai_daily",
+                "end": 23,
+                "expanded_url": "https://t.me/momoai_daily",
+                "start": 0,
+                "url": "https://t.co/xD2NWvoOU9"
+              }
+            ]
+          }
+        },
+        "id": "1574358430877261824",
+        "is_identity_verified": false,
+        "location": "浙江杭州",
+        "most_recent_tweet_id": "2102415202558018046",
+        "name": "momoai沫沫🫧",
+        "pinned_tweet_id": "2100493007426298339",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1574358430877261824/1788172359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081237462513246208/6jG6GpFf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4029,
+          "following_count": 1555,
+          "like_count": 4711,
+          "listed_count": 20,
+          "media_count": 275,
+          "tweet_count": 4070
+        },
+        "url": "https://t.co/xD2NWvoOU9",
+        "username": "momoai_daily",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

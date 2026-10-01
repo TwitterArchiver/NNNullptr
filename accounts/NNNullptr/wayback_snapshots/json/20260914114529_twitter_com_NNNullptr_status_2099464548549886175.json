@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2099464548549886175",
+    "created_at": "2026-09-14T11:45:29.000Z",
+    "display_text_range": [
+      0,
+      3
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T12:45:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099464548549886175"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yakshawan/stat…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/yakshawan/status/2099037040000278990",
+          "start": 4,
+          "url": "https://t.co/RmNDDc0mvF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099464548549886175",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099037040000278990",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "变形记 https://t.co/RmNDDc0mvF"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17966,
+        "height": 900,
+        "media_key": "13_2099036207888113664",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2099036207888113664/img/bgt77_kMBNF1FGsY.jpg",
+        "public_metrics": {
+          "view_count": 470746
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099036207888113664/vid/avc1/516x270/1VOVZJDiVFrTjIl1.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099036207888113664/vid/avc1/688x360/prOukPGIYJOyaHTs.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099036207888113664/vid/avc1/1376x720/BfqWabTdtZpPeJAn.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2099036207888113664/pl/0EBFW_mPouIPkmPm.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2099464548549886175",
+        "created_at": "2026-09-14T11:45:29.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T12:45:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099464548549886175"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yakshawan/stat…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/yakshawan/status/2099037040000278990",
+              "start": 4,
+              "url": "https://t.co/RmNDDc0mvF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099464548549886175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099037040000278990",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "变形记 https://t.co/RmNDDc0mvF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2099036207888113664"
+          ]
+        },
+        "author_id": "3242246588",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Open source",
+              "id": "849075430715936768",
+              "name": "Open source"
+            }
+          }
+        ],
+        "conversation_id": "2099037040000278990",
+        "created_at": "2026-09-13T07:26:43.000Z",
+        "display_text_range": [
+          0,
+          129
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T08:26:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099037040000278990"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/phN0JnCxNf",
+              "end": 153,
+              "expanded_url": "https://x.com/yakshawan/status/2099037040000278990/video/1",
+              "media_key": "13_2099036207888113664",
+              "start": 130,
+              "url": "https://t.co/phN0JnCxNf"
+            },
+            {
+              "display_url": "x.com/yakshawan/stat…",
+              "end": 177,
+              "expanded_url": "https://twitter.com/yakshawan/status/2098413419204669909",
+              "start": 154,
+              "url": "https://t.co/lxZfGrNGHG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099037040000278990",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "13_2099036207888113664"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1188,
+          "impression_count": 1666543,
+          "like_count": 4070,
+          "quote_count": 377,
+          "reply_count": 38,
+          "retweet_count": 1150
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098413419204669909",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "초파리 뇌에 미소녀 3D 아바타 달아주기 실험 1일차. 대략 12시간 넘게 훈련했는데 적응할 기미가 전혀 안 보이는군. 😓 학습량이 부족한 건지 국소 최적점에 빠진 건지 잘 모르겠어서 일단 조금씩 조정해 가며 훈련을 계속해볼 생각. https://t.co/phN0JnCxNf https://t.co/lxZfGrNGHG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "捉摸不透的用户，小南的第四个号了，不上网的时候都在学习",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099464548549886175",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1858727254345281536/1774548658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1317,
+          "following_count": 188,
+          "like_count": 8108,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 1424
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-06-11T12:00:14.000Z",
+        "description": "✦ 웹소설 작가/기획자/1인 개발자 #INTP\n✦ 개발한 것들:\n› 집중을 돕는 브라운 노이즈 익스텐션 〈TAKT〉\n› 플리 운영을 위한 음원 마스터링 툴 〈마스터마인드〉\n› AI 미소녀 스크린메이트 〈하루나 온 스크린〉\n› 그외 다수",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 25,
+                "start": 20,
+                "tag": "INTP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "heavyrain39.github.io/portfolio/",
+                "end": 23,
+                "expanded_url": "https://heavyrain39.github.io/portfolio/",
+                "start": 0,
+                "url": "https://t.co/bnZjf12YYn"
+              }
+            ]
+          }
+        },
+        "id": "3242246588",
+        "is_identity_verified": false,
+        "location": "서울",
+        "most_recent_tweet_id": "2099431598081130788",
+        "name": "야차완",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969539622306004995/w4hYGuMH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 307,
+          "like_count": 56300,
+          "listed_count": 5,
+          "media_count": 2777,
+          "tweet_count": 10998
+        },
+        "url": "https://t.co/bnZjf12YYn",
+        "username": "yakshawan",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

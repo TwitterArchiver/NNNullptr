@@ -1,0 +1,388 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2084979654730100736"
+      ],
+      "media_source_tweet_id": [
+        "2084979667359162463"
+      ]
+    },
+    "author_id": "1858727254345281536",
+    "conversation_id": "2097711058022805555",
+    "created_at": "2026-09-09T15:37:44.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T16:37:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097711058022805555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1334510199340748800",
+          "start": 3,
+          "username": "unhinged888"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gwwUbL158Y",
+          "end": 44,
+          "expanded_url": "https://x.com/puritako8/status/2084979667359162463/video/1",
+          "media_key": "13_2084979654730100736",
+          "start": 21,
+          "url": "https://t.co/gwwUbL158Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097711058022805555",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2084979654730100736"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1102
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097645645616251340",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @unhinged888: :\") https://t.co/gwwUbL158Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7000,
+        "height": 720,
+        "media_key": "13_2084979654730100736",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2084979654730100736/img/O8CEvgnMqyIrAY0Z.jpg",
+        "public_metrics": {
+          "view_count": 564248
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084979654730100736/vid/avc1/480x270/ScJxjgXEZYIrgqnk.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084979654730100736/vid/avc1/640x360/jkG7Up5VP_efJoAx.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084979654730100736/vid/avc1/1280x720/uty03Yg-TAv1kz-r.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2084979654730100736/pl/e5KaHqIb3HNadHJo.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2084979654730100736"
+          ],
+          "media_source_tweet_id": [
+            "2084979667359162463"
+          ]
+        },
+        "author_id": "1858727254345281536",
+        "conversation_id": "2097711058022805555",
+        "created_at": "2026-09-09T15:37:44.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T16:37:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097711058022805555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1334510199340748800",
+              "start": 3,
+              "username": "unhinged888"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gwwUbL158Y",
+              "end": 44,
+              "expanded_url": "https://x.com/puritako8/status/2084979667359162463/video/1",
+              "media_key": "13_2084979654730100736",
+              "start": 21,
+              "url": "https://t.co/gwwUbL158Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097711058022805555",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2084979654730100736"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1102
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097645645616251340",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @unhinged888: :\") https://t.co/gwwUbL158Y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2084979654730100736"
+          ],
+          "media_source_tweet_id": [
+            "2084979667359162463"
+          ]
+        },
+        "author_id": "1334510199340748800",
+        "conversation_id": "2097645645616251340",
+        "created_at": "2026-09-09T11:17:48.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T12:17:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097645645616251340"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gwwUbL158Y",
+              "end": 27,
+              "expanded_url": "https://x.com/puritako8/status/2084979667359162463/video/1",
+              "media_key": "13_2084979654730100736",
+              "start": 4,
+              "url": "https://t.co/gwwUbL158Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097645645616251340",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2084979654730100736"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 766,
+          "impression_count": 94981,
+          "like_count": 7526,
+          "quote_count": 15,
+          "reply_count": 0,
+          "retweet_count": 1098
+        },
+        "reply_settings": "following",
+        "text": ":\") https://t.co/gwwUbL158Y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2084979654730100736"
+          ]
+        },
+        "author_id": "1654515421025021952",
+        "conversation_id": "2084979667359162463",
+        "created_at": "2026-08-05T12:27:44.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-05T13:27:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084979667359162463"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fCPoa9qcRc",
+              "end": 28,
+              "expanded_url": "https://x.com/puritako8/status/2084979667359162463/video/1",
+              "media_key": "13_2084979654730100736",
+              "start": 5,
+              "url": "https://t.co/fCPoa9qcRc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084979667359162463",
+        "lang": "und",
+        "media_metadata": [
+          {
+            "media_key": "13_2084979654730100736"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10879,
+          "impression_count": 989247,
+          "like_count": 102429,
+          "quote_count": 218,
+          "reply_count": 0,
+          "retweet_count": 15425
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "☆*。🐇 https://t.co/fCPoa9qcRc"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "捉摸不透的用户，小南的第四个号了，不上网的时候都在学习，请勿打扰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097711058022805555",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1858727254345281536/1774548658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1312,
+          "following_count": 184,
+          "like_count": 7860,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 1366
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-12-03T14:50:10.000Z",
+        "description": "🦋🦋🦋     \n🔻may we all always be protected and having so much power in this resistance\n\nsincere apologies if I make any su1c1d4l tweets or just being a sad ho",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "medium.com/@prizehdWg/",
+                "end": 23,
+                "expanded_url": "https://medium.com/@prizehdWg/",
+                "start": 0,
+                "url": "https://t.co/WTsp8hW4jb"
+              }
+            ]
+          }
+        },
+        "id": "1334510199340748800",
+        "is_identity_verified": false,
+        "location": "mbantulll-mks | 21 | she/they",
+        "most_recent_tweet_id": "2097707819613176143",
+        "name": "pryz 🩷💜💙",
+        "pinned_tweet_id": "2056372464402464859",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1334510199340748800/1760270843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080562645711876096/Uzv1VvTm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 1253,
+          "like_count": 187031,
+          "listed_count": 0,
+          "media_count": 1977,
+          "tweet_count": 44138
+        },
+        "url": "https://t.co/WTsp8hW4jb",
+        "username": "unhinged888",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

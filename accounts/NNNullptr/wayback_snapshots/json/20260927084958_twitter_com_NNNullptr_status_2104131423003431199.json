@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2104043875698655301",
+    "created_at": "2026-09-27T08:49:58.000Z",
+    "display_text_range": [
+      11,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T09:49:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104131423003431199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1747931023277502465",
+          "start": 0,
+          "username": "kami07322"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104131423003431199",
+    "in_reply_to_user_id": "1747931023277502465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104043875698655301",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kami07322 好帅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2104043862830575616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTMQvtvbcAAGusq.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2104043875698655301",
+        "created_at": "2026-09-27T08:49:58.000Z",
+        "display_text_range": [
+          11,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T09:49:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104131423003431199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1747931023277502465",
+              "start": 0,
+              "username": "kami07322"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104131423003431199",
+        "in_reply_to_user_id": "1747931023277502465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104043875698655301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kami07322 好帅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104043862830575616"
+          ]
+        },
+        "author_id": "1747931023277502465",
+        "conversation_id": "2104043875698655301",
+        "created_at": "2026-09-27T03:02:05.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T04:02:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104043875698655301"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9CvaB1HgR5",
+              "end": 25,
+              "expanded_url": "https://x.com/kami07322/status/2104043875698655301/photo/1",
+              "media_key": "3_2104043862830575616",
+              "start": 2,
+              "url": "https://t.co/9CvaB1HgR5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104043875698655301",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2104043862830575616"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 5780,
+          "like_count": 906,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 88
+        },
+        "reply_settings": "everyone",
+        "text": "🩸 https://t.co/9CvaB1HgR5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "一个捉摸不透的用户，小南的第四个号了，不上网的时候都在学习",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104131423003431199",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1858727254345281536/1774548658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1319,
+          "following_count": 195,
+          "like_count": 8885,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 1593
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "偉大的海眠大人，想要消滅人類拯救世界。自我認知神  正在努力偽裝成人類中⋯🚪128 288 688 裡賬 💙@kami2234523💙 最喜歡 💖@skura_ku💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "kami2234523"
+              },
+              {
+                "end": 82,
+                "start": 73,
+                "username": "skura_ku"
+              }
+            ]
+          }
+        },
+        "id": "1747931023277502465",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104043875698655301",
+        "name": "海眠大人🪦",
+        "pinned_tweet_id": "2004383669100945766",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1747931023277502465/1767625354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001036495436832768/V82_B_jq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33242,
+          "following_count": 41,
+          "like_count": 7788,
+          "listed_count": 45,
+          "media_count": 113,
+          "tweet_count": 2066
+        },
+        "url": "",
+        "username": "kami07322",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

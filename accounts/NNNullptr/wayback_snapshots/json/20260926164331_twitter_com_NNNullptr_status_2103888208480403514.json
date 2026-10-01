@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2103816917152870404",
+    "created_at": "2026-09-26T16:43:31.000Z",
+    "display_text_range": [
+      30,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T17:43:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103888208480403514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1069931275698335744",
+          "start": 0,
+          "username": "TponyS_xiaoma"
+        },
+        {
+          "end": 29,
+          "id": "1845000472832376835",
+          "start": 15,
+          "username": "benpaoping666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103888208480403514",
+    "in_reply_to_user_id": "1069931275698335744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103882147769774147",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TponyS_xiaoma @benpaoping666 摩门教本来也算是邪教吧，邪教洗脑就是这样的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2103816917152870404",
+        "created_at": "2026-09-26T16:43:31.000Z",
+        "display_text_range": [
+          30,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T17:43:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103888208480403514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1069931275698335744",
+              "start": 0,
+              "username": "TponyS_xiaoma"
+            },
+            {
+              "end": 29,
+              "id": "1845000472832376835",
+              "start": 15,
+              "username": "benpaoping666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103888208480403514",
+        "in_reply_to_user_id": "1069931275698335744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103882147769774147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TponyS_xiaoma @benpaoping666 摩门教本来也算是邪教吧，邪教洗脑就是这样的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1069931275698335744",
+        "conversation_id": "2103816917152870404",
+        "created_at": "2026-09-26T16:19:26.000Z",
+        "display_text_range": [
+          15,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T17:19:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103882147769774147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1845000472832376835",
+              "start": 0,
+              "username": "benpaoping666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103882147769774147",
+        "in_reply_to_user_id": "1845000472832376835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 741,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103816917152870404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@benpaoping666 能信这个的人脑袋里真的装了大脑吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "一个捉摸不透的用户，小南的第四个号了，不上网的时候都在学习",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103888208480403514",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1858727254345281536/1774548658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1319,
+          "following_count": 195,
+          "like_count": 8866,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 1587
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-12-04T12:27:49.000Z",
+        "description": "",
+        "id": "1069931275698335744",
+        "is_identity_verified": false,
+        "location": "浙江",
+        "most_recent_tweet_id": "2103882147769774147",
+        "name": "TponyS",
+        "pinned_tweet_id": "2072316487369445686",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1069931275698335744/1732101468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055113613850144769/k_Qc-JmY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21296,
+          "following_count": 369,
+          "like_count": 5935,
+          "listed_count": 128,
+          "media_count": 750,
+          "tweet_count": 7114
+        },
+        "url": "",
+        "username": "TponyS_xiaoma",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-12T07:16:50.000Z",
+        "description": "此号发图，发点情感，讲点段子，欢迎投稿欢迎关注我哦，杭州人，大号 @Xiaoyumama9968",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 33,
+                "username": "Xiaoyumama9968"
+              }
+            ]
+          }
+        },
+        "id": "1845000472832376835",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103881274507362512",
+        "name": "奔跑的萍萍",
+        "pinned_tweet_id": "2023056412117815487",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1845000472832376835/1728720588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845015209628532740/oXBljsoJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45654,
+          "following_count": 5,
+          "like_count": 7854,
+          "listed_count": 86,
+          "media_count": 818,
+          "tweet_count": 1738
+        },
+        "url": "",
+        "username": "benpaoping666",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

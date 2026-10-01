@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2104046412602478821",
+    "created_at": "2026-09-28T02:30:12.000Z",
+    "display_text_range": [
+      14,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T03:30:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104398237344186404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1678100718438449152",
+          "start": 0,
+          "username": "jinqianhanji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104398237344186404",
+    "in_reply_to_user_id": "1678100718438449152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104046412602478821",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jinqianhanji 这个才几个评论的时候我就刷到了😂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1674,
+        "media_key": "3_2104046406071918592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTMTDwDaoAAIGsI.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2104046412602478821",
+        "created_at": "2026-09-28T02:30:12.000Z",
+        "display_text_range": [
+          14,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T03:30:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104398237344186404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1678100718438449152",
+              "start": 0,
+              "username": "jinqianhanji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104398237344186404",
+        "in_reply_to_user_id": "1678100718438449152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104046412602478821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jinqianhanji 这个才几个评论的时候我就刷到了😂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104046406071918592"
+          ]
+        },
+        "author_id": "1678100718438449152",
+        "conversation_id": "2104046412602478821",
+        "created_at": "2026-09-27T03:12:10.000Z",
+        "display_text_range": [
+          0,
+          123
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T04:12:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104046412602478821"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7MmLy49n0w",
+              "end": 147,
+              "expanded_url": "https://x.com/jinqianhanji/status/2104046412602478821/photo/1",
+              "media_key": "3_2104046406071918592",
+              "start": 124,
+              "url": "https://t.co/7MmLy49n0w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104046412602478821",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104046406071918592"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1418,
+          "like_count": 46,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "想象一下我是你的tcc男友，网上搜到学校建筑图，拿几个红笔随便画了一下路线，拿上弹弓跟自己朋友中午中秋节吃完饭骑着雅迪电瓶车来到学校开直播准备开杀，结果铁门锁了进不去，还被保安大爷骂了，灰溜溜骑电瓶车跑路下播回家继续吃月饼，沦为直播间几千人的笑柄 https://t.co/7MmLy49n0w"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "一个捉摸不透的用户，小南的第四个号了，不上网的时候都在学习",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104398237344186404",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1858727254345281536/1774548658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1320,
+          "following_count": 194,
+          "like_count": 8954,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 1607
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-09T17:56:24.000Z",
+        "description": "るるじばここび、生活が気持ち",
+        "id": "1678100718438449152",
+        "is_identity_verified": false,
+        "location": "新大東亞共榮圈大中華帝國",
+        "most_recent_tweet_id": "2104362768694702386",
+        "name": "狂気电波精神病",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1678100718438449152/1753966701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099395002032082944/kNlF44OK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 334,
+          "like_count": 6576,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 975
+        },
+        "url": "",
+        "username": "jinqianhanji",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

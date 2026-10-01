@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2104203684150407425",
+    "created_at": "2026-09-27T14:38:53.000Z",
+    "display_text_range": [
+      12,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T15:38:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104219227574165640"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "797439291752378368",
+          "start": 0,
+          "username": "lover_ning"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104219227574165640",
+    "in_reply_to_user_id": "797439291752378368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104203684150407425",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lover_ning 我对碧蓝航线角色印象："
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 171758,
+        "height": 544,
+        "media_key": "13_2104203652860895232",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2104203652860895232/img/XyEyesYdLhmYgLFe.jpg",
+        "public_metrics": {
+          "view_count": 1670
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104203652860895232/vid/avc1/404x270/-xhquNKf4ngv3ksV.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104203652860895232/vid/avc1/540x360/Uj01UlZ29fwqBbwZ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104203652860895232/vid/avc1/816x544/uZhcM77tMd9LL0ya.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2104203652860895232/pl/br_We4WBpjs8zqsm.m3u8"
+          }
+        ],
+        "width": 816
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2104203684150407425",
+        "created_at": "2026-09-27T14:38:53.000Z",
+        "display_text_range": [
+          12,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T15:38:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104219227574165640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "797439291752378368",
+              "start": 0,
+              "username": "lover_ning"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104219227574165640",
+        "in_reply_to_user_id": "797439291752378368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104203684150407425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lover_ning 我对碧蓝航线角色印象："
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2104203652860895232"
+          ]
+        },
+        "author_id": "797439291752378368",
+        "conversation_id": "2104203684150407425",
+        "created_at": "2026-09-27T13:37:07.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T14:37:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104203684150407425"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dd8BRxMcWd",
+              "end": 23,
+              "expanded_url": "https://x.com/lover_ning/status/2104203684150407425/video/1",
+              "media_key": "13_2104203652860895232",
+              "start": 0,
+              "url": "https://t.co/dd8BRxMcWd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104203684150407425",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2104203652860895232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 4202,
+          "like_count": 29,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/dd8BRxMcWd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "一个捉摸不透的用户，小南的第四个号了，不上网的时候都在学习",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104219227574165640",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1858727254345281536/1774548658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1319,
+          "following_count": 195,
+          "like_count": 8922,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 1597
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-11-12T14:01:57.000Z",
+        "description": "本号偏猎奇向，谨慎关注 / 头像是本人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "onion03.vip/?channelid=145…",
+                "end": 23,
+                "expanded_url": "https://onion03.vip?channelid=14532&tid=562324&type=7&system=1",
+                "start": 0,
+                "url": "https://t.co/V6J2FWCXht"
+              }
+            ]
+          }
+        },
+        "id": "797439291752378368",
+        "is_identity_verified": false,
+        "location": "自用VPN👉🏼",
+        "most_recent_tweet_id": "2104203742992330986",
+        "name": "SUZU",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/797439291752378368/1704716447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746648879364501505/tSGXif8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320294,
+          "following_count": 88,
+          "like_count": 32259,
+          "listed_count": 489,
+          "media_count": 3662,
+          "tweet_count": 28719
+        },
+        "url": "https://t.co/V6J2FWCXht",
+        "username": "lover_ning",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

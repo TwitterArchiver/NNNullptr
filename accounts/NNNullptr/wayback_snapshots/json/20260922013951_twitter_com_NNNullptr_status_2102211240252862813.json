@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2102018606401790431",
+    "created_at": "2026-09-22T01:39:51.000Z",
+    "display_text_range": [
+      22,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T02:39:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102211240252862813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2079392064689811456",
+          "start": 0,
+          "username": "girlyh2art"
+        },
+        {
+          "end": 21,
+          "id": "1347596361953263616",
+          "start": 12,
+          "username": "vodkakks"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102211240252862813",
+    "in_reply_to_user_id": "2079392064689811456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102055356889542768",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@girlyh2art @vodkakks 海海吧，广西人用ai装日本人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2102018606401790431",
+        "created_at": "2026-09-22T01:39:51.000Z",
+        "display_text_range": [
+          22,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T02:39:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102211240252862813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2079392064689811456",
+              "start": 0,
+              "username": "girlyh2art"
+            },
+            {
+              "end": 21,
+              "id": "1347596361953263616",
+              "start": 12,
+              "username": "vodkakks"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102211240252862813",
+        "in_reply_to_user_id": "2079392064689811456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102055356889542768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@girlyh2art @vodkakks 海海吧，广西人用ai装日本人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2079392064689811456",
+        "conversation_id": "2102018606401790431",
+        "created_at": "2026-09-21T15:20:26.000Z",
+        "display_text_range": [
+          10,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T16:20:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102055356889542768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1347596361953263616",
+              "start": 0,
+              "username": "vodkakks"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102055356889542768",
+        "in_reply_to_user_id": "1347596361953263616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 473,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102018606401790431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vodkakks 啊？他是AI？我的法"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "一个捉摸不透的用户，小南的第四个号了，不上网的时候都在学习",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102211240252862813",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1858727254345281536/1774548658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1321,
+          "following_count": 197,
+          "like_count": 8579,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 1508
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-21T02:25:30.000Z",
+        "description": "如果你们喜欢看一个人爱胡言乱语。",
+        "id": "2079392064689811456",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102209954115625297",
+        "name": "昨天我的孩子气",
+        "pinned_tweet_id": "2101873655836012992",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2079392064689811456/1789287299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098445794097696768/wR9ODypV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 98,
+          "like_count": 3849,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 1082
+        },
+        "url": "",
+        "username": "girlyh2art",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-01-08T17:29:56.000Z",
+        "description": "im阿卡 只回口令 防炸小号@zlittlepain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "zlittlepain"
+              }
+            ]
+          }
+        },
+        "id": "1347596361953263616",
+        "is_identity_verified": false,
+        "location": "🚪288/520/1314/5200",
+        "most_recent_tweet_id": "2102018606401790431",
+        "name": "Mark of Cain",
+        "pinned_tweet_id": "2007754278417666470",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1347596361953263616/1712444819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015597690479169536/XFm6vSPr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6458,
+          "following_count": 243,
+          "like_count": 476,
+          "listed_count": 3,
+          "media_count": 186,
+          "tweet_count": 741
+        },
+        "url": "",
+        "username": "vodkakks",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

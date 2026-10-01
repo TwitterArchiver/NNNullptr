@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2098680790934827318",
+    "created_at": "2026-09-12T07:51:06.000Z",
+    "display_text_range": [
+      0,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T08:51:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098680790934827318"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/thsottiaux/sta…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/thsottiaux/status/2098612714704891959",
+          "start": 11,
+          "url": "https://t.co/sWC0zyK4qC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098680790934827318",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098612714704891959",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🙀🙀🙀🙀🙀🙀🙀赶紧蹬 https://t.co/sWC0zyK4qC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2098680790934827318",
+        "created_at": "2026-09-12T07:51:06.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T08:51:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098680790934827318"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/thsottiaux/sta…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/thsottiaux/status/2098612714704891959",
+              "start": 11,
+              "url": "https://t.co/sWC0zyK4qC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098680790934827318",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098612714704891959",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🙀🙀🙀🙀🙀🙀🙀赶紧蹬 https://t.co/sWC0zyK4qC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1953337039510003712",
+        "conversation_id": "2098612714704891959",
+        "created_at": "2026-09-12T03:20:36.000Z",
+        "display_text_range": [
+          0,
+          279
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T04:20:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098612714704891959"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098612714704891959",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Hi Astra users. A reset and a quick update on quality issues that have been posted around.\n\nWorking with some of you, we have found and fixed the following issues:\n- Some skills written for previous models were triggering too often or preventing the model from checking its work.\n- An opt-in context management experiment that could cause early stops or replies to older messages. We've disabled it. Our rough estimate is that 4-5k users were affected by this experiment.\n- We've also removed some badly configured engines that resulted in a measured quality degradation for a long tail of traffic flowing through them.\n\nWe’ve also made some more minor improvements and things should feel significantly better across the board. More consistent follow-through, better tracking of your latest message, and better checks on the work as it’s going through the motions.\n\nThe examples posted and all the users who worked directly with us were incredibly useful in helping fix things quickly. Always grateful for this incredible community.\n\nAnd of course, a reset is also landing by midnight today."
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1622,
+          "impression_count": 2148765,
+          "like_count": 18383,
+          "quote_count": 1577,
+          "reply_count": 2907,
+          "retweet_count": 1241
+        },
+        "reply_settings": "everyone",
+        "text": "Hi Astra users. A reset and a quick update on quality issues that have been posted around.\n\nWorking with some of you, we have found and fixed the following issues:\n- Some skills written for previous models were triggering too often or preventing the model from checking its work."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "捉摸不透的用户，小南的第四个号了，不上网的时候都在学习，请勿打扰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098680790934827318",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1858727254345281536/1774548658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1316,
+          "following_count": 187,
+          "like_count": 7994,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 1406
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-07T06:07:07.000Z",
+        "description": "Codex & ChatGPT @OpenAI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 16,
+                "username": "OpenAI"
+              }
+            ]
+          }
+        },
+        "id": "1953337039510003712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098639827084480864",
+        "name": "Tibo",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093807917833281537/2yBgpwVV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 658857,
+          "following_count": 72,
+          "like_count": 9816,
+          "listed_count": 3316,
+          "media_count": 135,
+          "tweet_count": 2942
+        },
+        "url": "",
+        "username": "thsottiaux",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

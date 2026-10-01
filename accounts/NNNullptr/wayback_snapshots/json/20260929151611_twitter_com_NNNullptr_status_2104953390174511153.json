@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2104823812042940713",
+    "created_at": "2026-09-29T15:16:11.000Z",
+    "display_text_range": [
+      12,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T16:16:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104953390174511153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1953337039510003712",
+          "start": 0,
+          "username": "thsottiaux"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104953390174511153",
+    "in_reply_to_user_id": "1953337039510003712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104823812042940713",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@thsottiaux 何意味？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2104823812042940713",
+        "created_at": "2026-09-29T15:16:11.000Z",
+        "display_text_range": [
+          12,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T16:16:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104953390174511153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1953337039510003712",
+              "start": 0,
+              "username": "thsottiaux"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104953390174511153",
+        "in_reply_to_user_id": "1953337039510003712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104823812042940713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thsottiaux 何意味？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1953337039510003712",
+        "conversation_id": "2104823812042940713",
+        "created_at": "2026-09-29T06:41:17.000Z",
+        "display_text_range": [
+          0,
+          280
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T07:41:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104823812042940713"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104823812042940713",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Hi,\n\nTomorrow we are re-opening the Pro $200 subscriptions to new subscribers, but together with it we are also changing how we calculate the usage for it. In effect, if you do the math, it will net out at half the dollar in API spend compared to the old Pro $200 plan. \n\nNow that it's said, let me explain why this is happening and why you will still get more work done than if you were on the Pro $200 subscription one month ago.\n\n(a) We didn't want to compromise in other ways and are committing to not reintroducing the 5h limit, so that you can fully use the weekly usage when you want.\n(b) On the subscription, we guarantee that over time you always get more work done and with an increasing level of quality. This means that you will continue to get more value per dollar spent as a result of models getting more efficient and us passing down the improvements in the form of API price reductions.\n(c) We don't want to put an incentive on ourselves to artificially inflate the API list prices to make it look like you are getting a lot (and workaround it through discounts, etc). Instead we want to continue to both rapidly reduce prices and increase capabilities of models on the API. This week we introduced GPT-6 Sol and GPT-6 Luna at 50% of their previous price. Over time, we see prices go low enough that it makes sense for most to buy usage as needed without there being a significant gap between what you get in a subscription and what you get in the API for a dollar spent.\n(d) Tomorrow, we are adding more things to the subscription that won't draw on the usage, I won't reveal what that is yet.\n\nI wanted to be transparent before all the big announcements tomorrow. Lots of new exciting things are coming to the subscriptions that will make it super compelling, but I wanted to make sure to share this change ahead of time so you can all understand it before we shower you with good news.\n\nCodexingly,\nTibo"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3928,
+          "impression_count": 10760665,
+          "like_count": 19259,
+          "quote_count": 4192,
+          "reply_count": 6522,
+          "retweet_count": 1460
+        },
+        "reply_settings": "everyone",
+        "text": "Hi,\n\nTomorrow we are re-opening the Pro $200 subscriptions to new subscribers, but together with it we are also changing how we calculate the usage for it. In effect, if you do the math, it will net out at half the dollar in API spend compared to the old Pro $200 plan. \n\nNow that"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "一个捉摸不透的用户，小南的第四个号了，不上网的时候都在学习",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104953390174511153",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1858727254345281536/1774548658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1323,
+          "following_count": 193,
+          "like_count": 9042,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 1625
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-07T06:07:07.000Z",
+        "description": "Codex & ChatGPT @OpenAI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 16,
+                "username": "OpenAI"
+              }
+            ]
+          }
+        },
+        "id": "1953337039510003712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104952602710638877",
+        "name": "Tibo",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093807917833281537/2yBgpwVV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 760561,
+          "following_count": 75,
+          "like_count": 9931,
+          "listed_count": 3633,
+          "media_count": 139,
+          "tweet_count": 3060
+        },
+        "url": "",
+        "username": "thsottiaux",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

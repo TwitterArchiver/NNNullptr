@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2098245411714797672",
+    "created_at": "2026-09-11T03:01:04.000Z",
+    "display_text_range": [
+      0,
+      9
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T04:01:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098245411714797672"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ayeejuju/statu…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/ayeejuju/status/2097855375639007351",
+          "start": 10,
+          "url": "https://t.co/UEgNpT3Sth"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098245411714797672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097855375639007351",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我们的注意力完蛋了 https://t.co/UEgNpT3Sth"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4061,
+        "height": 708,
+        "media_key": "13_2097855364129820672",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2097855364129820672/img/5lAuBBsd5ypXQsUv.jpg",
+        "public_metrics": {
+          "view_count": 7029598
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097855364129820672/vid/avc1/450x270/RMxO_-Xxaiow8_6a.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097855364129820672/vid/avc1/600x360/vn7X-voLOqWWqBBd.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097855364129820672/vid/avc1/1180x708/8mq-RC3M8qmjEBEO.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2097855364129820672/pl/p7SDb5zgHAZFbcUg.m3u8"
+          }
+        ],
+        "width": 1180
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2098245411714797672",
+        "created_at": "2026-09-11T03:01:04.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T04:01:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098245411714797672"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ayeejuju/statu…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/ayeejuju/status/2097855375639007351",
+              "start": 10,
+              "url": "https://t.co/UEgNpT3Sth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098245411714797672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097855375639007351",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们的注意力完蛋了 https://t.co/UEgNpT3Sth"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097855364129820672"
+          ]
+        },
+        "author_id": "1538230472299270144",
+        "conversation_id": "2097855375639007351",
+        "created_at": "2026-09-10T01:11:12.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T02:11:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097855375639007351"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R1NxbLHk4o",
+              "end": 42,
+              "expanded_url": "https://x.com/ayeejuju/status/2097855375639007351/video/1",
+              "media_key": "13_2097855364129820672",
+              "start": 19,
+              "url": "https://t.co/R1NxbLHk4o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097855375639007351",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2097855364129820672"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13963,
+          "impression_count": 25658887,
+          "like_count": 177103,
+          "quote_count": 9606,
+          "reply_count": 2121,
+          "retweet_count": 11120
+        },
+        "reply_settings": "everyone",
+        "text": "we are so cooked 😭 https://t.co/R1NxbLHk4o"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "捉摸不透的用户，小南的第四个号了，不上网的时候都在学习，请勿打扰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098245411714797672",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1858727254345281536/1774548658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1315,
+          "following_count": 185,
+          "like_count": 7918,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 1387
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-06-18T18:42:14.000Z",
+        "description": "just a mf tweeting / dm notis for a follow back / sponsored by @roobet",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 63,
+                "username": "roobet"
+              }
+            ]
+          }
+        },
+        "id": "1538230472299270144",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2098201557796008202",
+        "name": "juju 💰",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1538230472299270144/1657858053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1587176262094626816/C2dyZYPs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1648729,
+          "following_count": 954,
+          "like_count": 36403,
+          "listed_count": 3725,
+          "media_count": 8316,
+          "tweet_count": 15082
+        },
+        "url": "",
+        "username": "ayeejuju",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

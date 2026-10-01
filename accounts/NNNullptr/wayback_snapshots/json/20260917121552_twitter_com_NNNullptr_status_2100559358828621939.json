@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2100402210693660677",
+    "created_at": "2026-09-17T12:15:52.000Z",
+    "display_text_range": [
+      12,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T13:15:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100559358828621939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1370373820369018890",
+          "start": 0,
+          "username": "EquityCats"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100559358828621939",
+    "in_reply_to_user_id": "1370373820369018890",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100402210693660677",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EquityCats 😂eguity cat"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 267,
+        "media_key": "3_2100402084642246656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSYgkUyXUAAiEwg.png",
+        "width": 380
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2100402210693660677",
+        "created_at": "2026-09-17T12:15:52.000Z",
+        "display_text_range": [
+          12,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T13:15:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100559358828621939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1370373820369018890",
+              "start": 0,
+              "username": "EquityCats"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100559358828621939",
+        "in_reply_to_user_id": "1370373820369018890",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100402210693660677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EquityCats 😂eguity cat"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100402084642246656"
+          ]
+        },
+        "author_id": "1370373820369018890",
+        "conversation_id": "2100402210693660677",
+        "created_at": "2026-09-17T01:51:25.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T02:51:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100402210693660677"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mc8HFiuM9J",
+              "end": 48,
+              "expanded_url": "https://x.com/EquityCats/status/2100402210693660677/photo/1",
+              "media_key": "3_2100402084642246656",
+              "start": 25,
+              "url": "https://t.co/Mc8HFiuM9J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100402210693660677",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2100402084642246656"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 517,
+          "impression_count": 154114,
+          "like_count": 8886,
+          "quote_count": 11,
+          "reply_count": 53,
+          "retweet_count": 256
+        },
+        "reply_settings": "everyone",
+        "text": "wtf is Codex doing man 😹 https://t.co/Mc8HFiuM9J"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "一个捉摸不透的用户，小南的第四个号了，不上网的时候都在学习",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100559358828621939",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1858727254345281536/1774548658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1320,
+          "following_count": 194,
+          "like_count": 8421,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 1471
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-03-12T13:59:21.000Z",
+        "description": "Realist | Math and Programming | Stochastic Process Enthusiast | Shitco Investigator | 🇩🇰 🇨🇦 🇺🇸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "equitycats.substack.com",
+                "end": 23,
+                "expanded_url": "https://equitycats.substack.com",
+                "start": 0,
+                "url": "https://t.co/sj8iYh5NAW"
+              }
+            ]
+          }
+        },
+        "id": "1370373820369018890",
+        "is_identity_verified": false,
+        "location": "NYC",
+        "most_recent_tweet_id": "2100402210693660677",
+        "name": "Equity Cats",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1370373820369018890/1703366906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990901945050034177/XRv1ql7K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 970,
+          "following_count": 832,
+          "like_count": 56407,
+          "listed_count": 10,
+          "media_count": 662,
+          "tweet_count": 6936
+        },
+        "url": "https://t.co/sj8iYh5NAW",
+        "username": "EquityCats",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,499 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2098818544578490568",
+    "created_at": "2026-09-12T17:31:43.000Z",
+    "display_text_range": [
+      11,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T18:31:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098826907446084087"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1420205241404772352",
+          "start": 0,
+          "username": "yanbo2004"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098826907446084087",
+    "in_reply_to_user_id": "1420205241404772352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098818544578490568",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yanbo2004 怎么回事呀，openai好像没那么严格，怎么能被封这么多"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 782,
+        "media_key": "3_2098818422293569536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSCAPCzaoAAHIrL.jpg",
+        "width": 782
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2098818544578490568",
+        "created_at": "2026-09-12T17:31:43.000Z",
+        "display_text_range": [
+          11,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T18:31:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098826907446084087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1420205241404772352",
+              "start": 0,
+              "username": "yanbo2004"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098826907446084087",
+        "in_reply_to_user_id": "1420205241404772352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098818544578490568",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanbo2004 怎么回事呀，openai好像没那么严格，怎么能被封这么多"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098818422293569536"
+          ]
+        },
+        "author_id": "1420205241404772352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2098818544578490568",
+        "created_at": "2026-09-12T16:58:29.000Z",
+        "display_text_range": [
+          0,
+          94
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T17:58:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098818544578490568"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qDJFpDNAbe",
+              "end": 118,
+              "expanded_url": "https://x.com/yanbo2004/status/2098818544578490568/photo/1",
+              "media_key": "3_2098818422293569536",
+              "start": 95,
+              "url": "https://t.co/qDJFpDNAbe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098818544578490568",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098818422293569536"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 234,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不明白（常凯申音） \n\n你说claude封我也就算了 openai是什么理由封我 \n\n这已经是我被openai封的第四个号了 害的我现在除中转站外只能用grok😭 但是你给我个说法啊倒是 https://t.co/qDJFpDNAbe"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "捉摸不透的用户，小南的第四个号了，不上网的时候都在学习，请勿打扰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098826907446084087",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1858727254345281536/1774548658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1316,
+          "following_count": 187,
+          "like_count": 8020,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 1409
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2071876271307390976/kBmsB0-__bigger.jpg",
+          "description": "Memoh",
+          "url": "https://twitter.com/memoh_ai",
+          "user_id": [
+            "2021509446640562176"
+          ]
+        },
+        "created_at": "2021-07-28T02:11:40.000Z",
+        "description": "21 yo.｜Work in @memoh_ai Building @WorkWorkOrg｜Drop out｜Digital Nomad & Writer & Photoghapher｜Backpacking trip to 21 countries & all of China",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 15,
+                "username": "memoh_ai"
+              },
+              {
+                "end": 46,
+                "start": 34,
+                "username": "WorkWorkOrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yanbowa.ng",
+                "end": 23,
+                "expanded_url": "http://yanbowa.ng",
+                "start": 0,
+                "url": "https://t.co/LIctNgXeI8"
+              }
+            ]
+          }
+        },
+        "id": "1420205241404772352",
+        "is_identity_verified": false,
+        "location": "Remote everywhere, Born in 延边.",
+        "most_recent_tweet_id": "2098818544578490568",
+        "name": "烟波 Yanbo🍡",
+        "pinned_tweet_id": "2096562153151189078",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1420205241404772352/1682784511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058876241566928896/lTiQJnCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6979,
+          "following_count": 1983,
+          "like_count": 121720,
+          "listed_count": 44,
+          "media_count": 3169,
+          "tweet_count": 26049
+        },
+        "url": "https://t.co/LIctNgXeI8",
+        "username": "yanbo2004",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

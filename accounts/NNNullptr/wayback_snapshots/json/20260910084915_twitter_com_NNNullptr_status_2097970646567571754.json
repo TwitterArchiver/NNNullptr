@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1858727254345281536",
+    "conversation_id": "2097879501929935234",
+    "created_at": "2026-09-10T08:49:15.000Z",
+    "display_text_range": [
+      8,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T09:49:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097970646567571754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1085522003895869440",
+          "start": 0,
+          "username": "Yu1Yu0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097970646567571754",
+    "in_reply_to_user_id": "1085522003895869440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097922270782259558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yu1Yu0 😱这么久了还在用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858727254345281536",
+        "conversation_id": "2097879501929935234",
+        "created_at": "2026-09-10T08:49:15.000Z",
+        "display_text_range": [
+          8,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T09:49:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097970646567571754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1085522003895869440",
+              "start": 0,
+              "username": "Yu1Yu0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097970646567571754",
+        "in_reply_to_user_id": "1085522003895869440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097922270782259558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yu1Yu0 😱这么久了还在用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1085522003895869440",
+        "conversation_id": "2097879501929935234",
+        "created_at": "2026-09-10T05:37:01.000Z",
+        "display_text_range": [
+          11,
+          86
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T06:37:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097922270782259558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1858727254345281536",
+              "start": 0,
+              "username": "NNNullptr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097922270782259558",
+        "in_reply_to_user_id": "1858727254345281536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097920735545327934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NNNullptr 那看来还是我更惨一点……只有一台二手水货韩版s20，玻璃已经碎了，亮屏续航只剩下两个多小时，还经常莫名其妙发烫，我好怕它哪天爆炸了……要坚持到28年😭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-19T04:21:36.000Z",
+        "description": "捉摸不透的用户，小南的第四个号了，不上网的时候都在学习，请勿打扰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnmoe.com",
+                "end": 23,
+                "expanded_url": "https://xnmoe.com",
+                "start": 0,
+                "url": "https://t.co/oD12ccH5xE"
+              }
+            ]
+          }
+        },
+        "id": "1858727254345281536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097970646567571754",
+        "name": "🍄NNNullptr",
+        "pinned_tweet_id": "2037231505140036057",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1858727254345281536/1774548658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037230836576399360/UrDr4O-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1313,
+          "following_count": 184,
+          "like_count": 7882,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 1373
+        },
+        "url": "https://t.co/oD12ccH5xE",
+        "username": "NNNullptr",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-01-16T12:59:48.000Z",
+        "description": "社恐自闭NEET想要变得可爱！(*╹▽╹*)/性别什么的才不重要呢/不敢妄称共产主义者，仅仅是个信众/猎奇控，对所有奇怪的xp感兴趣的，后门除外……/是个永远长不大的孩子……但是喜欢色色！",
+        "id": "1085522003895869440",
+        "is_identity_verified": false,
+        "location": "一个无人知晓的小城市，不过这里很漂亮，真的很漂亮",
+        "most_recent_tweet_id": "2097922270782259558",
+        "name": "U1",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1085522003895869440/1660945929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1670818464557305856/QveSusgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 1234,
+          "like_count": 15060,
+          "listed_count": 1,
+          "media_count": 185,
+          "tweet_count": 2703
+        },
+        "url": "",
+        "username": "Yu1Yu0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
